@@ -1,5 +1,5 @@
-owner=QUE
-controller=QUE
+owner=CAN
+controller=CAN
 trade_goods = grain
 life_rating = 30
 terrain = forest
