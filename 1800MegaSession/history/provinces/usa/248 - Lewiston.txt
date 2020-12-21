@@ -1,6 +1,6 @@
-owner=USA
-controller=USA
-add_core=USA
+owner=THI
+controller=THI
+add_core=THI
 trade_goods = timber
 life_rating = 35
 terrain = forest
