@@ -1,4 +1,4 @@
-name = "Converted - 1800MegaSession"
+name = "Victoria 2 - The Cross, The Cresent and the Crowns"
 path = "mod/1800MegaSession"
 user_dir = "1800MegaSession"
 replace = "history/provinces"
