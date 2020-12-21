@@ -1,5 +1,6 @@
-owner=POL
-controller=POL
+owner=X03
+controller=X03
+add_core=PLC
 add_core=POL
 trade_goods = grain
 life_rating = 40

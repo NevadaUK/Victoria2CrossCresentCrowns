@@ -1,6 +1,6 @@
 owner=AUS
 controller=AUS
-add_core=AUS
+add_core=ITA
 add_core=HRE
 trade_goods = grain
 life_rating = 35

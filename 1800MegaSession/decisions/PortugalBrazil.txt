@@ -1,0 +1,21 @@
+political_decisions = {
+	brazil_reconquista = {
+		potential = {
+			tag = POR
+			NOT = {
+				has_country_flag = reconquista_brazil
+			}
+		}
+		allow = {
+			war_with = BRZ
+		}
+		effect = {
+			any_country = {
+			limit = {
+				is_greater_power = YES
+			}
+			country_event = 11101
+		}	
+			set_country_flag = reconquista_brazil
+		}
+	}
