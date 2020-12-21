@@ -22,21 +22,6 @@ guarantee=
 	end_date="1936.1.1"
 }
 
-guarantee=
-{
-	first="RUS"
-	second="SPA"
-	start_date="1735.9.5"
-	end_date="1936.1.1"
-}
-
-guarantee=
-{
-	first="RUS"
-	second="ENG"
-	start_date="1735.10.1"
-	end_date="1936.1.1"
-}
 
 guarantee=
 {
