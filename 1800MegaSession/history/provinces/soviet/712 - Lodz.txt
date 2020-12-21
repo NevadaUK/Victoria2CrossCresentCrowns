@@ -1,6 +1,8 @@
-owner=POL
-controller=POL
+owner=AUS
+controller=AUS
+add_core=PLC
 add_core=POL
+add_core=HRE
 trade_goods = cattle
 life_rating = 35
 terrain = woods
