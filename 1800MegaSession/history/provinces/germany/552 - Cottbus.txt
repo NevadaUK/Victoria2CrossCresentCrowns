@@ -1,5 +1,5 @@
 owner=SAX
-controller=SAX
+controller=REB
 add_core=GER
 add_core=PRU
 add_core=HRE

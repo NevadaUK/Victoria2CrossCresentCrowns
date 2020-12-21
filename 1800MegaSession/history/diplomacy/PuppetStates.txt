@@ -9,7 +9,7 @@ vassal=
 vassal=
 {
 	first="ENG"
-	second="USA"
+	second="THI"
 	start_date="1548.7.2"
 	end_date="1936.1.1"
 }
@@ -41,7 +41,7 @@ vassal=
 vassal=
 {
 	first="AUS"
-	second="POL"
+	second="X03"
 	start_date="1767.11.29"
 	end_date="1936.1.1"
 }

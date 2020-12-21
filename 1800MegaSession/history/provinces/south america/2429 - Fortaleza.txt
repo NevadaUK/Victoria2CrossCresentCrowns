@@ -1,6 +1,6 @@
-owner=CEQ
-controller=CEQ
-add_core=CEQ
+owner=BRZ
+controller=BRZ
+add_core=BRZ
 trade_goods = fruit
 life_rating = 35
 terrain = plains
