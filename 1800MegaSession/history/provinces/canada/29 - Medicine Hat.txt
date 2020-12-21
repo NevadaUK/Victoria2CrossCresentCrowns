@@ -1,5 +1,5 @@
-owner=QUE
-controller=QUE
+owner=CAN
+controller=CAN
 trade_goods = fruit
 life_rating = 35
 terrain = steppe
