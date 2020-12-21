@@ -1,7 +1,7 @@
 owner=TTL
 controller=TTL
 add_core=BRG
-add_core=FRA
+
 trade_goods = dye
 life_rating = 30
 terrain = plains

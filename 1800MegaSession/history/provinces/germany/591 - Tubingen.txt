@@ -1,6 +1,7 @@
 owner=TTL
 controller=TTL
 add_core=GER
+add_core=HRE
 add_core=TTL
 trade_goods = grain
 life_rating = 40

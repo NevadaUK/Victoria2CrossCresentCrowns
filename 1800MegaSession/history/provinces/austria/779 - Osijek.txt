@@ -1,8 +1,6 @@
 owner=AUS
 controller=AUS
 add_core=CRO
-add_core=YUG
-add_core=HRE
 trade_goods = cattle
 life_rating = 35
 terrain = hills

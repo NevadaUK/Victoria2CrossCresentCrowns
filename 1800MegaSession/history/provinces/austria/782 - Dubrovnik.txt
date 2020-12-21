@@ -1,7 +1,6 @@
 owner=AUS
 controller=AUS
-add_core=ITA
-add_core=HRE
+add_core=CRO
 trade_goods = fish
 life_rating = 35
 terrain = plains

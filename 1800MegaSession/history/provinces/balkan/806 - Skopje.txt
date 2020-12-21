@@ -1,7 +1,6 @@
 owner=ALL
 controller=ALL
-add_core=MCD
-add_core=YUG
+add_core=SER
 trade_goods = timber
 life_rating = 35
 terrain = plains

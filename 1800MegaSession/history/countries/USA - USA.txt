@@ -1,4 +1,4 @@
-capital = 220
+capital = 219
 primary_culture = yankee
 culture = zzz_religion_protestant
 religion = protestant

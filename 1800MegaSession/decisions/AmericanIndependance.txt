@@ -1,0 +1,27 @@
+political_decisions = {
+	declaration_of_independence = {
+		potential = {
+			tag = THI
+			NOT = {
+			      year = 1845
+			      has_country_flag = indieventcomplete
+			}
+
+		}
+		allow = {
+			is_vassal = yes
+			prestige = 1
+			ideological_thought = 1
+		}
+		effect = {
+			ENG = {
+				country_event = 230403
+				release_vassal = THI
+			}
+			set_country_flag = indieventcomplete
+			relation = {
+				who = ENG
+				value = -100
+			}
+		}
+	}

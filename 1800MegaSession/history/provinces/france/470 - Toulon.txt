@@ -1,8 +1,8 @@
 owner=PAP
 controller=PAP
-add_core=FRA
-add_core=OCC
-add_core=HRE
+
+add_core=PAP
+add_core=ITA
 trade_goods = silk
 life_rating = 33
 terrain = farmlands

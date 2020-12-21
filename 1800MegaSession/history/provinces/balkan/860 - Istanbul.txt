@@ -2,7 +2,7 @@ owner=ALL
 controller=ALL
 add_core=ALL
 add_core=TUR
-add_core=HRE
+
 trade_goods = fruit
 life_rating = 35
 terrain = plains
