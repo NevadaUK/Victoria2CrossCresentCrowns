@@ -1,6 +1,6 @@
-owner=BRZ
-controller=BRZ
-add_core=BRZ
+owner=CEQ
+controller=CEQ
+add_core=CEQ
 trade_goods = timber
 life_rating = 25
 terrain = jungle

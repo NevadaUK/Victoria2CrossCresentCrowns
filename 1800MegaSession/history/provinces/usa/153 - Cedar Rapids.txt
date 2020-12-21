@@ -1,5 +1,5 @@
-owner=THI
-controller=THI
+owner=USA
+controller=USA
 trade_goods = cattle
 life_rating = 35
 terrain = forest

@@ -2,10 +2,10 @@ capital = 2447
 primary_culture = brazilian
 culture = zzz_religion_catholic
 religion = catholic
-government = presidential_dictatorship
+government = hms_government
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.257115
+literacy = 0
 
 civilized = yes
 
@@ -32,33 +32,19 @@ ruling_party = conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 14
-	conservative = 79
-	reactionary = 7
+	liberal = 25
+	conservative = 65
+	reactionary = 10
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
 # Starting Consciousness
-consciousness = 1.33333
-nonstate_consciousness= 0
+consciousness = 3
+nonstate_consciousness= 1
 
 # Technologies
-ad_hoc_money_bill_printing = 1
-bronze_muzzle_loaded_artillery = 1
-classicism_n_early_romanticism = 1
-early_classical_theory_and_critique = 1
-flintlock_rifles = 1
-freedom_of_trade = 1
-guild_based_production = 1
-late_enlightenment_philosophy = 1
-mechanized_mining = 1
-no_standard = 1
-private_banks = 1
-publishing_industry = 1
-stock_exchange = 1
-water_wheel_power = 1
-prestige=0.00413588
-oob = "CEQ_OOB.txt"
+prestige=0
+oob = "BRZ_OOB.txt"
 set_country_flag = religi

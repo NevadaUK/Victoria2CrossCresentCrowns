@@ -1,6 +1,6 @@
-owner=BRZ
-controller=BRZ
-add_core=BRZ
+owner=CEQ
+controller=CEQ
+add_core=CEQ
 trade_goods = cotton
 life_rating = 35
 terrain = hills
