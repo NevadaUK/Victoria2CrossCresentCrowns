@@ -1,0 +1,30 @@
+country_event = {
+	id = 230403
+	title = "The American Colonies Rebel!"
+	desc = "Text."
+	major = yes
+	trigger = {
+		tag = ENG
+		NOT = {
+			year = 1800
+		}
+		}
+	
+	option = {
+		name = "We must put down this act of insurrection!"
+			  war = {
+				 target = THI
+				 attacker_goal = { 
+					 casus_belli = make_puppet
+				 }
+				 defender_goal = { 
+					 casus_belli = status_quo 
+				 }
+				 call_ally = yes
+		       }
+	        }
+	option = {
+		name = "Let them go, we can not deal with this now."
+			  prestige = -20
+	               }
+}
