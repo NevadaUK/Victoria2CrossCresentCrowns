@@ -427,7 +427,7 @@ leader = {
 #Armies
 army = {
 	name="3rd Army"
-	location=2172
+	location=2173
 	regiment = {
 		name="1st Guaymas Infantry"
 		type=infantry
@@ -455,21 +455,6 @@ army = {
 	}
 	regiment = {
 		name="3rd León Artillery"
-		type=artillery
-		home=2199
-	}
-	regiment = {
-		name="4th León Artillery"
-		type=artillery
-		home=2199
-	}
-	regiment = {
-		name="5th León Artillery"
-		type=artillery
-		home=2199
-	}
-	regiment = {
-		name="6th León Artillery"
 		type=artillery
 		home=2199
 	}
