@@ -1,8 +1,7 @@
 owner=FRA
 controller=FRA
-add_core=BEL
-add_core=WLL
-add_core=HRE
+add_core=FRA
+
 trade_goods = coal
 life_rating = 30
 terrain = plains

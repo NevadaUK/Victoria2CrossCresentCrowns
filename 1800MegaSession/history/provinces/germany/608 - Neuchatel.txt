@@ -1,7 +1,7 @@
 owner=GNV
 controller=GNV
 add_core=GNV
-add_core=SWI
+add_core=GER
 add_core=HRE
 trade_goods = coal
 life_rating = 40

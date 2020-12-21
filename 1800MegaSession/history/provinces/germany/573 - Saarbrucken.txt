@@ -1,6 +1,8 @@
 owner=TTL
 controller=TTL
 add_core=GER
+add_core=TTL
+add_core=HRE
 add_core=TER
 trade_goods = coal
 life_rating = 40

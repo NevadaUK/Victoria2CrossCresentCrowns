@@ -1,7 +1,7 @@
 owner=FRA
 controller=BRG
 add_core=FRA
-add_core=OCC
+
 trade_goods = grain
 life_rating = 31
 terrain = plains

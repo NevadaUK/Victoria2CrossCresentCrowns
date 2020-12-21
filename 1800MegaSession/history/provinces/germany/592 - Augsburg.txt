@@ -1,5 +1,5 @@
 owner=MEM
-controller=X02
+controller=MEM
 add_core=GER
 add_core=MEM
 add_core=HRE

@@ -1,9 +1,7 @@
 owner=HAT
 controller=HAT
-add_core=BEL
 add_core=HAT
-add_core=WLL
-add_core=HRE
+
 trade_goods = coal
 life_rating = 30
 terrain = farmlands
