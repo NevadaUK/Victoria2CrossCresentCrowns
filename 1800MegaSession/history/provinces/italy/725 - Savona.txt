@@ -3,7 +3,7 @@ controller=LOM
 add_core=GEN
 add_core=ITA
 add_core=LOM
-add_core=HRE
+
 trade_goods = fish
 life_rating = 35
 terrain = hills

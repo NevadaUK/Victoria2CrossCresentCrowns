@@ -2,7 +2,7 @@ owner=LOM
 controller=FLO
 add_core=ITA
 add_core=LOM
-add_core=HRE
+
 trade_goods = fruit
 life_rating = 35
 terrain = plains

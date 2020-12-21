@@ -1,8 +1,7 @@
 owner=MAI
-controller=GOS
+controller=MAI
 add_core=GER
 add_core=MAI
-add_core=SAX
 add_core=HRE
 trade_goods = iron
 life_rating = 40

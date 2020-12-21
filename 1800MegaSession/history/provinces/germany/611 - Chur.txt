@@ -1,7 +1,8 @@
 owner=TTL
 controller=TTL
-add_core=SWI
 add_core=TTL
+add_core=HRE
+add_core=GER
 trade_goods = cattle
 life_rating = 40
 terrain = mountain

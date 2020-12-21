@@ -1,9 +1,7 @@
 owner=SVY
 controller=SVY
-add_core=FRA
-add_core=OCC
 add_core=SVY
-add_core=HRE
+
 trade_goods = coal
 life_rating = 30
 terrain = mountain
