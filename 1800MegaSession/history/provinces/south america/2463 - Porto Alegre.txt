@@ -1,0 +1,7 @@
+owner=CEQ
+controller=CEQ
+add_core=CEQ
+trade_goods = cattle
+life_rating = 35
+terrain = hills
+naval_base = 1

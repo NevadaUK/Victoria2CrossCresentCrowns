@@ -1,0 +1,7 @@
+owner=KHO
+controller=KHO
+add_core=KHO
+add_core=PER
+trade_goods = coal
+life_rating = 35
+terrain = hills

@@ -1,0 +1,8 @@
+owner=CHA
+controller=CHA
+add_core=CHA
+add_core=IDO
+add_core=LUA
+trade_goods = tropical_wood
+life_rating = 30
+terrain = jungle

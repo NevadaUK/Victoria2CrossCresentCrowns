@@ -1,0 +1,8 @@
+owner=ASM
+controller=ASM
+add_core=IDO
+add_core=LNA
+add_core=SIA
+trade_goods = opium
+life_rating = 30
+terrain = jungle

@@ -1,0 +1,8 @@
+owner=HLL
+controller=HLL
+add_core=HLL
+add_core=NET
+add_core=HRE
+trade_goods = fish
+life_rating = 35
+terrain = marsh

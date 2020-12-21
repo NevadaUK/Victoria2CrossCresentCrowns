@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+trade_goods = timber
+life_rating = 15
+terrain = forest
+colonial=2

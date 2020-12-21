@@ -1,0 +1,6 @@
+owner=USA
+controller=USA
+trade_goods = fruit
+life_rating = 25
+terrain = marsh
+is_slave = yes

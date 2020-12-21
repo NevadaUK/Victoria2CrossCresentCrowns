@@ -1,0 +1,994 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 88
+	military_access = yes
+	influence_value = 59
+	level = 5
+}
+ALL = {
+	value = -7
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 2
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHI = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -79
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAG = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 125
+	military_access = yes
+	influence_value = 68
+	level = 5
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1746
+	ship = {
+		name="1st Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Latakia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Qusayr Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bahrain Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Palermo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Antioch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Salalah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Darna Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sharm al-Shaykh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Arabian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ghayda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ras Gharib Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Qusayr Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Antioch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Massawa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Massa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Palermo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Massa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Catania Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sidi Barrani Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jaffa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Natuna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Masulipatnam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palembang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ghayda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ghayda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mukalla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Masulipatnam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pontianak Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Misratah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Ghayda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Masulipatnam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Ghayda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Arabian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Shkoder Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Palermo Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="9th Army"
+	location=902
+	regiment = {
+		name="1st Bandar Abbas Irregulars"
+		type=irregular
+		home=1142
+	}
+	regiment = {
+		name="1st Mansura Irregulars"
+		type=irregular
+		home=1748
+	}
+	regiment = {
+		name="2nd Bandar Abbas Irregulars"
+		type=irregular
+		home=1142
+	}
+	regiment = {
+		name="1st Palmyra Artillery"
+		type=artillery
+		home=907
+	}
+	regiment = {
+		name="1st Suwayda Artillery"
+		type=artillery
+		home=906
+	}
+	regiment = {
+		name="2nd Suwayda Artillery"
+		type=artillery
+		home=906
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=895
+	regiment = {
+		name="1st Tabuk Irregulars"
+		type=irregular
+		home=1154
+	}
+	regiment = {
+		name="1st Dumyat Irregulars"
+		type=irregular
+		home=1746
+	}
+	regiment = {
+		name="2nd Dumyat Irregulars"
+		type=irregular
+		home=1746
+	}
+	regiment = {
+		name="1st Qatif Artillery"
+		type=artillery
+		home=1163
+	}
+	regiment = {
+		name="2nd Qatif Artillery"
+		type=artillery
+		home=1163
+	}
+	regiment = {
+		name="1st Gabes Artillery"
+		type=artillery
+		home=1730
+	}
+}
+
+army = {
+	name="Jaish-al Qahirah"
+	location=1305
+	regiment = {
+		name="1st Pontianak Irregulars"
+		type=irregular
+		home=1426
+	}
+	regiment = {
+		name="1st Natuna Irregulars"
+		type=irregular
+		home=2576
+	}
+	regiment = {
+		name="1st Sintang Artillery"
+		type=artillery
+		home=1428
+	}
+	regiment = {
+		name="1st Pontianak Artillery"
+		type=artillery
+		home=1426
+	}
+	regiment = {
+		name="1st Natuna Artillery"
+		type=artillery
+		home=2576
+	}
+	regiment = {
+		name="1st Sintang Irregulars"
+		type=irregular
+		home=1428
+	}
+}
+
+army = {
+	name="Jaish-al Nizwa"
+	location=923
+	regiment = {
+		name="1st Jerash Irregulars"
+		type=irregular
+		home=909
+	}
+	regiment = {
+		name="1st Sur Irregulars"
+		type=irregular
+		home=1171
+	}
+	regiment = {
+		name="2nd Tabuk Irregulars"
+		type=irregular
+		home=1154
+	}
+	regiment = {
+		name="1st Al-Ahsa Artillery"
+		type=artillery
+		home=2586
+	}
+	regiment = {
+		name="2nd Al-Ahsa Artillery"
+		type=artillery
+		home=2586
+	}
+	regiment = {
+		name="1st Salalah Artillery"
+		type=artillery
+		home=1174
+	}
+	regiment = {
+		name="1st Ghayda Artillery"
+		type=artillery
+		home=1175
+	}
+}
+
+army = {
+	name="Jaish-al Rashid"
+	location=1746
+	regiment = {
+		name="1st Bawiti Irregulars"
+		type=irregular
+		home=1759
+	}
+	regiment = {
+		name="1st Aqaba Artillery"
+		type=artillery
+		home=922
+	}
+	regiment = {
+		name="1st Beersheba Artillery"
+		type=artillery
+		home=921
+	}
+	regiment = {
+		name="1st Bani Suwayf Irregulars"
+		type=irregular
+		home=1763
+	}
+}
+
+army = {
+	name="Jaish-al Marib"
+	location=1142
+	regiment = {
+		name="1st Mukalla Irregulars"
+		type=irregular
+		home=1173
+	}
+	regiment = {
+		name="1st Ghayda Irregulars"
+		type=irregular
+		home=1175
+	}
+	regiment = {
+		name="1st Riyadh Artillery"
+		type=artillery
+		home=1157
+	}
+	regiment = {
+		name="1st Cagliari Artillery"
+		type=artillery
+		home=765
+	}
+	regiment = {
+		name="1st Mecca Artillery"
+		type=artillery
+		home=1151
+	}
+	regiment = {
+		name="1st Sana Irregulars"
+		type=irregular
+		home=1178
+	}
+}
+
+army = {
+	name="Jaish-al Hamah"
+	location=897
+	regiment = {
+		name="1st Minya Irregulars"
+		type=irregular
+		home=1764
+	}
+	regiment = {
+		name="1st Alexandria Irregulars"
+		type=irregular
+		home=1751
+	}
+	regiment = {
+		name="1st Palmyra Irregulars"
+		type=irregular
+		home=907
+	}
+	regiment = {
+		name="1st Suhaj Cavalry"
+		type=cavalry
+		home=2559
+	}
+	regiment = {
+		name="1st Kut Artillery"
+		type=artillery
+		home=930
+	}
+	regiment = {
+		name="1st Qina Artillery"
+		type=artillery
+		home=1769
+	}
+	regiment = {
+		name="1st Bandar Abbas Artillery"
+		type=artillery
+		home=1142
+	}
+	regiment = {
+		name="2nd Cagliari Artillery"
+		type=artillery
+		home=765
+	}
+	regiment = {
+		name="3rd Dumyat Irregulars"
+		type=irregular
+		home=1746
+	}
+	regiment = {
+		name="1st Kut Cavalry"
+		type=cavalry
+		home=930
+	}
+	regiment = {
+		name="1st Mut Cavalry"
+		type=cavalry
+		home=1760
+	}
+	regiment = {
+		name="2nd Suhaj Cavalry"
+		type=cavalry
+		home=2559
+	}
+	regiment = {
+		name="1st Sharm al-Shaykh Cavalry"
+		type=cavalry
+		home=1757
+	}
+	regiment = {
+		name="1st Matruh Cavalry"
+		type=cavalry
+		home=1752
+	}
+	regiment = {
+		name="1st Siwa Cavalry"
+		type=cavalry
+		home=1754
+	}
+	regiment = {
+		name="1st Gaza Artillery"
+		type=artillery
+		home=920
+	}
+}
+
+army = {
+	name="Jaish-al Içel"
+	location=894
+	regiment = {
+		name="1st Hayya Irregulars"
+		type=irregular
+		home=1836
+	}
+	regiment = {
+		name="1st Suhaj Irregulars"
+		type=irregular
+		home=2559
+	}
+	regiment = {
+		name="1st Aswan Irregulars"
+		type=irregular
+		home=1766
+	}
+	regiment = {
+		name="1st Minya Artillery"
+		type=artillery
+		home=1764
+	}
+	regiment = {
+		name="3rd Qatif Artillery"
+		type=artillery
+		home=1163
+	}
+}
+
+navy = {
+	name="Istawal-al Lamu"
+	location=2900
+	ship = {
+		name="1st Lamu Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Istawal-al Bosaso"
+	location=2782
+	ship = {
+		name="1st Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Djibuti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Berbera Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Istawal-al Merca"
+	location=3073
+	ship = {
+		name="1st Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hobyo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Istawal-al Masqat"
+	location=2799
+	ship = {
+		name="1st Salalah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dubai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sohar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ghayda Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Istawal-al Cagliari"
+	location=2765
+	ship = {
+		name="1st Latakia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sidon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Askaleh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Suez Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ras Gharib Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Al Arish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gabes Frigate"
+		type=frigate
+	}
+}
+

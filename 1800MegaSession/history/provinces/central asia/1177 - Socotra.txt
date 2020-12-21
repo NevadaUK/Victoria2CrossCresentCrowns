@@ -1,0 +1,7 @@
+owner=HDR
+controller=HDR
+add_core=ARA
+add_core=HDR
+trade_goods = fish
+life_rating = 35
+terrain = plains

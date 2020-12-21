@@ -1,0 +1,655 @@
+1907 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 14617
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 804
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 3216
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 523
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 161
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 1013
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 59953
+	}
+
+}
+1908 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 13399
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 804
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 3216
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 523
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 161
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 1013
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 61171
+	}
+
+}
+1909 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 2671
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 146
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 293
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 11422
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 6492
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 357
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 1722
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 280
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 86
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 482
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 26232
+	}
+
+}
+1910 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 1500
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 3125
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 775
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 61650
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = animist
+		size= 150
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 10000
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 800
+	}
+
+}
+1911 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 725
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 1500
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 27025
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 7000
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 375
+	}
+
+}
+1912 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 275
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 325
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 850
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = animist
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 12825
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 15475
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = animist
+		size= 5425
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 175
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = animist
+		size= 75
+	}
+
+}
+1913 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = animist
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = animist
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 5475
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = animist
+		size= 5250
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = animist
+		size= 100
+	}
+
+}
+1915 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = ewe
+		religion = animist
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = ewe
+		religion = animist
+		size= 725
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = ewe
+		religion = animist
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 9025
+	}
+
+	farmers=
+	{
+		culture = ewe
+		religion = animist
+		size= 11550
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 2000
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = ewe
+		religion = animist
+		size= 200
+	}
+
+}
+1916 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 6325
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 100
+	}
+
+}

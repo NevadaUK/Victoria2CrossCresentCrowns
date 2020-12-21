@@ -1,0 +1,6 @@
+owner=ASM
+controller=ASM
+add_core=HND
+trade_goods = dye
+life_rating = 32
+terrain = jungle

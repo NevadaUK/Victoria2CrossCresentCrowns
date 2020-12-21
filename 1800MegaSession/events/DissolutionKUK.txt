@@ -1,0 +1,921 @@
+country_event = { #Austria-Hungary destroyed
+	id = 452006
+	title = EVTNAME452006
+	desc = EVTDESC452006
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		has_country_flag = dual_monarchy_done
+		tag = KUK
+		war = no
+		exists = HUN
+		AUS = { exists = no }
+		NOT = { is_our_vassal = HUN }
+		has_recently_lost_war = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		clr_country_flag = dual_monarchy_done
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452006
+		all_core = {
+			remove_core = KUK
+		}
+		any_pop = {
+			militancy = 2
+		}
+		remove_accepted_culture = hungarian
+		change_tag = AUS
+	}
+}
+country_event = { #Uniting of Somalia
+	id = 452007
+	title = EVTNAME452007
+	desc = EVTDESC452007
+	picture = "Slaves"
+	
+	trigger = {
+		NOT = { has_country_flag = SOM_formed }
+		SOM = { exists = no }
+		primary_culture = somali
+		SOM = {
+			all_core = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+					is_empty = yes
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		set_country_flag = SOM_formed
+		prestige = 5
+	}
+	option = {
+		name = EVTOPTA452007
+		any_core = {
+			add_core = SOM
+			remove_core = THIS
+		}
+		change_tag = SOM
+	}
+}
+country_event = { #Question of Gypsies
+	id = 452008
+	title = EVTNAME452008
+	desc = EVTDESC452008
+	picture = "Elderly"
+	
+	trigger = {
+		NOT = { exists = GYP }
+		NOT = { has_country_flag = the_gypsy_question }
+		any_owned_province = {
+		any_pop = {
+			has_pop_culture = gypsy
+		}
+		}
+		year = 1840
+	}
+	
+	mean_time_to_happen = {
+		months = 48
+	}
+	
+	immediate = {
+		set_country_flag = the_gypsy_question
+	}
+	option = { #Accepting Gypsies
+		name = EVTOPTA452008
+		add_accepted_culture = gypsy
+		any_pop = {
+			limit = {
+				NOT = { has_pop_culture = gypsy }
+			}
+			militancy = 2
+		}
+		treasury = -10000
+		badboy = -5
+		prestige = -5
+		ai_will_do = {
+			factor = 0.1
+			#modifier = {
+			#	factor = 5
+			#	tag = MKD
+			#}
+			#modifier = {
+			#	factor = 2
+			#	civilized = yes
+			#}
+			#modifier = {
+			#	factor = 2
+			#	OR = {
+			#		ruling_party_ideology = liberal
+			#		ruling_party_ideology = socialist
+			#	}
+			#}
+			#modifier = {
+			#	factor = 5
+			#	OR = {
+			#		NOT = { num_of_cities = 5 }
+			#		NOT = { num_of_states = 2 }
+			#	}
+			#}
+			#modifier = {
+			#	factor = 5
+			#	pop_majority_culture = gypsy
+			#}
+		}
+	}
+	option = { #Refusing Gypsies
+		name = EVTOPTB452008
+		any_pop = {
+			limit = {
+				has_pop_culture = gypsy
+			}
+			militancy = 10
+		}
+		prestige = 5
+		ai_will_do = {
+			factor = 0.9
+			#modifier = {
+			#	factor = 2
+			#	ruling_party_ideology = fascist
+			#}
+			#modifier = {
+			#	factor = 5
+			#	slavery = yes_slavery
+			#}
+			#modifier = {
+			#	factor = 1.5
+			#	NOT = { money = 20000 }
+			#}
+			#modifier = {
+			#	factor = 5
+			#	OR = {
+			#		tag = SPQ
+			#		tag = HRE
+			#		tag = BYZ
+			#		tag = ALI
+			#		tag = UND
+			#		is_cultural_union = yes
+			#	}
+			#}
+		}
+	}
+}
+country_event = { #The Slavic Union
+	id = 452009
+	title = "$COUNTRY$"
+	desc = "$COUNTRY$ managed to unify the three brothers, Lech, Cech, and Rus"
+	picture = "Godunov"
+	major = yes
+	
+	trigger = {
+		NOT = { has_global_flag = SLA_exists }
+		tag = SLA
+		exists = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		set_global_flag = SLA_exists
+		prestige = 5
+	}
+	option = {
+		name = "So may it be."
+		RUS = {
+			any_core = {
+				limit = { NOT = { owned_by = RUS } }
+				add_core = SLA
+				remove_core = RUS
+			}
+		}
+		BYE = {
+			any_core = {
+				limit = { NOT = { owned_by = BYE } }
+				add_core = SLA
+				remove_core = BYE
+			}
+		}
+		UKR = {
+			any_core = {
+				limit = { NOT = { owned_by = UKR } }
+				add_core = SLA
+				remove_core = UKR
+			}
+		}
+		CZH = {
+			any_core = {
+				limit = { NOT = { owned_by = CZH } }
+				add_core = SLA
+				remove_core = CZH
+			}
+		}
+		BOH = {
+			any_core = {
+				limit = { NOT = { owned_by = BOH } }
+				add_core = SLA
+				remove_core = BOH
+			}
+		}
+		SLV = {
+			any_core = {
+				limit = { NOT = { owned_by = SLV } }
+				add_core = SLA
+				remove_core = SLV
+			}
+		}
+		POL = {
+			any_core = {
+				limit = { NOT = { owned_by = POL } }
+				add_core = SLA
+				remove_core = POL
+			}
+		}
+		PLC = {
+			any_core = {
+				limit = { NOT = { owned_by = PLC is_core = LIT } }
+				add_core = SLA
+				remove_core = PLC
+			}
+		}
+		LIT = {
+			any_core = {
+				limit = { NOT = { owned_by = PLC } }
+				remove_core = PLC
+			}
+		}
+		CPL = {
+			any_core = {
+				limit = { NOT = { owned_by = CPL } }
+				add_core = SLA
+				remove_core = CPL
+			}
+		}
+	}
+}
+country_event = { #The Turkish Question
+	id = 452010
+	title = "The Turkish Question"
+	desc = "Since the decline of the Empire of Othman, it is come clear that we are the true country of the Turks"
+	picture = "sultan"
+	
+	trigger = {
+		NOT = { has_global_flag = RUM_best_than_TUR }
+		tag = RUM
+		exists = yes
+		number_of_states = 3
+		NOT = { TUR = { number_of_states = 3 } }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		set_global_flag = RUM_best_than_TUR
+		prestige = 5
+	}
+	option = {
+		name = "So may it be."
+		TUR = {
+			any_core = {
+				limit = { NOT = { owned_by = TUR } }
+				add_core = RUM
+				remove_core = TUR
+			}
+		}
+	}
+}
+country_event = { #Not-so-United Kingdom - England flees
+	id = 452011
+	title = EVTNAME452011
+	desc = EVTDESC452011
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = ENG
+		war = no
+		exists = ENL
+		NOT = { exists = SCO }
+		NOT = { is_our_vassal = ENL }
+		has_recently_lost_war = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452011
+		all_core = {
+			limit = {
+				NOT = {
+					is_core = SCO
+					is_core = ENL
+					is_core = WHA
+				}
+			}
+			remove_core = ENG
+			add_core = SCO
+		}
+		ENL = {
+			all_core = {
+				remove_core = SCO
+			}
+		}
+		IRE = {
+			all_core = {
+				remove_core = SCO
+			}
+		}
+		WHA = {
+			all_core = {
+				remove_core = SCO
+			}
+		}
+		any_pop = {
+			militancy = 2
+		}
+		remove_accepted_culture = english
+		change_tag = SCO
+	}
+}
+country_event = { #Not-so-United Kingdom - Scotland flees
+	id = 452012
+	title = EVTNAME452011
+	desc = EVTDESC452011
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = ENG
+		war = no
+		exists = SCO
+		NOT = { exists = ENL }
+		NOT = { is_our_vassal = SCO }
+		has_recently_lost_war = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452012
+		all_core = {
+			limit = {
+				NOT = {
+					is_core = SCO
+					is_core = ENL
+					is_core = WHA
+				}
+			}
+			remove_core = ENG
+			add_core = ENL
+		}
+		IRE = {
+			all_core = {
+				remove_core = ENL
+			}
+		}
+		WHA = {
+			all_core = {
+				remove_core = ENL
+			}
+		}
+		SCO = {
+			all_core = {
+				remove_core = ENL
+			}
+		}
+		any_pop = {
+			militancy = 2
+		}
+		remove_accepted_culture = scottish
+		change_tag = ENL
+	}
+}
+country_event = { #Austria-Hungary destroyed
+	id = 452013
+	title = EVTNAME452013
+	desc = EVTDESC452013
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = KUK
+		war = no
+		exists = AUS
+		NOT = { exists = HUN }
+		NOT = { is_our_vassal = AUS }
+		has_recently_lost_war = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		clr_country_flag = dual_monarchy_done
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452013
+		all_core = {
+			remove_core = KUK
+		}
+		any_pop = {
+			militancy = 2
+		}
+		remove_accepted_culture = south_german
+		change_tag = HUN
+	}
+}
+country_event = { #PLC destroyed
+	id = 452014
+	title = EVTNAME452014
+	desc = EVTDESC452014
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = PLC
+		war = no
+		exists = LIT
+		NOT = { is_our_vassal = LIT }
+		NOT = { exists = POL }
+		has_recently_lost_war = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452013
+		any_pop = {
+			militancy = 2
+		}
+		remove_accepted_culture = lithuanian
+		change_tag = POL
+	}
+}
+country_event = { #PLC destroyed
+	id = 452015
+	title = EVTNAME452015
+	desc = EVTDESC452015
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = PLC
+		war = no
+		exists = POL
+		NOT = { exists = LIT }
+		NOT = { is_our_vassal = POL }
+		has_recently_lost_war = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452015
+		any_pop = {
+			militancy = 2
+		}
+		remove_accepted_culture = polish
+		change_tag = LIT
+	}
+}
+country_event = { #PLC destroyed
+	id = 452016
+	title = EVTNAME452016
+	desc = EVTDESC452016
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = PLC
+		war = no
+		exists = POL
+		exists = LIT
+		NOT = { is_our_vassal = POL }
+		NOT = { is_our_vassal = LIT }
+		has_recently_lost_war = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452016
+		any_pop = {
+			militancy = 2
+		}
+		PLC = {
+			any_core = {
+				limit = {
+					NOT = { owned_by = POL }
+					NOT = { owned_by = LIT }
+				}
+				add_core = CPL
+			}
+		}
+		change_tag = CPL
+	}
+}
+country_event = { #Austria-Hungary destroyed
+	id = 452017
+	title = EVTNAME452017
+	desc = EVTDESC452017
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = KUK
+		war = no
+		exists = AUS
+		exists = HUN
+		NOT = { is_our_vassal = AUS }
+		NOT = { is_our_vassal = HUN }
+		has_recently_lost_war = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452017
+		any_pop = {
+			militancy = 2
+		}
+		KUK = {
+			any_core = {
+				limit = {
+					NOT = { owned_by = AUS }
+					NOT = { owned_by = HUN }
+				}
+				add_core = DNB
+			}
+		}
+		KUK = { any_core = { remove_core = KUK } }
+		change_tag = DNB
+	}
+}
+country_event = { #Not-so-United Kingdom - Full Brexit
+	id = 452018
+	title = EVTNAME452018
+	desc = EVTDESC452018
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = ENG
+		war = no
+		exists = SCO
+		exists = ENL
+		NOT = { is_our_vassal = SCO }
+		NOT = { is_our_vassal = ENL }
+		has_recently_lost_war = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452018
+		all_core = {
+			limit = {
+				owned_by = ENG
+			}
+			add_core = GBR
+		}
+		any_pop = {
+			militancy = 2
+		}
+		change_tag = GBR
+	}
+}
+# There's only one Saxeling
+country_event = {
+	id = 452019
+	title = EVTNAME452019
+	desc = EVTDESC452019
+	picture = "Demonstration"
+	
+	trigger = {
+		OR = {
+			AND = {
+				tag = COB #Coburg-Gotha
+				NOT = { exists = MEI }
+				NOT = { exists = WEI }
+			}
+			AND = {
+				tag = MEI #Meiningen
+				NOT = { exists = COB }
+				NOT = { exists = WEI }
+			}
+			AND = {
+				tag = WEI #Weimar
+				NOT = { exists = MEI }
+				NOT = { exists = COB }
+			}
+		}
+		NOT = { exists = SAX }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = 10
+	}
+	option = {
+		name = EVTOPTA452019
+		change_tag = SAX
+	}
+}
+# Two Sicilies but it does not own the Two Sicilies
+country_event = {
+	id = 452020
+	title = EVTNAME452020
+	desc = EVTDESC452020
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = SIC
+		OR = {
+			NOT = { owns = 762 } #Palermo
+			exists = SCY
+		}
+		war = no
+		NOT = { is_our_vassal = SCY }
+		has_recently_lost_war = yes
+		NOT = { exists = NAP }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452020
+		any_pop = {
+			militancy = 2
+		}
+		change_tag = NAP
+	}
+}
+
+country_event = {
+	id = 452021
+	title = EVTNAME452021
+	desc = EVTDESC452021
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = SIC
+		OR = {
+			NOT = { owns = 754 } #Naples
+			exists = NAP
+		}
+		war = no
+		NOT = { is_our_vassal = NAP }
+		has_recently_lost_war = yes
+		NOT = { exists = SCY }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452021
+		any_pop = {
+			militancy = 2
+		}
+		change_tag = SCY
+	}
+}
+# Gran Colombia but it lacks Colombia
+country_event = {
+	id = 452022
+	title = EVTNAME452022
+	desc = EVTDESC452022
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = GCO
+		exists = CLM
+		war = no
+		NOT = { is_our_vassal = CLM }
+		has_recently_lost_war = yes
+		NOT = { exists = VNZ }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452022
+		any_pop = {
+			militancy = 2
+		}
+		all_core = {
+			limit = {
+				owned_by = GCO
+			}
+			add_core = VNZ
+		}
+		any_pop = {
+			militancy = 2
+		}
+		change_tag = VNZ
+	}
+}
+country_event = {
+	id = 452023
+	title = EVTNAME452023
+	desc = EVTDESC452023
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = GCO
+		exists = CLM
+		war = no
+		NOT = { is_our_vassal = CLM }
+		has_recently_lost_war = yes
+		exists = VNZ
+		NOT = { exists = ECU }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452023
+		any_pop = {
+			militancy = 2
+		}
+		all_core = {
+			limit = {
+				owned_by = GCO
+			}
+			add_core = ECU
+		}
+		any_pop = {
+			militancy = 2
+		}
+		change_tag = ECU
+	}
+}
+country_event = {
+	id = 452024
+	title = EVTNAME452024
+	desc = EVTDESC452024
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = GCO
+		exists = CLM
+		war = no
+		NOT = { is_our_vassal = CLM }
+		has_recently_lost_war = yes
+		exists = VNZ
+		exists = ECU
+		NOT = { exists = GUY }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452024
+		any_pop = {
+			militancy = 2
+		}
+		all_core = {
+			limit = {
+				owned_by = GCO
+			}
+			add_core = GUY
+		}
+		any_pop = {
+			militancy = 2
+		}
+		change_tag = GUY
+	}
+}
+country_event = {
+	id = 452025
+	title = EVTNAME452025
+	desc = EVTDESC452025
+	picture = "Demonstration"
+	major = yes
+	
+	trigger = {
+		tag = GCO
+		exists = CLM
+		war = no
+		NOT = { is_our_vassal = CLM }
+		has_recently_lost_war = yes
+		exists = VNZ
+		exists = ECU
+		exists = GUY
+		NOT = { exists = MRU }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		prestige = -10
+	}
+	option = {
+		name = EVTOPTA452025
+		any_pop = {
+			militancy = 2
+		}
+		all_core = {
+			limit = {
+				owned_by = GCO
+			}
+			add_core = MRU
+		}
+		any_pop = {
+			militancy = 2
+		}
+		change_tag = MRU
+	}
+}

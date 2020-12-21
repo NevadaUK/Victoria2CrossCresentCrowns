@@ -1,0 +1,6 @@
+owner=ALL
+controller=ALL
+add_core=KDS
+trade_goods = fruit
+life_rating = 35
+terrain = plains

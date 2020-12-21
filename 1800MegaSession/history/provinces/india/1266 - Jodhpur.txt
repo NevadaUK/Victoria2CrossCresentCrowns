@@ -1,0 +1,7 @@
+owner=NEP
+controller=JOD
+add_core=HND
+add_core=MEW
+trade_goods = tea
+life_rating = 32
+terrain = plains

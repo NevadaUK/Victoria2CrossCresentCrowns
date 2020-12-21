@@ -1,0 +1,1447 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ALL = {
+	value = -95
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -31
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHI = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 50
+	level = 3
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = -92
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAG = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+army = {
+	name="2nd Army"
+	location=342
+	regiment = {
+		name="1st Moscow Infantry"
+		type=infantry
+		home=1008
+	}
+	regiment = {
+		name="1st Bryansk Infantry"
+		type=infantry
+		home=1016
+	}
+	regiment = {
+		name="1st Daugavpils Infantry"
+		type=infantry
+		home=356
+	}
+	regiment = {
+		name="1st Daugavpils Artillery"
+		type=artillery
+		home=356
+	}
+	regiment = {
+		name="2nd Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="1st Saratov Artillery"
+		type=artillery
+		home=1037
+	}
+}
+
+army = {
+	name="11th Army"
+	location=998
+	regiment = {
+		name="1st Kotlas Infantry"
+		type=infantry
+		home=990
+	}
+	regiment = {
+		name="1st Yaroslavl Infantry"
+		type=infantry
+		home=1001
+	}
+	regiment = {
+		name="1st Borovichi Infantry"
+		type=infantry
+		home=1005
+	}
+	regiment = {
+		name="1st Vyterga Artillery"
+		type=artillery
+		home=993
+	}
+	regiment = {
+		name="3rd Yaroslavl Infantry"
+		type=infantry
+		home=1001
+	}
+	regiment = {
+		name="2nd Novgorod Artillery"
+		type=artillery
+		home=1003
+	}
+}
+
+army = {
+	name="6th Army"
+	location=945
+	regiment = {
+		name="1st Chernigov Infantry"
+		type=infantry
+		home=962
+	}
+	regiment = {
+		name="1st Orel Infantry"
+		type=infantry
+		home=1017
+	}
+	regiment = {
+		name="1st Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="1st Kaluga Artillery"
+		type=artillery
+		home=1010
+	}
+	regiment = {
+		name="3rd Chernigov Infantry"
+		type=infantry
+		home=962
+	}
+	regiment = {
+		name="1st Slutsk Artillery"
+		type=artillery
+		home=941
+	}
+}
+
+army = {
+	name="Army of Poland"
+	location=2697
+	regiment = {
+		name="2nd Bryansk Infantry"
+		type=infantry
+		home=1016
+	}
+	regiment = {
+		name="2nd Orel Infantry"
+		type=infantry
+		home=1017
+	}
+	regiment = {
+		name="1st Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="1st Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+	regiment = {
+		name="2nd Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+	regiment = {
+		name="3rd Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="Army of the Baltic"
+	location=1015
+	regiment = {
+		name="1st Saratov Infantry"
+		type=infantry
+		home=1037
+	}
+	regiment = {
+		name="2nd Saratov Infantry"
+		type=infantry
+		home=1037
+	}
+	regiment = {
+		name="2nd Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="1st Samara Artillery"
+		type=artillery
+		home=1034
+	}
+	regiment = {
+		name="1st Simbirsk Infantry"
+		type=infantry
+		home=1033
+	}
+	regiment = {
+		name="2nd Orel Artillery"
+		type=artillery
+		home=1017
+	}
+}
+
+army = {
+	name="Army of Ukraine"
+	location=999
+	regiment = {
+		name="1st Vyazma Infantry"
+		type=infantry
+		home=1014
+	}
+	regiment = {
+		name="1st Orsha Infantry"
+		type=infantry
+		home=944
+	}
+	regiment = {
+		name="1st Rzhev Infantry"
+		type=infantry
+		home=999
+	}
+	regiment = {
+		name="1st Novgorod Artillery"
+		type=artillery
+		home=1003
+	}
+	regiment = {
+		name="1st Minsk Artillery"
+		type=artillery
+		home=718
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1036
+	regiment = {
+		name="2nd Rzhev Infantry"
+		type=infantry
+		home=999
+	}
+	regiment = {
+		name="1st Novgorod Infantry"
+		type=infantry
+		home=1003
+	}
+	regiment = {
+		name="2nd Daugavpils Infantry"
+		type=infantry
+		home=356
+	}
+	regiment = {
+		name="1st Jelgava Artillery"
+		type=artillery
+		home=357
+	}
+	regiment = {
+		name="3rd Tver Artillery"
+		type=artillery
+		home=998
+	}
+}
+
+army = {
+	name="13th Army"
+	location=999
+	regiment = {
+		name="1st Peremyshl Infantry"
+		type=infantry
+		home=1015
+	}
+	regiment = {
+		name="1st Mozyr Infantry"
+		type=infantry
+		home=942
+	}
+	regiment = {
+		name="1st Vitebsk Infantry"
+		type=infantry
+		home=945
+	}
+	regiment = {
+		name="1st Orel Artillery"
+		type=artillery
+		home=1017
+	}
+	regiment = {
+		name="2nd Minsk Artillery"
+		type=artillery
+		home=718
+	}
+}
+
+navy = {
+	name="Red Squadron"
+	location=340
+	ship = {
+		name="1st Narva Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Narva Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Narva Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pärnu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Pärnu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Narva Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Luga Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1046
+	regiment = {
+		name="3rd Bryansk Infantry"
+		type=infantry
+		home=1016
+	}
+	regiment = {
+		name="3rd Orel Infantry"
+		type=infantry
+		home=1017
+	}
+	regiment = {
+		name="1st Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+	regiment = {
+		name="2nd Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+	regiment = {
+		name="1st Gomel Artillery"
+		type=artillery
+		home=949
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1054
+	regiment = {
+		name="1st Borodino Infantry"
+		type=infantry
+		home=1009
+	}
+	regiment = {
+		name="4th Orel Infantry"
+		type=infantry
+		home=1017
+	}
+	regiment = {
+		name="2nd Chernigov Infantry"
+		type=infantry
+		home=962
+	}
+	regiment = {
+		name="1st Chernigov Artillery"
+		type=artillery
+		home=962
+	}
+	regiment = {
+		name="1st Vladimir Artillery"
+		type=artillery
+		home=1013
+	}
+}
+
+army = {
+	name="Army of Crimea"
+	location=362
+	regiment = {
+		name="5th Orel Infantry"
+		type=infantry
+		home=1017
+	}
+	regiment = {
+		name="3rd Rzhev Infantry"
+		type=infantry
+		home=999
+	}
+	regiment = {
+		name="2nd Vitebsk Infantry"
+		type=infantry
+		home=945
+	}
+	regiment = {
+		name="1st Belozersk Artillery"
+		type=artillery
+		home=992
+	}
+	regiment = {
+		name="3rd Orel Artillery"
+		type=artillery
+		home=1017
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1079
+	regiment = {
+		name="1st Smolensk Infantry"
+		type=infantry
+		home=943
+	}
+	regiment = {
+		name="4th Rzhev Infantry"
+		type=infantry
+		home=999
+	}
+	regiment = {
+		name="4th Bryansk Infantry"
+		type=infantry
+		home=1016
+	}
+	regiment = {
+		name="1st Tver Artillery"
+		type=artillery
+		home=998
+	}
+	regiment = {
+		name="4th Orel Artillery"
+		type=artillery
+		home=1017
+	}
+}
+
+army = {
+	name="28th Army"
+	location=364
+	regiment = {
+		name="2nd Yaroslavl Infantry"
+		type=infantry
+		home=1001
+	}
+	regiment = {
+		name="1st Luga Infantry"
+		type=infantry
+		home=996
+	}
+	regiment = {
+		name="2nd Luga Infantry"
+		type=infantry
+		home=996
+	}
+	regiment = {
+		name="1st Gdov Artillery"
+		type=artillery
+		home=997
+	}
+	regiment = {
+		name="1st Borodino Artillery"
+		type=artillery
+		home=1009
+	}
+}
+
+army = {
+	name="Army of Siberia"
+	location=350
+	regiment = {
+		name="1st Uglich Infantry"
+		type=infantry
+		home=991
+	}
+	regiment = {
+		name="1st Belozersk Infantry"
+		type=infantry
+		home=992
+	}
+	regiment = {
+		name="1st Staritsa Infantry"
+		type=infantry
+		home=1000
+	}
+	regiment = {
+		name="1st Tikhvin Artillery"
+		type=artillery
+		home=1004
+	}
+	regiment = {
+		name="1st Tula Artillery"
+		type=artillery
+		home=1011
+	}
+}
+
+army = {
+	name="32nd Army"
+	location=2682
+	regiment = {
+		name="2nd Uglich Infantry"
+		type=infantry
+		home=991
+	}
+	regiment = {
+		name="2nd Kotlas Infantry"
+		type=infantry
+		home=990
+	}
+	regiment = {
+		name="1st Vyatkha Infantry"
+		type=infantry
+		home=1028
+	}
+	regiment = {
+		name="1st Kazan Artillery"
+		type=artillery
+		home=1030
+	}
+	regiment = {
+		name="1st Onega Artillery"
+		type=artillery
+		home=2588
+	}
+}
+
+navy = {
+	name="Blue Squadron"
+	location=2776
+	ship = {
+		name="1st Kerch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ekaterinodar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Novorossiysk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rostov Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Simferopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cherson Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ekaterinodar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ekaterinodar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melitopol Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="26th Army"
+	location=1082
+	regiment = {
+		name="3rd Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="1st Tambov Infantry"
+		type=infantry
+		home=1025
+	}
+	regiment = {
+		name="5th Bryansk Infantry"
+		type=infantry
+		home=1016
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+	regiment = {
+		name="1st Borovichi Artillery"
+		type=artillery
+		home=1005
+	}
+}
+
+army = {
+	name="Army of the Ural"
+	location=1083
+	regiment = {
+		name="4th Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="2nd Moscow Infantry"
+		type=infantry
+		home=1008
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Infantry"
+		type=infantry
+		home=1020
+	}
+	regiment = {
+		name="1st Bryansk Artillery"
+		type=artillery
+		home=1016
+	}
+	regiment = {
+		name="5th Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+}
+
+army = {
+	name="Army of Finland"
+	location=1040
+	regiment = {
+		name="1st Kaluga Infantry"
+		type=infantry
+		home=1010
+	}
+	regiment = {
+		name="5th Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="1st Migolinskaya Infantry"
+		type=infantry
+		home=1045
+	}
+	regiment = {
+		name="2nd Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1077
+	regiment = {
+		name="1st Kharkov Infantry"
+		type=infantry
+		home=978
+	}
+	regiment = {
+		name="2nd Migolinskaya Infantry"
+		type=infantry
+		home=1045
+	}
+	regiment = {
+		name="1st Tula Infantry"
+		type=infantry
+		home=1011
+	}
+	regiment = {
+		name="2nd Tver Artillery"
+		type=artillery
+		home=998
+	}
+}
+
+army = {
+	name="33rd Army"
+	location=2606
+	regiment = {
+		name="1st Stavropol Infantry"
+		type=infantry
+		home=1050
+	}
+	regiment = {
+		name="2nd Tambov Infantry"
+		type=infantry
+		home=1025
+	}
+	regiment = {
+		name="2nd Nizhni Novgorod Infantry"
+		type=infantry
+		home=1020
+	}
+	regiment = {
+		name="3rd Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+}
+
+army = {
+	name="57th Army"
+	location=1038
+	regiment = {
+		name="3rd Kotlas Infantry"
+		type=infantry
+		home=990
+	}
+	regiment = {
+		name="1st Galich Infantry"
+		type=infantry
+		home=1024
+	}
+	regiment = {
+		name="4th Kotlas Infantry"
+		type=infantry
+		home=990
+	}
+	regiment = {
+		name="4th Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+}
+
+army = {
+	name="59th Army"
+	location=993
+	regiment = {
+		name="1st Stara Ladoga Infantry"
+		type=infantry
+		home=2580
+	}
+	regiment = {
+		name="2nd Belozersk Infantry"
+		type=infantry
+		home=992
+	}
+	regiment = {
+		name="2nd Staritsa Infantry"
+		type=infantry
+		home=1000
+	}
+	regiment = {
+		name="1st Archangel Artillery"
+		type=artillery
+		home=981
+	}
+}
+
+army = {
+	name="16th Army"
+	location=984
+	regiment = {
+		name="1st Onega Infantry"
+		type=infantry
+		home=2588
+	}
+	regiment = {
+		name="3rd Belozersk Infantry"
+		type=infantry
+		home=992
+	}
+	regiment = {
+		name="1st St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="1st Kostorma Artillery"
+		type=artillery
+		home=1023
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1081
+	regiment = {
+		name="1st Glasov Infantry"
+		type=infantry
+		home=1029
+	}
+	regiment = {
+		name="1st Sarapul Infantry"
+		type=infantry
+		home=1031
+	}
+	regiment = {
+		name="1st Kazan Infantry"
+		type=infantry
+		home=1030
+	}
+	regiment = {
+		name="1st Chelyabinsk Artillery"
+		type=artillery
+		home=1059
+	}
+}
+
+army = {
+	name="44th Army"
+	location=981
+	regiment = {
+		name="5th Kotlas Infantry"
+		type=infantry
+		home=990
+	}
+	regiment = {
+		name="2nd Vyatkha Infantry"
+		type=infantry
+		home=1028
+	}
+	regiment = {
+		name="2nd Galich Infantry"
+		type=infantry
+		home=1024
+	}
+	regiment = {
+		name="1st Viipuri Artillery"
+		type=artillery
+		home=339
+	}
+}
+
+army = {
+	name="Army of the Caucasus"
+	location=2588
+	regiment = {
+		name="1st Vetluga Infantry"
+		type=infantry
+		home=1027
+	}
+	regiment = {
+		name="1st Petrozavorsk Infantry"
+		type=infantry
+		home=995
+	}
+	regiment = {
+		name="1st Kostomushka Infantry"
+		type=infantry
+		home=984
+	}
+	regiment = {
+		name="2nd Kostorma Artillery"
+		type=artillery
+		home=1023
+	}
+}
+
+army = {
+	name="62nd Army"
+	location=1063
+	regiment = {
+		name="1st Perm Infantry"
+		type=infantry
+		home=1026
+	}
+	regiment = {
+		name="3rd Nizhni Novgorod Infantry"
+		type=infantry
+		home=1020
+	}
+	regiment = {
+		name="2nd Glasov Infantry"
+		type=infantry
+		home=1029
+	}
+	regiment = {
+		name="2nd Samara Artillery"
+		type=artillery
+		home=1034
+	}
+}
+
+army = {
+	name="72nd Army"
+	location=1595
+	regiment = {
+		name="2nd Kazan Infantry"
+		type=infantry
+		home=1030
+	}
+	regiment = {
+		name="6th Kotlas Infantry"
+		type=infantry
+		home=990
+	}
+	regiment = {
+		name="3rd Vyatkha Infantry"
+		type=infantry
+		home=1028
+	}
+	regiment = {
+		name="2nd Kazan Artillery"
+		type=artillery
+		home=1030
+	}
+}
+
+army = {
+	name="23rd Army"
+	location=1085
+	regiment = {
+		name="1st Bratsk Infantry"
+		type=infantry
+		home=1076
+	}
+	regiment = {
+		name="1st Vanavara Infantry"
+		type=infantry
+		home=2694
+	}
+	regiment = {
+		name="2nd Bratsk Infantry"
+		type=infantry
+		home=1076
+	}
+	regiment = {
+		name="1st Syasir Artillery"
+		type=artillery
+		home=2620
+	}
+}
+
+army = {
+	name="50th Army"
+	location=1188
+	regiment = {
+		name="1st Amga Infantry"
+		type=infantry
+		home=2669
+	}
+	regiment = {
+		name="1st Chita Infantry"
+		type=infantry
+		home=1078
+	}
+	regiment = {
+		name="1st Mukhtuya Infantry"
+		type=infantry
+		home=2695
+	}
+	regiment = {
+		name="1st Ziryanka Artillery"
+		type=artillery
+		home=2640
+	}
+}
+
+army = {
+	name="82nd Army"
+	location=2617
+	regiment = {
+		name="1st Syasir Infantry"
+		type=infantry
+		home=2620
+	}
+	regiment = {
+		name="1st Talaya Infantry"
+		type=infantry
+		home=2618
+	}
+	regiment = {
+		name="1st Ziryanka Infantry"
+		type=infantry
+		home=2640
+	}
+	regiment = {
+		name="1st Bratsk Artillery"
+		type=artillery
+		home=1076
+	}
+}
+
+army = {
+	name="96th Army"
+	location=1077
+	regiment = {
+		name="2nd Talaya Infantry"
+		type=infantry
+		home=2618
+	}
+	regiment = {
+		name="1st Nyurba Infantry"
+		type=infantry
+		home=2650
+	}
+	regiment = {
+		name="3rd Talaya Infantry"
+		type=infantry
+		home=2618
+	}
+	regiment = {
+		name="1st St Petersburg Artillery"
+		type=artillery
+		home=994
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=3012
+	ship = {
+		name="1st Cordova Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cordova Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2630
+	ship = {
+		name="1st Sitka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sitka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kenai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cordova Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cordova Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sitka Clipper Transport"
+		type=clipper_transport
+	}
+}
+

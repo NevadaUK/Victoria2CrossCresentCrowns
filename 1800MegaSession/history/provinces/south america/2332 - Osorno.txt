@@ -1,0 +1,7 @@
+owner=BUE
+controller=BUE
+add_core=BUE
+trade_goods = grain
+life_rating = 35
+terrain = mountain
+naval_base = 1

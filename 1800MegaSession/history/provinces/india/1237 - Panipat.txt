@@ -1,0 +1,7 @@
+owner=MEW
+controller=NEP
+add_core=HND
+add_core=MEW
+trade_goods = cotton
+life_rating = 32
+terrain = plains

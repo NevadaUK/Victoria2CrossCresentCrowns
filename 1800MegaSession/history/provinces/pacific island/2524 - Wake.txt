@@ -1,0 +1,7 @@
+owner=POR
+controller=POR
+trade_goods = fish
+life_rating = 10
+terrain = plains
+colonial=2
+naval_base = 1

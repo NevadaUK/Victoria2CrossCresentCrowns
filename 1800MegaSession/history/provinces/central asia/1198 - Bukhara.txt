@@ -1,0 +1,7 @@
+owner=KHO
+controller=TRX
+add_core=TKS
+add_core=TRX
+trade_goods = wool
+life_rating = 35
+terrain = steppe

@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=BEL
+add_core=WLL
+trade_goods = fish
+life_rating = 32
+terrain = plains
+naval_base = 1

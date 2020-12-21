@@ -1,0 +1,188 @@
+767 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 6816
+	}
+
+	craftsmen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 17039
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1582
+	}
+
+	clerks=
+	{
+		culture = slovene
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 292
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 255
+	}
+
+	capitalists=
+	{
+		culture = slovene
+		religion = catholic
+		size= 378
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 2044
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 83642
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = catholic
+		size= 1000
+	}
+
+}
+768 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 16411
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1523
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 234
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 246
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 2954
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 88622
+	}
+
+}
+769 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 7648
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 19120
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1776
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 273
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 286
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1721
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 105249
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = catholic
+		size= 500
+	}
+
+}

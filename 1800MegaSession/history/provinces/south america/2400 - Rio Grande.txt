@@ -1,0 +1,5 @@
+owner=BUE
+controller=BUE
+trade_goods = wool
+life_rating = 25
+terrain = hills

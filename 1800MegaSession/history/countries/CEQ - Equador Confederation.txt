@@ -1,0 +1,64 @@
+capital = 2432
+primary_culture = brazilian
+culture = zzz_religion_catholic
+religion = catholic
+government = presidential_dictatorship
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.257115
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=wealth_weighted_voting
+upper_house_composition=appointed
+voting_system=first_past_the_post
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=all_trade_unions
+political_parties=gerrymandering
+
+ruling_party = ARG_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 13
+	conservative = 81
+	reactionary = 6
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 1.33333
+nonstate_consciousness= 0
+
+# Technologies
+ad_hoc_money_bill_printing = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+late_enlightenment_philosophy = 1
+mechanized_mining = 1
+no_standard = 1
+private_banks = 1
+publishing_industry = 1
+stock_exchange = 1
+water_wheel_power = 1
+prestige=0.00413588
+oob = "CEQ_OOB.txt"
+set_country_flag = religi

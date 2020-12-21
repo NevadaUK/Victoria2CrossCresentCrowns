@@ -1,0 +1,6 @@
+owner=MEX
+controller=MEX
+trade_goods = fruit
+life_rating = 35
+terrain = mountain
+colonial=2

@@ -1,0 +1,8 @@
+owner=HAT
+controller=HAT
+add_core=HAT
+add_core=NET
+add_core=HRE
+trade_goods = cattle
+life_rating = 35
+terrain = farmlands

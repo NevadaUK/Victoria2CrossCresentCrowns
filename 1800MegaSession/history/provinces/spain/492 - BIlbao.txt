@@ -1,0 +1,13 @@
+owner=SPA
+controller=SPA
+add_core=BSQ
+add_core=SPA
+trade_goods = iron
+life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = winery
+	upgrade = yes
+}

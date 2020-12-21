@@ -1,0 +1,153 @@
+2129 = {
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 280
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 1120
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 56
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 26101
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 280
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 1120
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 56
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 26101
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 280
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 1120
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 56
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 26101
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+trade_goods = grain
+life_rating = 35
+terrain = hills
+colonial=2

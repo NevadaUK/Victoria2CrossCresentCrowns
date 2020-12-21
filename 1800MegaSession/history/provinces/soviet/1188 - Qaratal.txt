@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=KHA
+add_core=MGL
+trade_goods = fish
+life_rating = 25
+terrain = steppe
+colonial=2

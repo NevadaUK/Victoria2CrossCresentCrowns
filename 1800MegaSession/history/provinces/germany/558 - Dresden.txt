@@ -1,0 +1,15 @@
+owner=SAX
+controller=SAX
+add_core=GER
+add_core=PRU
+add_core=SAX
+trade_goods = coal
+life_rating = 40
+terrain = woods
+fort = 1
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

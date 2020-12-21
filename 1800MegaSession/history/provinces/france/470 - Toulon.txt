@@ -1,0 +1,9 @@
+owner=PAP
+controller=PAP
+add_core=FRA
+add_core=OCC
+add_core=HRE
+trade_goods = silk
+life_rating = 33
+terrain = farmlands
+naval_base = 1

@@ -1,0 +1,6 @@
+owner=TRX
+controller=TRX
+add_core=TKS
+trade_goods = wool
+life_rating = 35
+terrain = mountain

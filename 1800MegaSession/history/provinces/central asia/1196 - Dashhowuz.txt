@@ -1,0 +1,7 @@
+owner=KHO
+controller=KHO
+add_core=KHO
+add_core=TKS
+trade_goods = wool
+life_rating = 35
+terrain = plains

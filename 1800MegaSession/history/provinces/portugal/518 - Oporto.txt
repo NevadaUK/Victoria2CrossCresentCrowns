@@ -1,0 +1,13 @@
+owner=POR
+controller=REB
+add_core=POR
+trade_goods = fruit
+life_rating = 35
+terrain = hills
+naval_base = 2
+state_building=
+{
+	level=1
+	building = lumber_mill
+	upgrade = yes
+}

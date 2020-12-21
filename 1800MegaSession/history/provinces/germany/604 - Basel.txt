@@ -1,0 +1,8 @@
+owner=TTL
+controller=TTL
+add_core=SWI
+add_core=TTL
+add_core=HRE
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

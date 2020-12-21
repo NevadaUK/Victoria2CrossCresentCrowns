@@ -1,0 +1,6 @@
+owner=MNG
+controller=MNG
+add_core=CHI
+trade_goods = coal
+life_rating = 32
+terrain = hills

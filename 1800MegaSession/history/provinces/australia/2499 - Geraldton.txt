@@ -1,0 +1,7 @@
+owner=NZL
+controller=NZL
+add_core=NZL
+trade_goods = grain
+life_rating = 30
+terrain = hills
+naval_base = 1

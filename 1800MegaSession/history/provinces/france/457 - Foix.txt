@@ -1,0 +1,13 @@
+owner=SPA
+controller=SPA
+add_core=FRA
+add_core=OCC
+trade_goods = grain
+life_rating = 33
+terrain = mountain
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

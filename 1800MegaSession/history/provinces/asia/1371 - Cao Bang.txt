@@ -1,0 +1,7 @@
+owner=LNA
+controller=LNA
+add_core=CHI
+add_core=LNA
+trade_goods = grain
+life_rating = 30
+terrain = mountain

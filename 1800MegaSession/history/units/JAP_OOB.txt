@@ -1,0 +1,794 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ALL = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHI = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAG = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+navy = {
+	name="Hosokawa Suigun"
+	location=1661
+	ship = {
+		name="1st Nara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Nara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fukui Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Nara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kagoshima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Shizuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Akita Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Shizuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chongjin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Shizuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tokushima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Shizuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Shizuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Shizuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Shizuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Shizuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Toyama Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mito Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Nara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Shizuoka Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Shimousa Suigun"
+	location=2827
+	ship = {
+		name="1st Nara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Nara Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Jizhou Gun"
+	location=1670
+	regiment = {
+		name="1st Fukui Irregulars"
+		type=irregular
+		home=1647
+	}
+	regiment = {
+		name="1st Nara Irregulars"
+		type=irregular
+		home=1658
+	}
+	regiment = {
+		name="1st Tokushima Artillery"
+		type=artillery
+		home=1667
+	}
+	regiment = {
+		name="1st Nara Artillery"
+		type=artillery
+		home=1658
+	}
+	regiment = {
+		name="3rd Fukui Irregulars"
+		type=irregular
+		home=1647
+	}
+}
+
+army = {
+	name="Imperial Army"
+	location=1655
+	regiment = {
+		name="1st Okayama Irregulars"
+		type=irregular
+		home=1639
+	}
+	regiment = {
+		name="1st Kyoto Irregulars"
+		type=irregular
+		home=1657
+	}
+	regiment = {
+		name="2nd Kyoto Irregulars"
+		type=irregular
+		home=1657
+	}
+	regiment = {
+		name="1st Hiroshima Artillery"
+		type=artillery
+		home=1638
+	}
+	regiment = {
+		name="2nd Nara Artillery"
+		type=artillery
+		home=1658
+	}
+	regiment = {
+		name="5th Kyoto Irregulars"
+		type=irregular
+		home=1657
+	}
+	regiment = {
+		name="1st Fukui Artillery"
+		type=artillery
+		home=1647
+	}
+}
+
+army = {
+	name="Hizen Zei"
+	location=1660
+	regiment = {
+		name="2nd Nara Irregulars"
+		type=irregular
+		home=1658
+	}
+	regiment = {
+		name="3rd Kyoto Irregulars"
+		type=irregular
+		home=1657
+	}
+	regiment = {
+		name="4th Kyoto Irregulars"
+		type=irregular
+		home=1657
+	}
+	regiment = {
+		name="3rd Nara Artillery"
+		type=artillery
+		home=1658
+	}
+	regiment = {
+		name="1st Kobe Artillery"
+		type=artillery
+		home=1659
+	}
+	regiment = {
+		name="2nd Fukui Irregulars"
+		type=irregular
+		home=1647
+	}
+	regiment = {
+		name="1st Wakayama Artillery"
+		type=artillery
+		home=1656
+	}
+}
+
+navy = {
+	name="Chikuzen Suigun"
+	location=2829
+	ship = {
+		name="9th Shizuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chiba Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Owari Suigun"
+	location=1675
+	ship = {
+		name="1st Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Haeju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Nara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kyoto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Nara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Japanese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Nara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chonchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kanazawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2827
+	ship = {
+		name="1st Nemuru Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Nara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hakodate Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hakodate Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Nara Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1644
+	ship = {
+		name="2nd Haeju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hakodate Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nemuru Clipper Transport"
+		type=clipper_transport
+	}
+}
+

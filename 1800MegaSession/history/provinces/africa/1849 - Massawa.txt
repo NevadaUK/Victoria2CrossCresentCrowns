@@ -1,0 +1,6 @@
+owner=MED
+controller=MED
+add_core=MED
+trade_goods = fruit
+life_rating = 35
+terrain = plains

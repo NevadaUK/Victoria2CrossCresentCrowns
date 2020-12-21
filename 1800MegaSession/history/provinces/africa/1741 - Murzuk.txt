@@ -1,0 +1,5 @@
+owner=DAR
+controller=DAR
+trade_goods = fruit
+life_rating = 25
+terrain = desert

@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=KAZ
+trade_goods = coal
+life_rating = 25
+terrain = steppe
+colonial=2

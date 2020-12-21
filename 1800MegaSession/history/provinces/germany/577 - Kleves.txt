@@ -1,0 +1,7 @@
+owner=HAT
+controller=HAT
+add_core=GER
+add_core=HRE
+trade_goods = coal
+life_rating = 40
+terrain = farmlands

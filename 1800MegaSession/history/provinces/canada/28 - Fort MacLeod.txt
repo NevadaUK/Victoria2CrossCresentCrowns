@@ -1,0 +1,6 @@
+owner=QUE
+controller=QUE
+trade_goods = iron
+life_rating = 35
+terrain = mountain
+colonial=2

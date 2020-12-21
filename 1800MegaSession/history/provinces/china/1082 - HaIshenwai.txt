@@ -1,0 +1,9 @@
+owner=RUS
+controller=RUS
+add_core=CHI
+add_core=MCK
+trade_goods = coal
+life_rating = 32
+terrain = hills
+colonial=2
+naval_base = 1

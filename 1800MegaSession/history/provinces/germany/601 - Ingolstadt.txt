@@ -1,0 +1,7 @@
+owner=X02
+controller=X02
+add_core=GER
+add_core=TTL
+trade_goods = grain
+life_rating = 40
+terrain = farmlands

@@ -1,0 +1,325 @@
+1887 = {
+	slaves=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 946
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 597
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 8358
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 388
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 119
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 501
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 48714
+	}
+
+}
+1888 = {
+	soldiers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 472
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 24
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 11005
+	}
+
+}
+1889 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 475
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1250
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 22775
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 5475
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+}
+1890 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 10025
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 20025
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 225
+	}
+
+}
+1891 = {
+	aristocrats=
+	{
+		culture = kru
+		religion = animist
+		size= 425
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = kru
+		religion = animist
+		size= 1150
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = kru
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 20975
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 17300
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 200
+	}
+
+}

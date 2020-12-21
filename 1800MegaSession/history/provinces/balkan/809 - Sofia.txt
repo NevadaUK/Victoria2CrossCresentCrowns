@@ -1,0 +1,6 @@
+owner=ALL
+controller=ALL
+add_core=BUL
+trade_goods = timber
+life_rating = 35
+terrain = hills

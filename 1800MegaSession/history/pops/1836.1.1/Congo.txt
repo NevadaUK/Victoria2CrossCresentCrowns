@@ -1,0 +1,206 @@
+1977 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 7225
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 100
+	}
+
+}
+1978 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 2650
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 50
+	}
+
+}
+1980 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 6375
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+}
+1981 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 7300
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+}
+2624 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 5350
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 100
+	}
+
+}

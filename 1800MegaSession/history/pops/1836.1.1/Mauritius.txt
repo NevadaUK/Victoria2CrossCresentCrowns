@@ -1,0 +1,102 @@
+2125 = {
+	soldiers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 634
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 8878
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 412
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 127
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 533
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 52747
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 482
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 11240
+	}
+
+}

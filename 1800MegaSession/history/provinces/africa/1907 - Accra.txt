@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+trade_goods = cattle
+life_rating = 15
+terrain = plains
+colonial=2
+fort = 1

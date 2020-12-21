@@ -1,0 +1,55 @@
+capital = 220
+primary_culture = yankee
+culture = zzz_religion_protestant
+religion = protestant
+government = presidential_dictatorship
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.326515
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=no_slavery
+vote_franschise=wealth_weighted_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=all_trade_unions
+political_parties=gerrymandering
+
+ruling_party = USA_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 12
+	conservative = 83
+	reactionary = 5
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 1.66667
+nonstate_consciousness= 0
+
+# Technologies
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+flintlock_rifles = 1
+late_enlightenment_philosophy = 1
+water_wheel_power = 1
+prestige=0.7178
+oob = "USA_OOB.txt"
+set_country_flag = religi

@@ -1,0 +1,15 @@
+owner=HAT
+controller=HAT
+add_core=BEL
+add_core=HAT
+add_core=WLL
+add_core=HRE
+trade_goods = iron
+life_rating = 35
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

@@ -1,0 +1,14 @@
+owner=SPA
+controller=SPA
+add_core=GLC
+add_core=SPA
+trade_goods = fish
+life_rating = 35
+terrain = hills
+naval_base = 1
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

@@ -1,0 +1,14 @@
+owner=GRE
+controller=GRE
+add_core=GRE
+add_core=HRE
+trade_goods = fruit
+life_rating = 35
+terrain = hills
+naval_base = 1
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

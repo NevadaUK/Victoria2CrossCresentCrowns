@@ -1,0 +1,15 @@
+owner=LOM
+controller=LOM
+add_core=ITA
+add_core=LOM
+add_core=SVY
+add_core=HRE
+trade_goods = fruit
+life_rating = 35
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

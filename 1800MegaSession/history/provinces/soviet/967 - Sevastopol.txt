@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+add_core=GRE
+trade_goods = fish
+life_rating = 35
+terrain = mountain

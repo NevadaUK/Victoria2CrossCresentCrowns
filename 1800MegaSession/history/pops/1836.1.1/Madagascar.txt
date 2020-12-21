@@ -1,0 +1,534 @@
+2115 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 4200
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 10360
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 2155
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 145210
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 7000
+	}
+
+}
+2116 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1350
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 3500
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 725
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 60425
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 4000
+	}
+
+}
+2117 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 475
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 625
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 1250
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1600
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 22775
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 28450
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1100
+	}
+
+}
+2118 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 475
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 15025
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 25300
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 200
+	}
+
+}
+2119 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 850
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 4025
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 15475
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 7000
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 150
+	}
+
+}
+2120 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 3125
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 14600
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 6000
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 175
+	}
+
+}
+2121 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 525
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 375
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 13275
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 18225
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 10550
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 275
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 200
+	}
+
+}
+2122 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 300
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 650
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1350
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 3725
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 23975
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 11000
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 175
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1100
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=USA
+controller=USA
+trade_goods = coal
+life_rating = 35
+terrain = mountain

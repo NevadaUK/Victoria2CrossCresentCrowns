@@ -1,0 +1,7 @@
+owner=TTL
+controller=TTL
+add_core=GER
+add_core=TTL
+trade_goods = timber
+life_rating = 40
+terrain = plains

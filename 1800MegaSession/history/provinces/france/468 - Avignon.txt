@@ -1,0 +1,9 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=OCC
+add_core=HRE
+trade_goods = sulphur
+life_rating = 32
+terrain = farmlands
+fort = 1

@@ -1,0 +1,528 @@
+1723 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 7733
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1678
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 272
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 470
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 32412
+	}
+
+}
+2204 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 7733
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1678
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 272
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 470
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 32412
+	}
+
+}
+2205 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3057
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 618
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1874
+	}
+
+}
+2206 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2203
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 460
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1906
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6165
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1115
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 20738
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 170
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 2597
+	}
+
+}

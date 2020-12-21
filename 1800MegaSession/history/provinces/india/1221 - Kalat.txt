@@ -1,0 +1,7 @@
+owner=X01
+controller=BLC
+add_core=BLC
+add_core=X01
+trade_goods = wool
+life_rating = 32
+terrain = mountain

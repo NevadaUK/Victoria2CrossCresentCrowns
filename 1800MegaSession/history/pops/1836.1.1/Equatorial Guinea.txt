@@ -1,0 +1,158 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 13854
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 355
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1421
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 231
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 71
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 298
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 19240
+	}
+
+}
+1973 = {
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 388
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 20
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 18615
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 124
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 882
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 44
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 10965
+	}
+
+}

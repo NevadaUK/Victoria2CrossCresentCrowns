@@ -1,0 +1,7 @@
+owner=CRB
+controller=CRB
+add_core=CRB
+trade_goods = cotton
+life_rating = 35
+terrain = hills
+naval_base = 1

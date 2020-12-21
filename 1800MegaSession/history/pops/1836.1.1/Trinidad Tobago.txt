@@ -1,0 +1,144 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 10130
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 311
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 781
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 63820
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1966
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 10608
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 152
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 159
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 636
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 10845
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 311
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 781
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 68330
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1966
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 10608
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 152
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 159
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 636
+	}
+
+}

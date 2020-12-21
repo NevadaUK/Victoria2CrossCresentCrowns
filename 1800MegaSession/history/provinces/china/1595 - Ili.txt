@@ -1,0 +1,7 @@
+owner=HMI
+controller=REB
+add_core=HMI
+add_core=XIN
+trade_goods = sulphur
+life_rating = 32
+terrain = mountain

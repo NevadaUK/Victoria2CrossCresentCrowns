@@ -1,0 +1,8 @@
+owner=ALL
+controller=ALL
+add_core=ALL
+add_core=TUR
+trade_goods = grain
+life_rating = 35
+terrain = mountain
+naval_base = 1

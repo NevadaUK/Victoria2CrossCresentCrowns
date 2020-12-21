@@ -1,0 +1,8 @@
+owner=JOD
+controller=MEW
+add_core=HND
+add_core=JOD
+add_core=MEW
+trade_goods = timber
+life_rating = 32
+terrain = plains

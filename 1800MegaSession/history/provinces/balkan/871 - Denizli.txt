@@ -1,0 +1,7 @@
+owner=ALL
+controller=ALL
+add_core=ALL
+add_core=TUR
+trade_goods = wool
+life_rating = 35
+terrain = hills

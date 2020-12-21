@@ -1,0 +1,14 @@
+owner=HLL
+controller=HLL
+add_core=HLL
+add_core=NET
+trade_goods = grain
+life_rating = 35
+terrain = farmlands
+naval_base = 1
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

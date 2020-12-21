@@ -1,0 +1,60 @@
+capital = 611
+primary_culture = swiss
+culture = south_german
+culture = zzz_religion_catholic
+religion = catholic
+government = democracy
+plurality = 0
+nationalvalue = nv_equality
+literacy = 0.330268
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=wealth_voting
+upper_house_composition=state_equal_weight
+voting_system=first_past_the_post
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=all_trade_unions
+political_parties=non_secret_ballots
+
+ruling_party = TTL_liberal
+upper_house = 
+{
+	fascist = 0
+	liberal = 15
+	conservative = 81
+	reactionary = 4
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 2.36386
+nonstate_consciousness= 0.414408
+
+# Technologies
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+flintlock_rifles = 1
+guild_based_production = 1
+late_enlightenment_philosophy = 1
+no_standard = 1
+private_banks = 1
+publishing_industry = 1
+water_wheel_power = 1
+prestige=5.6819
+oob = "TTL_OOB.txt"
+set_country_flag = religi

@@ -1,0 +1,8 @@
+owner=SAX
+controller=SAX
+add_core=GER
+add_core=PRU
+add_core=SAX
+trade_goods = iron
+life_rating = 40
+terrain = woods

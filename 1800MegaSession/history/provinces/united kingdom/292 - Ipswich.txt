@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=ENL
+trade_goods = grain
+life_rating = 35
+terrain = plains
+naval_base = 1

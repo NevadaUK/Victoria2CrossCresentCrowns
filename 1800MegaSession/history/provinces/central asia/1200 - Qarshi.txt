@@ -1,0 +1,7 @@
+owner=TRX
+controller=KHO
+add_core=TKS
+add_core=TRX
+trade_goods = wool
+life_rating = 35
+terrain = hills

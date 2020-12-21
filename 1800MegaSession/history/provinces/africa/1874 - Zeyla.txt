@@ -1,0 +1,7 @@
+owner=AFA
+controller=AFA
+add_core=AFA
+add_core=SOM
+trade_goods = grain
+life_rating = 15
+terrain = plains

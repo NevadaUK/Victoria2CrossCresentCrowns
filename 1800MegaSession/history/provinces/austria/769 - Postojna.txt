@@ -1,0 +1,8 @@
+owner=AUS
+controller=AUS
+add_core=SLO
+add_core=YUG
+add_core=HRE
+trade_goods = grain
+life_rating = 35
+terrain = hills

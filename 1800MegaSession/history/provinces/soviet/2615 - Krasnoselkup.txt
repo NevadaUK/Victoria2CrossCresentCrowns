@@ -1,0 +1,11 @@
+owner=RUS
+controller=RUS
+trade_goods = timber
+life_rating = 15
+terrain = arctic
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

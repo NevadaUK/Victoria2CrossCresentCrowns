@@ -1,0 +1,8 @@
+owner=MNG
+controller=MNG
+add_core=BUR
+add_core=IDO
+trade_goods = fish
+life_rating = 30
+terrain = hills
+naval_base = 1

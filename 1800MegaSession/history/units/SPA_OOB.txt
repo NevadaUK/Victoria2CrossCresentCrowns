@@ -1,0 +1,883 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = -43
+	level = 2
+}
+ALL = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 50
+	level = 3
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = -66
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHI = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 2
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 150
+	influence_value = 25
+	level = 3
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -164
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = -95
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -92
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAG = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 76
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -92
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+POR = {
+	value = -54
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = -94
+	level = 2
+}
+RUS = {
+	value = 50
+	level = 3
+}
+RVA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = -77
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = -26
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Pedro de Aguirre"
+	date="1767.9.8"
+	type=sea
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+
+#Armies
+navy = {
+	name="Armada Real"
+	location=2823
+	ship = {
+		name="1st Shaoxing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tarragona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zhaoqing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Melilla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Macao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Shaoxing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tarragona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gibraltar Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Flota de Málaga"
+	location=2922
+	ship = {
+		name="1st Tetouan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Castellón Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tetouan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melilla Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Valencia"
+	location=2978
+	ship = {
+		name="1st Alicante Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Valencia Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1687
+	regiment = {
+		name="1st Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Murcia Infantry"
+		type=infantry
+		home=507
+	}
+	regiment = {
+		name="1st Salamanca Infantry"
+		type=infantry
+		home=482
+	}
+	regiment = {
+		name="2nd Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="3rd Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Córdoba Cavalry"
+		type=cavalry
+		home=510
+	}
+	regiment = {
+		name="1st Jaén Artillery"
+		type=artillery
+		home=516
+	}
+	regiment = {
+		name="1st Valladolid Cavalry"
+		type=cavalry
+		home=480
+	}
+	regiment = {
+		name="2nd Córdoba Cavalry"
+		type=cavalry
+		home=510
+	}
+	regiment = {
+		name="1st Cartagena Artillery"
+		type=artillery
+		home=506
+	}
+	regiment = {
+		name="1st Alicante Artillery"
+		type=artillery
+		home=505
+	}
+}
+
+army = {
+	name="Guardia Real"
+	location=1463
+	regiment = {
+		name="1st Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="1st Albacete Infantry"
+		type=infantry
+		home=508
+	}
+	regiment = {
+		name="1st Madrid Infantry"
+		type=infantry
+		home=487
+	}
+}
+
+navy = {
+	name="Flota de Ilocos"
+	location=2824
+	ship = {
+		name="1st Davao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Barcelona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Almería Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Davao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Alicante Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yangzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Merauke Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Alicante Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Davao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tarragona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cartagena Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vigan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mindoro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Iloilo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Merauke Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tarragona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Vigan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Taicangzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Barcelona Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2825
+	ship = {
+		name="1st Mindoro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Manila Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2925
+	ship = {
+		name="1st Valencia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Castellón Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tarragona Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Guangzhou Bay"
+	location=2828
+	ship = {
+		name="1st Sassari Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sassari Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Antioch Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Flota de Taiwan Strait"
+	location=2828
+	ship = {
+		name="4th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gerona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ajdir Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Flota de Western Yellow Sea"
+	location=2827
+	ship = {
+		name="2nd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gibraltar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tetouan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Valencia Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2825
+	ship = {
+		name="2nd Gerona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Granada Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tarragona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Huelva Man'o'war"
+		type=manowar
+	}
+}
+

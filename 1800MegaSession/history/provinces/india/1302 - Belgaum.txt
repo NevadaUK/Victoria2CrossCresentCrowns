@@ -1,0 +1,7 @@
+owner=VIJ
+controller=VIJ
+add_core=HND
+add_core=VIJ
+trade_goods = fruit
+life_rating = 32
+terrain = hills

@@ -1,0 +1,8 @@
+owner=BRG
+controller=BRG
+add_core=BRG
+add_core=FRA
+add_core=HRE
+trade_goods = iron
+life_rating = 30
+terrain = plains

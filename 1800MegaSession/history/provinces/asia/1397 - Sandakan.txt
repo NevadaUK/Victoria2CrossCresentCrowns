@@ -1,0 +1,6 @@
+owner=ARA
+controller=ARA
+add_core=MLY
+trade_goods = grain
+life_rating = 15
+terrain = mountain

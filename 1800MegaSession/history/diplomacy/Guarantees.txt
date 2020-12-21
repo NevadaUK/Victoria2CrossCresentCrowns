@@ -1,0 +1,48 @@
+guarantee=
+{
+	first="SAX"
+	second="BYT"
+	start_date="1766.6.2"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="LOM"
+	second="X00"
+	start_date="1605.5.22"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="LOM"
+	second="MTA"
+	start_date="1613.4.2"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="RUS"
+	second="SPA"
+	start_date="1735.9.5"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="RUS"
+	second="ENG"
+	start_date="1735.10.1"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="ASM"
+	second="CHA"
+	start_date="1748.9.25"
+	end_date="1936.1.1"
+}
+

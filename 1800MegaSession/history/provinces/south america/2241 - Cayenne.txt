@@ -1,0 +1,6 @@
+owner=CEQ
+controller=CEQ
+trade_goods = timber
+life_rating = 30
+terrain = plains
+naval_base = 1

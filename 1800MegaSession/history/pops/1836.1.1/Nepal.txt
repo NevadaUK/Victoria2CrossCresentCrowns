@@ -1,0 +1,200 @@
+1326 = {
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 19633
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 6291
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 454
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 63
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1174
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 39734
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 179
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 217
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 4372
+	}
+
+}
+1327 = {
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 38233
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1871
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 305
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 42
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 786
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 6063
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = sikh
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = sikh
+		size= 94
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = sikh
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = sikh
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = sikh
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = sikh
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = sikh
+		size= 1549
+	}
+
+}

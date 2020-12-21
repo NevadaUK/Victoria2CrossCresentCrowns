@@ -1,0 +1,7 @@
+owner=CYI
+controller=CYI
+add_core=CHI
+add_core=CYI
+trade_goods = tea
+life_rating = 32
+terrain = hills

@@ -1,0 +1,668 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFA = {
+	value = 50
+	level = 3
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ALL = {
+	value = 50
+	level = 3
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHI = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 4
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -14
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 10
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAG = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -50
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 4
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+army = {
+	name="10th Army"
+	location=1813
+	regiment = {
+		name="1st Agadir Irregulars"
+		type=irregular
+		home=1694
+	}
+	regiment = {
+		name="2nd Agadir Irregulars"
+		type=irregular
+		home=1694
+	}
+	regiment = {
+		name="1st Agadir Artillery"
+		type=artillery
+		home=1694
+	}
+	regiment = {
+		name="2nd Marrakesh Irregulars"
+		type=irregular
+		home=1690
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1842
+	regiment = {
+		name="1st Warzazat Irregulars"
+		type=irregular
+		home=1699
+	}
+	regiment = {
+		name="2nd Warzazat Irregulars"
+		type=irregular
+		home=1699
+	}
+	regiment = {
+		name="3rd Agadir Irregulars"
+		type=irregular
+		home=1694
+	}
+	regiment = {
+		name="1st Rashidia Irregulars"
+		type=irregular
+		home=1698
+	}
+	regiment = {
+		name="1st Rashidia Artillery"
+		type=artillery
+		home=1698
+	}
+	regiment = {
+		name="1st Warzazat Artillery"
+		type=artillery
+		home=1699
+	}
+	regiment = {
+		name="1st Biskra Irregulars"
+		type=irregular
+		home=1710
+	}
+	regiment = {
+		name="3rd Rashidia Artillery"
+		type=artillery
+		home=1698
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1741
+	regiment = {
+		name="4th Agadir Irregulars"
+		type=irregular
+		home=1694
+	}
+	regiment = {
+		name="1st Fez Irregulars"
+		type=irregular
+		home=1680
+	}
+	regiment = {
+		name="5th Agadir Irregulars"
+		type=irregular
+		home=1694
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1694
+	ship = {
+		name="1st Sawira Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Agadir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Agadir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Agadir Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1699
+	regiment = {
+		name="1st Wazzan Irregulars"
+		type=irregular
+		home=1681
+	}
+	regiment = {
+		name="3rd Warzazat Irregulars"
+		type=irregular
+		home=1699
+	}
+	regiment = {
+		name="2nd Rashidia Artillery"
+		type=artillery
+		home=1698
+	}
+	regiment = {
+		name="1st Taza Artillery"
+		type=artillery
+		home=1683
+	}
+	regiment = {
+		name="1st Meknes Irregulars"
+		type=irregular
+		home=1682
+	}
+	regiment = {
+		name="2nd Wazzan Irregulars"
+		type=irregular
+		home=1681
+	}
+	regiment = {
+		name="3rd Figuig Artillery"
+		type=artillery
+		home=1697
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1742
+	regiment = {
+		name="4th Warzazat Irregulars"
+		type=irregular
+		home=1699
+	}
+	regiment = {
+		name="1st Figuig Artillery"
+		type=artillery
+		home=1697
+	}
+	regiment = {
+		name="1st Meknes Artillery"
+		type=artillery
+		home=1682
+	}
+	regiment = {
+		name="1st Fez Artillery"
+		type=artillery
+		home=1680
+	}
+	regiment = {
+		name="1st Wazzan Artillery"
+		type=artillery
+		home=1681
+	}
+	regiment = {
+		name="5th Warzazat Irregulars"
+		type=irregular
+		home=1699
+	}
+	regiment = {
+		name="2nd Taza Artillery"
+		type=artillery
+		home=1683
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1910
+	regiment = {
+		name="1st Taza Irregulars"
+		type=irregular
+		home=1683
+	}
+	regiment = {
+		name="2nd Figuig Artillery"
+		type=artillery
+		home=1697
+	}
+	regiment = {
+		name="1st Marrakesh Irregulars"
+		type=irregular
+		home=1690
+	}
+	regiment = {
+		name="2nd Fez Irregulars"
+		type=irregular
+		home=1680
+	}
+	regiment = {
+		name="1st Biskra Artillery"
+		type=artillery
+		home=1710
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2746
+	ship = {
+		name="1st Sawira Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sawira Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Agadir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ifni Clipper Transport"
+		type=clipper_transport
+	}
+}
+

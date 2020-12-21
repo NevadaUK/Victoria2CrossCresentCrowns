@@ -1,0 +1,8 @@
+owner=HMI
+controller=HMI
+add_core=HMI
+add_core=KHA
+add_core=MGL
+trade_goods = cotton
+life_rating = 32
+terrain = hills

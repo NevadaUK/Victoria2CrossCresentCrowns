@@ -1,0 +1,116 @@
+2123 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 7952
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 372
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 5214
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 74
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 313
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 23029
+	}
+
+}
+2124 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 9311
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 372
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 5214
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 74
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 313
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 21670
+	}
+
+}

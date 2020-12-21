@@ -1,0 +1,674 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ALL = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHI = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 132
+	influence_value = 20
+	level = 4
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 7
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAG = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -91
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -80
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=1082
+	ship = {
+		name="1st Haishenwai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Boli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pusan Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1633
+	regiment = {
+		name="1st Manzhouli Irregulars"
+		type=irregular
+		home=1002
+	}
+	regiment = {
+		name="1st Ninguta Irregulars"
+		type=irregular
+		home=1554
+	}
+	regiment = {
+		name="1st Mukden Irregulars"
+		type=irregular
+		home=1479
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2832
+	ship = {
+		name="2nd Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Haishenwai Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1002
+	regiment = {
+		name="2nd Ninguta Irregulars"
+		type=irregular
+		home=1554
+	}
+	regiment = {
+		name="2nd Qiqihar Irregulars"
+		type=irregular
+		home=1552
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1628
+	ship = {
+		name="1st Chongjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1082
+	ship = {
+		name="2nd Haishenwai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chonchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Boli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chongjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pyongyang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hakodate Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chongjin Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1555
+	regiment = {
+		name="1st Aigun Irregulars"
+		type=irregular
+		home=1553
+	}
+	regiment = {
+		name="1st Qiqihar Irregulars"
+		type=irregular
+		home=1552
+	}
+	regiment = {
+		name="1st Chengde Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="1st Hamhung Cavalry"
+		type=cavalry
+		home=1621
+	}
+	regiment = {
+		name="1st Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="1st Jinan Artillery"
+		type=artillery
+		home=1563
+	}
+	regiment = {
+		name="1st Beijing Cavalry"
+		type=cavalry
+		home=1612
+	}
+	regiment = {
+		name="1st Beijing Artillery"
+		type=artillery
+		home=1612
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1555
+	regiment = {
+		name="2nd Aigun Irregulars"
+		type=irregular
+		home=1553
+	}
+	regiment = {
+		name="1st Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="2nd Chengde Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="1st Jinan Cavalry"
+		type=cavalry
+		home=1563
+	}
+	regiment = {
+		name="1st Tangshan Artillery"
+		type=artillery
+		home=1616
+	}
+	regiment = {
+		name="2nd Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="1st Ninguta Cavalry"
+		type=cavalry
+		home=1554
+	}
+	regiment = {
+		name="1st Qiqihar Cavalry"
+		type=cavalry
+		home=1552
+	}
+	regiment = {
+		name="2nd Tangshan Artillery"
+		type=artillery
+		home=1616
+	}
+}
+

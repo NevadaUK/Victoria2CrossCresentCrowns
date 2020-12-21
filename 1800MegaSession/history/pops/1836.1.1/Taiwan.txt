@@ -1,0 +1,298 @@
+1485 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1320
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 471
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 45100
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 499
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 573
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1049
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 2469
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 401
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 149
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 604
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 32698
+	}
+
+}
+2562 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1320
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 471
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 45100
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 499
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 573
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1049
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 2469
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 401
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 149
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 604
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 32698
+	}
+
+}

@@ -1,0 +1,200 @@
+2240 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2571
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 419
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 8440
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3642
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 397
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 7368
+	}
+
+}

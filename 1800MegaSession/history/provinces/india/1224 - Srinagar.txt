@@ -1,0 +1,6 @@
+owner=TRX
+controller=LDK
+add_core=HND
+trade_goods = silk
+life_rating = 32
+terrain = mountain

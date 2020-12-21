@@ -1,0 +1,102 @@
+2034 = {
+	aristocrats=
+	{
+		culture = ruanda
+		religion = animist
+		size= 2450
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = animist
+		size= 6200
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = animist
+		size= 1750
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = animist
+		size= 113200
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = animist
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = ruanda
+		religion = animist
+		size= 1250
+	}
+
+}
+2035 = {
+	aristocrats=
+	{
+		culture = rundi
+		religion = animist
+		size= 2175
+	}
+
+	artisans=
+	{
+		culture = rundi
+		religion = animist
+		size= 5600
+	}
+
+	bureaucrats=
+	{
+		culture = rundi
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = rundi
+		religion = animist
+		size= 1125
+	}
+
+	farmers=
+	{
+		culture = rundi
+		religion = animist
+		size= 101850
+	}
+
+	officers=
+	{
+		culture = rundi
+		religion = animist
+		size= 110
+	}
+
+	soldiers=
+	{
+		culture = rundi
+		religion = animist
+		size= 1125
+	}
+
+}

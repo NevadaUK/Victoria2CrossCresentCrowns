@@ -1,0 +1,6 @@
+owner=AFA
+controller=AFA
+add_core=AFA
+trade_goods = cattle
+life_rating = 30
+terrain = hills

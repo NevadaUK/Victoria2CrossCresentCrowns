@@ -1,0 +1,7 @@
+owner=TRX
+controller=TRX
+add_core=TKS
+add_core=TRX
+trade_goods = grain
+life_rating = 35
+terrain = hills

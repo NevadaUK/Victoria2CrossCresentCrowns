@@ -1,0 +1,718 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ALL = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHI = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAG = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 7
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=48
+	ship = {
+		name="1st Millertown Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quebec City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chicoutimi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Saint Johns Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Quebec City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st St Pierre & Miquelon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fort Rupert Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Quebec City Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=3067
+	ship = {
+		name="1st Chicoutimi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bathurst Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2919
+	ship = {
+		name="1st Saint Johns Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canada Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=75
+	regiment = {
+		name="1st Millertown Infantry"
+		type=infantry
+		home=75
+	}
+	regiment = {
+		name="2nd Millertown Infantry"
+		type=infantry
+		home=75
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2944
+	ship = {
+		name="1st Bangor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rimouski Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Millertown Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="14th Fleet"
+	location=2945
+	ship = {
+		name="2nd Quebec City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rimouski Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Quebec City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chicoutimi Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="16th Fleet"
+	location=3210
+	ship = {
+		name="7th Millertown Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=63
+	regiment = {
+		name="1st Trois-Rivières Infantry"
+		type=infantry
+		home=64
+	}
+	regiment = {
+		name="1st Millertown Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="1st Temiscaming Infantry"
+		type=infantry
+		home=63
+	}
+	regiment = {
+		name="1st Trois-Rivières Artillery"
+		type=artillery
+		home=64
+	}
+	regiment = {
+		name="4th Millertown Artillery"
+		type=artillery
+		home=75
+	}
+}
+
+army = {
+	name="4th Army"
+	location=40
+	regiment = {
+		name="1st Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Saint Johns Infantry"
+		type=infantry
+		home=74
+	}
+	regiment = {
+		name="2nd Millertown Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="3rd Millertown Artillery"
+		type=artillery
+		home=75
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=3011
+	ship = {
+		name="8th Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd St Pierre & Miquelon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Prince Edward Island Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Rimouski Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chicoutimi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Rimouski Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Millertown Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=65
+	ship = {
+		name="1st Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Johns Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fort Albany Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fort Albany Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="12th Fleet"
+	location=62
+	ship = {
+		name="9th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+}
+

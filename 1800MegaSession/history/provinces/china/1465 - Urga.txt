@@ -1,0 +1,7 @@
+owner=MNG
+controller=RUS
+add_core=KHA
+add_core=MGL
+trade_goods = cattle
+life_rating = 32
+terrain = hills

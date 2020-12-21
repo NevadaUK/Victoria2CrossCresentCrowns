@@ -1,0 +1,7 @@
+owner=HAT
+controller=HAT
+add_core=HAT
+add_core=NET
+trade_goods = wool
+life_rating = 35
+terrain = farmlands

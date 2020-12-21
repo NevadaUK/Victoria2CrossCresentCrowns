@@ -1,0 +1,7 @@
+owner=MNG
+controller=MNG
+add_core=KHA
+add_core=MGL
+trade_goods = grain
+life_rating = 32
+terrain = hills

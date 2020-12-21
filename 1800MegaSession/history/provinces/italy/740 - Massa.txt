@@ -1,0 +1,15 @@
+owner=LOM
+controller=LOM
+add_core=ITA
+add_core=LOM
+add_core=HRE
+trade_goods = timber
+life_rating = 35
+terrain = farmlands
+naval_base = 1
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

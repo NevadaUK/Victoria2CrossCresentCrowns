@@ -1,0 +1,8 @@
+owner=SPA
+controller=MOR
+add_core=ALD
+trade_goods = grain
+life_rating = 35
+terrain = mountain
+colonial=2
+naval_base = 1

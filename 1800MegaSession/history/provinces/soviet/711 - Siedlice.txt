@@ -1,0 +1,12 @@
+owner=RUS
+controller=RUS
+add_core=POL
+trade_goods = cattle
+life_rating = 35
+terrain = plains
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

@@ -1,0 +1,729 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = -43
+	level = 2
+}
+ALL = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = -91
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHI = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+HMI = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAG = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = -94
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -76
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -170
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+navy = {
+	name="Escadre de l'Atlantique"
+	location=2727
+	ship = {
+		name="1st La Roche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st French Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2724
+	ship = {
+		name="1st Rouen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Rochelle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rouen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd La Roche Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Escadre de Gascogne"
+	location=402
+	ship = {
+		name="1st La Rochelle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brest Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Carcassonne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Brest Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st St Brieuc Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Roche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Carcassonne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vannes Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Caen Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Armée des Flandres"
+	location=421
+	regiment = {
+		name="1st Moulins Infantry"
+		type=infantry
+		home=430
+	}
+	regiment = {
+		name="1st Bourges Infantry"
+		type=infantry
+		home=439
+	}
+	regiment = {
+		name="1st Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+	regiment = {
+		name="1st Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="2nd Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+	regiment = {
+		name="1st Chalons Artillery"
+		type=artillery
+		home=408
+	}
+	regiment = {
+		name="1st Troyes Artillery"
+		type=artillery
+		home=406
+	}
+	regiment = {
+		name="1st Melun Artillery"
+		type=artillery
+		home=427
+	}
+	regiment = {
+		name="1st Moulins Artillery"
+		type=artillery
+		home=430
+	}
+	regiment = {
+		name="3rd Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="1st Angoulême Artillery"
+		type=artillery
+		home=444
+	}
+}
+
+army = {
+	name="Armée du Nord"
+	location=415
+	regiment = {
+		name="1st Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="3rd Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+	regiment = {
+		name="1st Alençon Infantry"
+		type=infantry
+		home=417
+	}
+	regiment = {
+		name="2nd Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="2nd Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="1st Beauvais Artillery"
+		type=artillery
+		home=2570
+	}
+	regiment = {
+		name="2nd Beauvais Artillery"
+		type=artillery
+		home=2570
+	}
+	regiment = {
+		name="3rd Beauvais Artillery"
+		type=artillery
+		home=2570
+	}
+	regiment = {
+		name="1st Laon Artillery"
+		type=artillery
+		home=403
+	}
+	regiment = {
+		name="2nd Alençon Infantry"
+		type=infantry
+		home=417
+	}
+	regiment = {
+		name="2nd Chalons Artillery"
+		type=artillery
+		home=408
+	}
+	regiment = {
+		name="2nd Melun Artillery"
+		type=artillery
+		home=427
+	}
+}
+
+navy = {
+	name="Escadre de la Manche"
+	location=2748
+	ship = {
+		name="3rd Rouen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Carcassonne Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Escadre Rouge"
+	location=463
+	ship = {
+		name="1st Caen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Montpellier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Marseilles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Marseilles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st St Brieuc Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bordeaux Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Carcassonne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Montpellier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Montpellier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Carcassonne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bordeaux Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Montpellier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bordeaux Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Caen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Montpellier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bordeaux Frigate"
+		type=frigate
+	}
+}
+

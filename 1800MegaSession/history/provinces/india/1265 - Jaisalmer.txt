@@ -1,0 +1,7 @@
+owner=MEW
+controller=MEW
+add_core=HND
+add_core=MEW
+trade_goods = wool
+life_rating = 32
+terrain = woods

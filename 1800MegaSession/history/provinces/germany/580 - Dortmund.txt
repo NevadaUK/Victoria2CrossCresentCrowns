@@ -1,0 +1,8 @@
+owner=RVA
+controller=RVA
+add_core=GER
+add_core=RVA
+add_core=HRE
+trade_goods = coal
+life_rating = 40
+terrain = plains

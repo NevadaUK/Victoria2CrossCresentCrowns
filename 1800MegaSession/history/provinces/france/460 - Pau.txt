@@ -1,0 +1,8 @@
+owner=SPA
+controller=SPA
+add_core=FRA
+add_core=OCC
+trade_goods = grain
+life_rating = 32
+terrain = mountain
+fort = 1

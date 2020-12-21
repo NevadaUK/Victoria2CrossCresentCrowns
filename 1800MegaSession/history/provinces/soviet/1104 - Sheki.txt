@@ -1,0 +1,6 @@
+owner=ALL
+controller=ALL
+add_core=AZB
+trade_goods = grain
+life_rating = 35
+terrain = mountain

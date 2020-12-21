@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+trade_goods = fruit
+life_rating = 30
+terrain = plains
+colonial=2
+naval_base = 1

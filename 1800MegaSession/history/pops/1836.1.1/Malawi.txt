@@ -1,0 +1,193 @@
+2066 = {
+	aristocrats=
+	{
+		culture = chewa
+		religion = animist
+		size= 550
+	}
+
+	aristocrats=
+	{
+		culture = lomwe
+		religion = animist
+		size= 275
+	}
+
+	aristocrats=
+	{
+		culture = yao
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = chewa
+		religion = animist
+		size= 1450
+	}
+
+	artisans=
+	{
+		culture = lomwe
+		religion = animist
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = yao
+		religion = animist
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = chewa
+		religion = animist
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = lomwe
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = yao
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = chewa
+		religion = animist
+		size= 26400
+	}
+
+	farmers=
+	{
+		culture = lomwe
+		religion = animist
+		size= 13675
+	}
+
+	farmers=
+	{
+		culture = yao
+		religion = animist
+		size= 4275
+	}
+
+	slaves=
+	{
+		culture = chewa
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = chewa
+		religion = animist
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = lomwe
+		religion = animist
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = yao
+		religion = animist
+		size= 100
+	}
+
+}
+2067 = {
+	aristocrats=
+	{
+		culture = chewa
+		religion = animist
+		size= 350
+	}
+
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = chewa
+		religion = animist
+		size= 950
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 850
+	}
+
+	clergymen=
+	{
+		culture = chewa
+		religion = animist
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = chewa
+		religion = animist
+		size= 17300
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 15125
+	}
+
+	slaves=
+	{
+		culture = chewa
+		religion = animist
+		size= 4000
+	}
+
+	soldiers=
+	{
+		culture = chewa
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 225
+	}
+
+}

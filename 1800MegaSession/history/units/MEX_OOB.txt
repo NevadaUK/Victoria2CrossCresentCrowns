@@ -1,0 +1,925 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ALL = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHI = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRM = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOS = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEM = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAG = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Lope Palafox"
+	date="1763.10.8"
+	type=land
+	personality="coolminded"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=2173
+	regiment = {
+		name="1st Guaymas Infantry"
+		type=infantry
+		home=2141
+	}
+	regiment = {
+		name="1st Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="1st León Artillery"
+		type=artillery
+		home=2199
+	}
+	regiment = {
+		name="1st Quito Infantry"
+		type=infantry
+		home=2279
+	}
+	regiment = {
+		name="2nd León Artillery"
+		type=artillery
+		home=2199
+	}
+	regiment = {
+		name="3rd León Artillery"
+		type=artillery
+		home=2199
+	}
+}
+
+navy = {
+	name="16th Fleet"
+	location=2823
+	ship = {
+		name="1st Veracruz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bacalar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Campeche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mérida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bacalar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Campeche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bacalar Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2165
+	ship = {
+		name="2nd Mérida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mérida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Campeche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Bacalar Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="13th Fleet"
+	location=2823
+	ship = {
+		name="4th Bacalar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Mérida Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2179
+	ship = {
+		name="4th Mérida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Mérida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Bacalar Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2823
+	ship = {
+		name="1st Bacalar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bacalar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bacalar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Mérida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bacalar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Mérida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Mérida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Minatitlán Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gran Columbia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mérida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bacalar Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=2179
+	ship = {
+		name="6th Bacalar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Bacalar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Mérida Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2141
+	regiment = {
+		name="1st Saltillo Infantry"
+		type=infantry
+		home=2151
+	}
+	regiment = {
+		name="1st Morelos Infantry"
+		type=infantry
+		home=2147
+	}
+	regiment = {
+		name="1st Bluefields Artillery"
+		type=artillery
+		home=2200
+	}
+	regiment = {
+		name="1st Morelos Artillery"
+		type=artillery
+		home=2147
+	}
+	regiment = {
+		name="2nd Morelos Artillery"
+		type=artillery
+		home=2147
+	}
+	regiment = {
+		name="1st Laredo Artillery"
+		type=artillery
+		home=138
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2177
+	regiment = {
+		name="2nd Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="1st Puerto Lempira Infantry"
+		type=infantry
+		home=2196
+	}
+	regiment = {
+		name="1st León Infantry"
+		type=infantry
+		home=2199
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2177
+	regiment = {
+		name="1st La Ceiba Infantry"
+		type=infantry
+		home=2195
+	}
+	regiment = {
+		name="3rd Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="4th Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="2nd Bluefields Artillery"
+		type=artillery
+		home=2200
+	}
+	regiment = {
+		name="2nd León Infantry"
+		type=infantry
+		home=2199
+	}
+	regiment = {
+		name="1st Comayagua Artillery"
+		type=artillery
+		home=2193
+	}
+}
+
+army = {
+	name="1st Army"
+	location=100
+	regiment = {
+		name="1st Loreto Infantry"
+		type=infantry
+		home=2138
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2137
+	ship = {
+		name="1st San Diego Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rosarito Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=85
+	ship = {
+		name="1st Nogales Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Nogales Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hermosillo Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2274
+	regiment = {
+		name="1st Casanare Infantry"
+		type=infantry
+		home=2262
+	}
+	regiment = {
+		name="1st Tena Infantry"
+		type=infantry
+		home=2284
+	}
+	regiment = {
+		name="1st David Infantry"
+		type=infantry
+		home=2205
+	}
+	regiment = {
+		name="1st David Artillery"
+		type=artillery
+		home=2205
+	}
+	regiment = {
+		name="1st  Infantry"
+		type=infantry
+		home=1723
+	}
+	regiment = {
+		name="2nd Limón Artillery"
+		type=artillery
+		home=2203
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2283
+	regiment = {
+		name="1st Penonomé Infantry"
+		type=infantry
+		home=2206
+	}
+	regiment = {
+		name="2nd Penonomé Infantry"
+		type=infantry
+		home=2206
+	}
+	regiment = {
+		name="2nd David Infantry"
+		type=infantry
+		home=2205
+	}
+	regiment = {
+		name="1st Penonomé Artillery"
+		type=artillery
+		home=2206
+	}
+	regiment = {
+		name="1st Limón Infantry"
+		type=infantry
+		home=2203
+	}
+	regiment = {
+		name="1st Limón Artillery"
+		type=artillery
+		home=2203
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2243
+	ship = {
+		name="1st Yaviza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st  Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Georgetown Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1979
+	regiment = {
+		name="3rd David Infantry"
+		type=infantry
+		home=2205
+	}
+	regiment = {
+		name="1st Liberia Infantry"
+		type=infantry
+		home=2202
+	}
+	regiment = {
+		name="1st Yaviza Infantry"
+		type=infantry
+		home=2208
+	}
+	regiment = {
+		name="1st Panama City Artillery"
+		type=artillery
+		home=2204
+	}
+	regiment = {
+		name="1st Manizales Infantry"
+		type=infantry
+		home=2250
+	}
+	regiment = {
+		name="1st Bogotá Artillery"
+		type=artillery
+		home=2247
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2829
+	ship = {
+		name="1st Essequibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Essequibo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Panama City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Penonomé Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Essequibo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Georgetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Essequibo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st  Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Essequibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Essequibo Clipper Transport"
+		type=clipper_transport
+	}
+}
+

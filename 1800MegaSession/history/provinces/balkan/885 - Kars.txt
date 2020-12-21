@@ -1,0 +1,18 @@
+owner=ALL
+controller=ALL
+add_core=ARM
+trade_goods = iron
+life_rating = 35
+terrain = mountain
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

@@ -1,0 +1,8 @@
+owner=MTA
+controller=MTA
+add_core=ITA
+add_core=MTA
+add_core=HRE
+trade_goods = iron
+life_rating = 35
+terrain = plains

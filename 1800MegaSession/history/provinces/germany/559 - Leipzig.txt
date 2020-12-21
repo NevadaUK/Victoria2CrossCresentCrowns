@@ -1,0 +1,9 @@
+owner=SAX
+controller=SAX
+add_core=GER
+add_core=PRU
+add_core=SAX
+trade_goods = coal
+life_rating = 40
+terrain = plains
+fort = 1
