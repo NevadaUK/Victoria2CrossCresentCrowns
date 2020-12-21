@@ -1,0 +1,49 @@
+country_event = {
+id = 46237
+title = "Portugal Requests Military Aid"
+desc = "Portuguese diplomats have approached us asking that we aid them in their reconquest of Brazil, citing historical alliances and cooperation as reason enough for our intervention."
+picture = "treaty"
+
+is_triggered_only = yes
+
+option = {
+	name = "Of course. The Portuguese have aided us before, it's high time we return the favour."
+	prestige = 10
+	relation = { who = POR value = 200 }
+	create_alliance = POR
+	any_greater_power = {
+		limit = {
+			tag = POR
+			}
+			alliance_with = THIS
+		}
+		leave_alliance = THIS
+	
+	any_country = {
+		limit = {
+			OR = {
+				tag = POR
+				tag = AUS
+				tag = KUK
+				tag = RUS
+				tag = SLA
+			}
+			exists = yes
+			NOT = { tag = THIS }
+		}
+	}
+	ai_chance = {
+		factor = 90
+		}
+	}
+option = {
+	name = "Bold of them to ask this of us. We've our own issues to sort out!"
+	prestige = -10
+	relation = { who = POR value = -100 }
+	any_country = {
+		limit = {
+			tag = POR
+			}
+		}
+	}
+}

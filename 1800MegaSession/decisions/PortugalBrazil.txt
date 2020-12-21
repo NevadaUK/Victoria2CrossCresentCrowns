@@ -10,11 +10,9 @@ political_decisions = {
 			war_with = BRZ
 		}
 		effect = {
-			any_country = {
-			limit = {
-				is_greater_power = YES
-			}
-			country_event = 11101
+				ENG = { country_event = 46237
+				}
+				SPA = {country_event = 46237
 		}	
 			set_country_flag = reconquista_brazil
 		}
