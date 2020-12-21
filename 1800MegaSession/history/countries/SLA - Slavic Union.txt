@@ -1,6 +1,8 @@
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+
+primary_culture = hungarian
+
+culture = zzz_religion_catholic
+religion = catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

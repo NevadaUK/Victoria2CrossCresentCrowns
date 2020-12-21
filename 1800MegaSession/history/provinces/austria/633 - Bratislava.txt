@@ -1,8 +1,4 @@
 owner=AUS
 controller=AUS
-add_core=CZH
-add_core=SLV
-add_core=HRE
-trade_goods = cattle
-life_rating = 35
-terrain = hills
+add_core=HUN
+add_core=SLA

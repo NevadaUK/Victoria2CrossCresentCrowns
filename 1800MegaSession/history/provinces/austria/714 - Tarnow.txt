@@ -1,5 +1,6 @@
 owner=AUS
 controller=AUS
+add_core=SLA
 add_core=PLC
 add_core=POL
 add_core=HRE

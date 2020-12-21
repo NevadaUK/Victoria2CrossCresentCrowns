@@ -1,7 +1,7 @@
 color = { 0 90 30 }
 proletarian_dictatorship = { 200 10 10 }
 
-graphical_culture = RussianGC
+graphical_culture = AustriaHungaryGC
 
 party = {
 	name = "RUS_conservative"
