@@ -59,9 +59,10 @@ country_event = {
 				casus_belli = status_quo
 			}
 		}
-		set_global_flag = austrian_civil_war_has_happened
 		clr_country_flag = the_slavery_debate
+		set_global_flag = austrian_civil_war_has_happened
 		set_global_flag = hre_collapsed
+		set_global_flag = civil_war_victory
 	}
 	
 	option = {
