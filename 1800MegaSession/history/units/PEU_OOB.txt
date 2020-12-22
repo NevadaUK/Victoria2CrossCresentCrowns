@@ -53,7 +53,7 @@ BRG = {
 	level = 2
 }
 BUE = {
-	value = 0
+	value = 200
 	level = 2
 }
 BUG = {
@@ -233,7 +233,7 @@ MEW = {
 	level = 2
 }
 MEX = {
-	value = 0
+	value = 200
 	level = 2
 }
 MKS = {
@@ -345,8 +345,7 @@ SIN = {
 	level = 2
 }
 SPA = {
-	value = 0
-	military_access = yes
+	value = -200
 	level = 2
 }
 SVY = {

@@ -65,7 +65,7 @@ BYT = {
 	level = 2
 }
 CEQ = {
-	value = -90
+	value = 0
 	level = 2
 }
 CHA = {
@@ -102,6 +102,7 @@ DAR = {
 }
 ENG = {
 	value = 0
+	military_access = yes
 	level = 2
 }
 FLO = {
@@ -233,7 +234,7 @@ MEW = {
 	level = 2
 }
 MEX = {
-	value = 200
+	value = -95
 	level = 2
 }
 MKS = {
@@ -265,7 +266,7 @@ NEP = {
 	level = 2
 }
 NSS = {
-	value = 0
+	value = -67
 	level = 2
 }
 NZL = {
@@ -345,7 +346,7 @@ SIN = {
 	level = 2
 }
 SPA = {
-	value = -200
+	value = 0
 	level = 2
 }
 SVY = {
@@ -414,133 +415,209 @@ X04 = {
 }
 
 #Leaders
-leader = {
-	name="Fernando Fitz-James"
-	date="1763.10.6"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
 
 #Armies
 army = {
-	name="1st Army"
-	location=2363
+	name="6th Army"
+	location=200
 	regiment = {
-		name="1st Rosario Infantry"
+		name="1st Syracuse Infantry"
 		type=infantry
-		home=2363
+		home=238
 	}
 	regiment = {
-		name="1st La Plata Infantry"
-		type=infantry
-		home=2351
-	}
-	regiment = {
-		name="1st Carmen Cavalry"
-		type=cavalry
-		home=2355
-	}
-	regiment = {
-		name="1st Paraná Artillery"
+		name="1st Shreveport Artillery"
 		type=artillery
-		home=2360
+		home=142
 	}
 	regiment = {
-		name="1st Paysandú Infantry"
+		name="1st Louisville Infantry"
 		type=infantry
-		home=2345
+		home=184
 	}
 	regiment = {
-		name="1st Mar del Plata Cavalry"
-		type=cavalry
-		home=2352
-	}
-	regiment = {
-		name="1st Rosario Artillery"
+		name="1st Huntington Artillery"
 		type=artillery
-		home=2363
-	}
-}
-
-navy = {
-	name="5th Fleet"
-	location=2392
-	ship = {
-		name="1st Buenos Aires Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Bahía Blanca Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Rawson Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Bahía Blanca Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="7th Fleet"
-	location=2392
-	ship = {
-		name="1st Viedma Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Buenos Aires Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Buenos Aires Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Buenos Aires Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Viedma Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Buenos Aires Man'o'war"
-		type=manowar
-	}
-}
-
-navy = {
-	name="4th Fleet"
-	location=2392
-	ship = {
-		name="4th Buenos Aires Frigate"
-		type=frigate
+		home=218
 	}
 }
 
 navy = {
 	name="1st Fleet"
-	location=2392
+	location=220
 	ship = {
-		name="5th Buenos Aires Frigate"
-		type=frigate
+		name="1st Charleston Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
-		name="6th Buenos Aires Frigate"
-		type=frigate
+		name="1st Greenville Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
-		name="7th Buenos Aires Frigate"
-		type=frigate
+		name="1st Savannah Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
-		name="8th Buenos Aires Frigate"
-		type=frigate
+		name="1st Tampa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Washington Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Greenville Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tampa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Greenville Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dover Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Greenville Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tampa Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=129
+	regiment = {
+		name="1st Baltimore Infantry"
+		type=infantry
+		home=219
+	}
+	regiment = {
+		name="1st Norfolk Artillery"
+		type=artillery
+		home=214
+	}
+	regiment = {
+		name="1st Scranton Infantry"
+		type=infantry
+		home=224
+	}
+}
+
+army = {
+	name="4th Army"
+	location=116
+	regiment = {
+		name="1st Pittsburgh Artillery"
+		type=artillery
+		home=227
+	}
+}
+
+army = {
+	name="7th Army"
+	location=199
+	regiment = {
+		name="1st Washington Infantry"
+		type=infantry
+		home=220
+	}
+	regiment = {
+		name="1st Hagerstown Infantry"
+		type=infantry
+		home=221
+	}
+	regiment = {
+		name="1st Tallahassee Artillery"
+		type=artillery
+		home=198
+	}
+	regiment = {
+		name="2nd Little Rock Infantry"
+		type=infantry
+		home=143
+	}
+	regiment = {
+		name="1st Atlanta Artillery"
+		type=artillery
+		home=201
+	}
+}
+
+army = {
+	name="1st Army"
+	location=220
+	regiment = {
+		name="1st Houston Infantry"
+		type=infantry
+		home=132
+	}
+	regiment = {
+		name="1st Shreveport Infantry"
+		type=infantry
+		home=142
+	}
+	regiment = {
+		name="1st Fayetteville Artillery"
+		type=artillery
+		home=145
+	}
+	regiment = {
+		name="1st Scranton Artillery"
+		type=artillery
+		home=224
+	}
+	regiment = {
+		name="1st Wichita Infantry"
+		type=infantry
+		home=128
+	}
+	regiment = {
+		name="1st Little Rock Artillery"
+		type=artillery
+		home=143
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=139
+	regiment = {
+		name="1st Little Rock Infantry"
+		type=infantry
+		home=143
+	}
+	regiment = {
+		name="1st Dallas Infantry"
+		type=infantry
+		home=134
+	}
+	regiment = {
+		name="1st Paducah Artillery"
+		type=artillery
+		home=187
+	}
+	regiment = {
+		name="1st Tuscaloosa Artillery"
+		type=artillery
+		home=196
+	}
+	regiment = {
+		name="1st Okmulgee Infantry"
+		type=infantry
+		home=131
+	}
+	regiment = {
+		name="1st Sioux Falls Artillery"
+		type=artillery
+		home=120
 	}
 }
 

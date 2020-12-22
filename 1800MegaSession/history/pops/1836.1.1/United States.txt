@@ -608,7 +608,7 @@
 	{
 		culture = penutian
 		religion = totemism
-		size= 21202
+		size= 2124
 	}
 
 	soldiers=
@@ -620,58 +620,23 @@
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
-		size= 64
+		culture = anglo_canadian
+		religion = protestant
+		size= 640
 	}
 
 	soldiers=
 	{
 		culture = americano
 		religion = catholic
-		size= 172
-	}
-
-	artisans=
-	{
-		culture = americano
-		religion = catholic
-		size= 1139
-	}
-
-	clergymen=
-	{
-		culture = americano
-		religion = catholic
-		size= 186
-	}
-
-	bureaucrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 57
-	}
-
-	officers=
-	{
-		culture = americano
-		religion = catholic
-		size= 22
-	}
-
-	aristocrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 240
+		size= 72
 	}
 
 	farmers=
 	{
 		culture = americano
 		religion = catholic
-		size= 15337
+		size= 337
 	}
 
 	soldiers=
@@ -683,8 +648,8 @@
 
 	farmers=
 	{
-		culture = plains_algonquian
-		religion = totemism
+		culture = yankee
+		religion = protestant
 		size= 534
 	}
 
@@ -718,18 +683,11 @@
 		size= 16
 	}
 
-	aristocrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 69
-	}
-
 	farmers=
 	{
-		culture = penutian
-		religion = totemism
-		size= 16553
+		culture = anglo_canadian
+		religion = protestant
+		size= 1655
 	}
 
 	soldiers=
@@ -781,46 +739,18 @@
 		size= 103
 	}
 
-	artisans=
+	farmers=
 	{
-		culture = americano
-		religion = catholic
+		culture = yankee
+		religion = protestant
 		size= 757
-	}
-
-	clergymen=
-	{
-		culture = americano
-		religion = catholic
-		size= 123
-	}
-
-	bureaucrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 38
-	}
-
-	officers=
-	{
-		culture = americano
-		religion = catholic
-		size= 15
-	}
-
-	aristocrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 159
 	}
 
 	farmers=
 	{
 		culture = americano
 		religion = catholic
-		size= 9081
+		size= 981
 	}
 
 }
@@ -832,27 +762,6 @@
 		size= 141
 	}
 
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 633
-	}
-
-	clergymen=
-	{
-		culture = penutian
-		religion = totemism
-		size= 46
-	}
-
-	aristocrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 117
-	}
-
 	farmers=
 	{
 		culture = penutian
@@ -862,51 +771,23 @@
 
 	soldiers=
 	{
-		culture = plains_algonquian
-		religion = totemism
+		culture = yankee
+		religion = protestant
 		size= 141
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1646
 	}
 
 	clergymen=
 	{
-		culture = plains_algonquian
-		religion = totemism
+		culture = anglo_canadian
+		religion = protestant
 		size= 119
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 37
-	}
-
-	officers=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 15
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 307
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
 		religion = totemism
-		size= 11819
+		size= 1819
 	}
 
 	soldiers=
@@ -916,46 +797,11 @@
 		size= 37
 	}
 
-	artisans=
-	{
-		culture = americano
-		religion = catholic
-		size= 588
-	}
-
-	clergymen=
-	{
-		culture = americano
-		religion = catholic
-		size= 43
-	}
-
-	bureaucrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 13
-	}
-
-	officers=
-	{
-		culture = americano
-		religion = catholic
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 110
-	}
-
 	farmers=
 	{
 		culture = americano
 		religion = catholic
-		size= 2921
+		size= 221
 	}
 
 }
@@ -1006,49 +852,7 @@
 	{
 		culture = penutian
 		religion = totemism
-		size= 18873
-	}
-
-	soldiers=
-	{
-		culture = americano
-		religion = catholic
-		size= 162
-	}
-
-	artisans=
-	{
-		culture = americano
-		religion = catholic
-		size= 1040
-	}
-
-	clergymen=
-	{
-		culture = americano
-		religion = catholic
-		size= 169
-	}
-
-	bureaucrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 51
-	}
-
-	officers=
-	{
-		culture = americano
-		religion = catholic
-		size= 21
-	}
-
-	aristocrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 218
+		size= 873
 	}
 
 	farmers=
@@ -1063,34 +867,6 @@
 		culture = plains_algonquian
 		religion = totemism
 		size= 1
-	}
-
-	artisans=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 13
-	}
-
-	clergymen=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = plains_algonquian
-		religion = totemism
-		size= 3
 	}
 
 	farmers=
@@ -1109,48 +885,6 @@
 		size= 109
 	}
 
-	artisans=
-	{
-		culture = penutian
-		religion = totemism
-		size= 218
-	}
-
-	clergymen=
-	{
-		culture = penutian
-		religion = totemism
-		size= 35
-	}
-
-	bureaucrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 11
-	}
-
-	officers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = penutian
-		religion = totemism
-		size= 46
-	}
-
-	farmers=
-	{
-		culture = penutian
-		religion = totemism
-		size= 10463
-	}
-
 	soldiers=
 	{
 		culture = americano
@@ -1158,46 +892,11 @@
 		size= 78
 	}
 
-	artisans=
-	{
-		culture = americano
-		religion = catholic
-		size= 531
-	}
-
-	clergymen=
-	{
-		culture = americano
-		religion = catholic
-		size= 86
-	}
-
-	bureaucrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 27
-	}
-
-	officers=
-	{
-		culture = americano
-		religion = catholic
-		size= 11
-	}
-
-	aristocrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 112
-	}
-
 	farmers=
 	{
 		culture = americano
 		religion = catholic
-		size= 6990
+		size= 690
 	}
 
 }
@@ -2109,32 +1808,11 @@
 		size= 75
 	}
 
-	bureaucrats=
-	{
-		culture = anglo_canadian
-		religion = protestant
-		size= 23
-	}
-
-	officers=
-	{
-		culture = anglo_canadian
-		religion = protestant
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = anglo_canadian
-		religion = protestant
-		size= 96
-	}
-
 	farmers=
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 5820
+		size= 2820
 	}
 
 }

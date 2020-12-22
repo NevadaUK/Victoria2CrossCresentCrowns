@@ -1,6 +1,6 @@
 owner=THI
 controller=THI
-add_core=THI
 trade_goods = coal
 life_rating = 35
 terrain = steppe
+colonial=2
