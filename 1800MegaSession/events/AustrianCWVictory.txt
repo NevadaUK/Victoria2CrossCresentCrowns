@@ -1,0 +1,30 @@
+country_event = {
+	id = 65005
+	title = "HRE Collapses!"
+	desc = "The Emperor of the HRE and of Austria can no longer hold the Imperial Parliament, especially during the civil war that now rages onwards. The HRE from henceforth will be offically disovled." 
+	
+	trigger = {
+		has_global_flag = civil_war_victory
+		tag = AUS
+		war = no
+		NOT = {
+			SLA = {
+				capital = 641
+				}
+			}
+		NOT = {
+			has_country_flag = seen_civil_war
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "Victory! Victory! Victory!"
+		any_owned = {
+			remove_core = SLA
+			}
+		set_country_flag = seen_civil_war
+	}
+}
