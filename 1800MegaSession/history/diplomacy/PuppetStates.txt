@@ -48,38 +48,6 @@ vassal=
 
 vassal=
 {
-	first="POR"
-	second="CEQ"
-	start_date="1505.10.2"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="SPA"
-	second="CUB"
-	start_date="1521.4.2"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="SPA"
-	second="NSS"
-	start_date="1636.12.7"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="HLL"
-	second="CRB"
-	start_date="1612.6.2"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
 	first="RUS"
 	second="LSK"
 	start_date="1768.10.16"
