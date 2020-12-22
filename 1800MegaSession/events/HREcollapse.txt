@@ -1,0 +1,24 @@
+country_event = {
+	id = 65002
+	title = "HRE Collapses!"
+	desc = "The Emperor of the HRE and of Austria can no longer hold the Imperial Parliament, especially during the civil war that now rages onwards. The HRE from henceforth will be offically disovled." 
+	
+	trigger = {
+		has_global_flag = hre_collapsed
+		NOT = {
+			has_country_flag = seen_hre_collapse
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "The Project that is not Roman, nor Holy is now neither an Empire."
+		any_owned = {
+			remove_core = HRE
+			}
+		clr_country_flag = emperor_hre
+		set_country_flag = seen_hre_collapse
+	}
+}

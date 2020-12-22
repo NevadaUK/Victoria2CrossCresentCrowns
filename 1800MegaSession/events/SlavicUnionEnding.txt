@@ -1,0 +1,36 @@
+country_event = {
+	id = 65001
+	title = "The Slavic Union is at an end."
+	desc = "This union was only meant to last to prevent the austrians from ripping our lands away, it is only fair now that each of these nation states have their soveriegnty returned." 
+	major = yes 
+
+	trigger = {
+		tag = SLA
+		war = no
+		NOT = {
+			has_global_flag = disbanded_union
+		}
+
+	mean_time_to_happen = {
+		months = 1
+	
+		}
+
+	option = {
+		name = "The Union has served its purpose."
+		all_core = {
+			remove_core = SLA
+			}
+		release = HUN
+		release = SER
+		release = CRO
+		release = UKR
+		release = POL
+		release = ROM
+		set_global_flag = disbanded_union			
+		}
+	
+	}
+
+}
+
