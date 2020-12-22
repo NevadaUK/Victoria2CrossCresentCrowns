@@ -1,7 +1,6 @@
-owner=X03
-controller=X03
-add_core=GER
-add_core=PRU
+owner=POL
+controller=POL
+add_core=POL
 trade_goods = cattle
 life_rating = 40
 terrain = plains

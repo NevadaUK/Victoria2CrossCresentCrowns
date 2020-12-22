@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+owner=SAX
+controller=SAX
+add_core=SAX
+>>>>>>> parent of c55273f... restal1
 add_core=HRE
 trade_goods = grain
 life_rating = 40

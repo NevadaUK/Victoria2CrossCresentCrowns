@@ -1,9 +1,11 @@
 owner=AUS
 controller=AUS
+<<<<<<< HEAD
 add_core=SLA
 add_core=PLC
+=======
+>>>>>>> parent of c55273f... restal1
 add_core=POL
-add_core=HRE
 trade_goods = grain
 life_rating = 35
 terrain = plains

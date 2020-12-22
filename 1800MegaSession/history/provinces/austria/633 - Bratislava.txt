@@ -1,4 +1,11 @@
 owner=AUS
 controller=AUS
 add_core=HUN
+<<<<<<< HEAD
 add_core=SLA
+=======
+add_core=SLV
+trade_goods = cattle
+life_rating = 35
+terrain = hills
+>>>>>>> parent of c55273f... restal1
