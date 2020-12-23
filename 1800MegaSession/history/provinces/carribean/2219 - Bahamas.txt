@@ -1,6 +1,6 @@
-owner=NSS
-controller=NSS
-add_core=NSS
+owner=SPA
+controller=SPA
+add_core=SPA
 trade_goods = cotton
 life_rating = 35
 terrain = plains

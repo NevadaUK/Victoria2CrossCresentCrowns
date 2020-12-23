@@ -1,5 +1,6 @@
 owner=AUS
 controller=AUS
+add_core=SLA
 add_core=ROM
 
 

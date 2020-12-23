@@ -1,7 +1,15 @@
 owner=AUS
 controller=AUS
+<<<<<<< HEAD
+add_core=SLA
+add_core=HUN
+add_core=SLV
 add_core=UKR
 add_core=HRE
+=======
+add_core=HUN
+add_core=SLV
+>>>>>>> parent of c55273f... restal1
 trade_goods = coal
 life_rating = 35
 terrain = mountain

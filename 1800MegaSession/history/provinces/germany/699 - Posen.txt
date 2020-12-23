@@ -1,8 +1,6 @@
-owner=X03
-controller=X03
-add_core=PLC
+owner=POL
+controller=POL
 add_core=POL
-add_core=X03
 trade_goods = grain
 life_rating = 40
 terrain = plains

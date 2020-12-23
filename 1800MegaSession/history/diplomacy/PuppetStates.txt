@@ -17,7 +17,7 @@ vassal=
 vassal=
 {
 	first="ENG"
-	second="QUE"
+	second="CAN"
 	start_date="1595.3.2"
 	end_date="1936.1.1"
 }
@@ -41,64 +41,8 @@ vassal=
 vassal=
 {
 	first="AUS"
-	second="X03"
+	second="POL"
 	start_date="1767.11.29"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="POR"
-	second="CEQ"
-	start_date="1505.10.2"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="SPA"
-	second="MEX"
-	start_date="1517.12.2"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="SPA"
-	second="CUB"
-	start_date="1521.4.2"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="SPA"
-	second="PEU"
-	start_date="1619.5.2"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="SPA"
-	second="BUE"
-	start_date="1628.12.2"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="SPA"
-	second="NSS"
-	start_date="1636.12.7"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="HLL"
-	second="CRB"
-	start_date="1612.6.2"
 	end_date="1936.1.1"
 }
 
