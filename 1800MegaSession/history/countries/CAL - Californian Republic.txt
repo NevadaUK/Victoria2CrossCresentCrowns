@@ -1,8 +1,8 @@
 capital = 84
-primary_culture = yankee
+primary_culture = californian
 culture = zzz_religion_protestant
 religion = protestant
-government = democracy
+government = prussian_constitutionalism
 plurality = 0
 nationalvalue = nv_liberty
 literacy = 0
@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
 
-ruling_party = conservative
+ruling_party = CAL_conservative
 upper_house = 
 {
 	fascist = 0

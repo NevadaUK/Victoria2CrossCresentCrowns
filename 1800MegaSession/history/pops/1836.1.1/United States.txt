@@ -1003,7 +1003,7 @@
 84 = {
 	soldiers=
 	{
-		culture = penutian
+		culture = yankee
 		religion = totemism
 		size= 201
 	}
@@ -1066,35 +1066,35 @@
 
 	artisans=
 	{
-		culture = mexican
-		religion = catholic
-		size= 1446
+		culture = californian
+		religion = protestant
+		size= 746
 	}
 
 	clergymen=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 470
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 72
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 304
 	}
@@ -1145,21 +1145,21 @@
 
 	farmers=
 	{
-		culture = penutian
-		religion = totemism
-		size= 6050
+		culture = californian
+		religion = protestant
+		size= 3050
 	}
 
 	soldiers=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 54
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 342
 	}
@@ -1194,8 +1194,8 @@
 
 	farmers=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 4863
 	}
 
@@ -1247,41 +1247,41 @@
 	{
 		culture = penutian
 		religion = totemism
-		size= 19803
+		size= 9803
 	}
 
 	soldiers=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 192
 	}
 
 	artisans=
 	{
-		culture = mexican
-		religion = catholic
-		size= 1180
+		culture = californian
+		religion = protestant
+		size= 880
 	}
 
 	clergymen=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 191
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 59
 	}
 
 	officers=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 23
 	}
 
@@ -1294,9 +1294,9 @@
 
 	farmers=
 	{
-		culture = mexican
-		religion = catholic
-		size= 17304
+		culture = californian
+		religion = protestant
+		size= 9304
 	}
 
 }
@@ -1347,56 +1347,56 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 16582
+		size= 11582
 	}
 
 	soldiers=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 214
 	}
 
 	artisans=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 1202
 	}
 
 	clergymen=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 195
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 60
 	}
 
 	officers=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 252
 	}
 
 	farmers=
 	{
-		culture = mexican
-		religion = catholic
-		size= 19469
+		culture = californian
+		religion = protestant
+		size= 14469
 	}
 
 }
@@ -1424,49 +1424,49 @@
 
 	soldiers=
 	{
-		culture = mexican
-		religion = catholic
-		size= 100
+		culture = californian
+		religion = protestant
+		size= 1000
 	}
 
 	artisans=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 575
 	}
 
 	clergymen=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 93
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 29
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 122
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 9004
 	}
@@ -1517,21 +1517,21 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 272
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 1510
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 245
 	}
@@ -2141,8 +2141,8 @@
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture = californian
+		religion = catholic
 		size= 19600
 	}
 
@@ -2157,7 +2157,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 16444
+		size= 11444
 	}
 
 	soldiers=
@@ -2176,49 +2176,49 @@
 
 	soldiers=
 	{
-		culture = na_dene
+		culture = californian
 		religion = catholic
 		size= 156
 	}
 
 	artisans=
 	{
-		culture = na_dene
+		culture = californian
 		religion = catholic
 		size= 1369
 	}
 
 	clergymen=
 	{
-		culture = na_dene
-		religion = catholic
-		size= 99
+		culture = mexican
+		religion = jewish
+		size= 666
 	}
 
 	bureaucrats=
 	{
-		culture = na_dene
+		culture = californian
 		religion = catholic
 		size= 36
 	}
 
 	officers=
 	{
-		culture = na_dene
+		culture = californian
 		religion = catholic
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = na_dene
+		culture = californian
 		religion = catholic
 		size= 255
 	}
 
 	farmers=
 	{
-		culture = na_dene
+		culture = californian
 		religion = catholic
 		size= 6275
 	}
@@ -2469,13 +2469,13 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 26353
+		size= 6353
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture = californian
+		religion = jewish
 		size= 888
 	}
 
@@ -2509,7 +2509,7 @@
 
 	clergymen=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 58
 	}
@@ -2530,7 +2530,7 @@
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 75
 	}
