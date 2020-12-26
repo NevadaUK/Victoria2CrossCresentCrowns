@@ -1,6 +1,6 @@
-owner=CUB
-controller=CUB
-add_core=CUB
+owner=SPA
+controller=SPA
+add_core=SPA
 trade_goods = sulphur
 life_rating = 35
 terrain = mountain

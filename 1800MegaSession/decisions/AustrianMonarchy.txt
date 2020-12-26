@@ -1,0 +1,69 @@
+political_decisions = {
+	
+	form_danubian_confederation = {
+		potential = { 
+			OR = {
+				tag = KUK
+			}
+			NOT = {
+				exists = DNB
+			}
+		}
+
+	allow = {
+		is_greater_power = yes
+		prestige = 100
+		war = no
+		revolution_n_counterrevolution = 1
+		NOT = {
+			exists = SLA
+			exists = HUN
+			exists = BOH
+			exists = ROM
+		}
+		has_global_flag = austrian_civil_war_has_happened
+	}
+
+	effect = {
+		prestige = 30
+		change_tag = DNB
+		add_accepted_culture = croatian
+		add_accepted_culture = slovene
+		add_accepted_culture = hungarian
+		add_accepted_culture = romanian
+		add_accepted_culture = czech
+		add_accepted_culture = slovak
+			
+		}
+	}
+
+	form_austria_hungary = {
+		potential = { 
+			OR = {
+				tag = AUS
+			}
+			NOT = {
+				exists = KUK
+			}
+		}
+		
+	allow = {
+		is_greater_power = yes
+		prestige = 50
+		war = no
+		state_n_government = 1
+		NOT = {
+			exists = SLA
+			exists = HUN
+		}
+		has_global_flag = austrian_civil_war_has_happened
+	}
+
+	effect = {
+		prestige = 20
+		change_tag = KUK
+		add_accepted_culture = hungarian
+		}
+		
+	}
+}
