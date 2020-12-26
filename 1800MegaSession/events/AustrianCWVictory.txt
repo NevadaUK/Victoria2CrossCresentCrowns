@@ -1,0 +1,26 @@
+country_event = {
+	id = 65005
+	title = "An end to a grusome conflict."
+	desc = "Our nation is restored to its original glory, we must heal our divide from henceforth." 
+	
+	trigger = {
+		has_global_flag = civil_war_victory
+		tag = AUS
+		war = no
+		owns = 641
+		NOT = {
+			has_country_flag = seen_civil_war
+			}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "Victory! Victory! Victory!"
+		any_owned = {
+			remove_core = SLA
+			}
+		set_country_flag = seen_civil_war
+	}
+}
