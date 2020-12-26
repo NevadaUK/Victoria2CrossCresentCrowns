@@ -1,0 +1,64 @@
+capital = 1560
+primary_culture = portuguese
+culture = zzz_religion_catholic
+religion = catholic
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.167458
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=wealth_weighted_voting
+upper_house_composition=population_equal_weight
+voting_system=first_past_the_post
+public_meetings=yes_meeting
+press_rights=state_press
+trade_unions=no_trade_unions
+political_parties=underground_parties
+
+ruling_party = POR_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 2
+	conservative = 86
+	reactionary = 12
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 0.478914
+nonstate_consciousness= 0.357133
+
+# Technologies
+ad_hoc_money_bill_printing = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+late_enlightenment_philosophy = 1
+no_standard = 1
+post_napoleonic_thought = 1
+private_banks = 1
+stock_exchange = 1
+water_wheel_power = 1
+prestige=5
+oob = "NGN_OOB.txt"
+set_country_flag = religi
