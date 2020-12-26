@@ -1,5 +1,5 @@
 owner=PEU
-controller=PEU
+controller=SPA
 trade_goods = timber
 life_rating = 35
 terrain = plains

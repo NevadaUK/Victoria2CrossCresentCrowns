@@ -53,10 +53,8 @@ BRG = {
 	level = 2
 }
 BUE = {
-	value = 75
-	military_access = yes
-	influence_value = 56
-	level = 5
+	value = -200
+	level = 2
 }
 BUG = {
 	value = 0
@@ -238,10 +236,8 @@ MEW = {
 	level = 2
 }
 MEX = {
-	value = 75
-	military_access = yes
-	influence_value = 56
-	level = 5
+	value = -200
+	level = 2
 }
 MKS = {
 	value = 0
@@ -272,10 +268,8 @@ NEP = {
 	level = 2
 }
 NSS = {
-	value = 76
-	military_access = yes
-	influence_value = 56
-	level = 5
+	value = 0
+	level = 2
 }
 NZL = {
 	value = 0
@@ -302,10 +296,8 @@ PER = {
 	level = 2
 }
 PEU = {
-	value = 75
-	military_access = yes
-	influence_value = 56
-	level = 5
+	value = -200
+	level = 2
 }
 POR = {
 	value = -54
@@ -560,7 +552,7 @@ navy = {
 
 army = {
 	name="1st Army"
-	location=1687
+	location=2344
 	regiment = {
 		name="1st Ávila Infantry"
 		type=infantry

@@ -1,23 +1,9 @@
-name = "Spanish New World Revolt"
+name = "Spanish New World Revolt - Mexico"
 
 1800.1.1 = {
 	add_attacker = SPA
 	add_defender = MEX
-	add_defender = PEU
-	add_defender = BUE
 
-	war_goal = {
-		casus_belli = conquest
-		actor = SPA
-		receiver = BUE
-		country = BUE
-	}
-	war_goal = {
-		casus_belli = conquest
-		actor = SPA
-		receiver = PEU
-		country = PEU
-	}
 	war_goal = {
 		casus_belli = conquest
 		actor = SPA

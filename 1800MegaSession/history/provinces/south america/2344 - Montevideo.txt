@@ -1,5 +1,5 @@
 owner=BUE
-controller=BUE
+controller=SPA
 add_core=BUE
 trade_goods = cattle
 life_rating = 35
