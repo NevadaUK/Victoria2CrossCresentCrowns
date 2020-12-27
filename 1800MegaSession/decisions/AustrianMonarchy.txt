@@ -63,7 +63,47 @@ political_decisions = {
 		prestige = 20
 		change_tag = KUK
 		add_accepted_culture = hungarian
-		}
-		
+		any_owned_province = {
+			remove_core = AUS
+			}
+	    	}
 	}
+
+	form_hre_austria = {
+		potential = { 
+			OR = {
+				tag = AUS
+			}
+			NOT = {
+				exists = HRE
+			}
+		}
+
+		allow = {
+			is_greater_power = yes
+			war = no
+			has_global_flag = austrian_civil_war_has_happened
+			has_country_flag = emperor_hre
+		
+			all_core = HRE { 
+					OR = {
+						owned_by = THIS
+						owner = { 
+							in_sphere = THIS
+							OR = {
+								is_vassal = no	
+								vassal_of = THIS
+							}
+				}
+			  }
+			}
+		  }
+		  
+		effect = {
+			prestige = 50
+			change_tag = HRE
+			add_accepted_culture = south_german
+			add_accepted_culture = swiss
+			}	
+     }
 }
