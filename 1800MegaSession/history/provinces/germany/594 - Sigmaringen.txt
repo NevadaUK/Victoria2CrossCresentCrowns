@@ -2,6 +2,7 @@ owner=TTL
 controller=TTL
 add_core=GER
 add_core=TTL
+add_core=HRE
 trade_goods = grain
 life_rating = 40
 terrain = plains

@@ -3,7 +3,7 @@ controller=AUS
 add_core=ROM
 <<<<<<< HEAD
 add_core=SLA
-add_core=HRE
+
 =======
 >>>>>>> parent of c55273f... restal1
 trade_goods = fish

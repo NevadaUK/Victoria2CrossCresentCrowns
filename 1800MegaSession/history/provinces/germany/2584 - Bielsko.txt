@@ -3,9 +3,8 @@ controller=AUS
 add_core=POL
 <<<<<<< HEAD
 add_core=SLA
-add_core=CZH
 add_core=SLV
-add_core=HRE
+
 =======
 >>>>>>> parent of c55273f... restal1
 trade_goods = coal
