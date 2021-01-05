@@ -32,6 +32,14 @@ vassal=
 
 vassal=
 {
+	first="POR"
+	second="NGN"
+	start_date="1649.4.8"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
 	first="AUS"
 	second="X02"
 	start_date="1767.7.15"

@@ -1,7 +1,7 @@
-owner=POR
-controller=ARA
-add_core=MAL
+owner=NGN
+controller=NGN
+add_core=NGN
 trade_goods = fish
 life_rating = 30
 terrain = plains
-colonial=2
+naval_base = 1

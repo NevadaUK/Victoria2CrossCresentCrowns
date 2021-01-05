@@ -1,5 +1,5 @@
-owner=MKS
-controller=MKS
+owner=POR
+controller=POR
 add_core=MAL
 add_core=MKS
 trade_goods = grain

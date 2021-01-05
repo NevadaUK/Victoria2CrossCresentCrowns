@@ -1,6 +1,6 @@
-owner=POR
-controller=POR
+owner=NGN
+controller=NGN
+add_core=NGN
 trade_goods = grain
 life_rating = 30
 terrain = plains
-colonial=2
