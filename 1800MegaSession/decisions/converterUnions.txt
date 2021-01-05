@@ -5125,6 +5125,7 @@ political_decisions = {
 				exists = USA
 				exists = CSA
 				tag = TEX
+				tag = THI
 				tag = CAL
 			}
 		}	
