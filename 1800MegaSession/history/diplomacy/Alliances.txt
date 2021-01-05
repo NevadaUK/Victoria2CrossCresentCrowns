@@ -566,3 +566,26 @@ alliance=
 	end_date="1936.1.1"
 }
 
+alliance=
+{
+	first="PEU"
+	second="MEX"
+	start_date="1800.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MEX"
+	second="BUE"
+	start_date="1800.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BUE"
+	second="PEU"
+	start_date="1800.1.1"
+	end_date="1936.1.1"
+}
