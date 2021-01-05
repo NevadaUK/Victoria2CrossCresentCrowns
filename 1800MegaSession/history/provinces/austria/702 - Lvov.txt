@@ -4,7 +4,6 @@ controller=AUS
 add_core=SLA
 add_core=POL
 add_core=UKR
-add_core=HRE
 =======
 add_core=POL
 trade_goods = coal

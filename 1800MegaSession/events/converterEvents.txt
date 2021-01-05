@@ -25,25 +25,6 @@ country_event = {
     }
 }
 
-country_event = { 
-	id = 250002
-	title = EVTNAME250002
-	desc = EVTDESC250002
-
-	trigger = { 
-		has_country_flag = emperor_hre 
-		has_global_flag = liberal_revolutions_should_now_fire 
-	}
-
-	mean_time_to_happen = { months = 1 }
-
-	option = { 
-		name = EVTOPTA250002
-		clr_country_flag = emperor_hre 
-		any_province = { remove_core = HRE }
-	}
-}
-
 country_event = {
     id = 250003
     title = EVTNAME250003
