@@ -1,7 +1,5 @@
 capital = 2209
 primary_culture = caribeno
-culture = afro_caribeno
-culture = afro_norse
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship

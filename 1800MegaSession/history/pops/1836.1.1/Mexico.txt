@@ -157,7 +157,7 @@
 
 	artisans=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 441
 	}
@@ -185,14 +185,14 @@
 
 	aristocrats=
 	{
-		culture = mexican
-		religion = catholic
+		culture = californian
+		religion = protestant
 		size= 93
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 5986
 	}
@@ -257,14 +257,14 @@
 
 	artisans=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 417
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 69
 	}
@@ -278,23 +278,23 @@
 
 	officers=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
 		size= 88
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = californian
 		religion = catholic
-		size= 7067
+		size= 2067
 	}
 
 	soldiers=
