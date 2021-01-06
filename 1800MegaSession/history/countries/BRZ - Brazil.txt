@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
 
-ruling_party = conservative
+ruling_party = BRZ_conservative
 upper_house = 
 {
 	fascist = 0
