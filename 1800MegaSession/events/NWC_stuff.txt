@@ -1,0 +1,97 @@
+country_event = {	#Mexico Collapse
+	id = 65010
+	title = "NWCTIT10"
+	desc = "NWCDES10"
+	major = yes
+	
+	trigger = {
+		tag = MEX
+		war = no
+		NOT = {
+			has_global_flag = mex_collapsed
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+	}
+	
+	option = {
+		name = "Mierda..."
+		release = CAL
+		release = NMC
+		release = TEX
+		release = NMY
+		release = SMY
+		release = UCA
+		any_pop = {
+			consciousness = 5
+			militancy = 3
+		}
+		set_global_flag = mex_collapsed
+
+	}
+}
+
+country_event = {	#Peru Collapse
+	id = 65011
+	title = "NWCTIT11"
+	desc = "NWCDES11"
+	major = yes
+	
+	trigger = {
+		tag = PEU
+		war = no
+		NOT = {
+			has_global_flag = peu_collapsed
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+	}
+	
+	option = {
+		name = "Mierda..."
+		any_pop = {
+			consciousness = 5
+			militancy = 3
+		}
+		set_global_flag = peu_collapsed
+
+	}
+}
+country_event = {	#Buenos Aires Collapse
+	id = 65012
+	title = "NWCTIT12"
+	desc = "NWCDES12"
+	major = yes
+	
+	trigger = {
+		tag = BUE
+		war = no
+		NOT = {
+			has_global_flag = bue_collapsed
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+	}
+	
+	option = {
+		name = "Mierda..."
+		any_pop = {
+			consciousness = 5
+			militancy = 3
+		}
+		set_global_flag = bue_collapsed
+
+	}
+}
