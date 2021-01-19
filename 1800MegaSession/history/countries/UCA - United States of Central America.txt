@@ -4,7 +4,7 @@ culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship
 plurality = 0
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
@@ -20,8 +20,8 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=wealth_weighted_voting
-upper_house_composition=state_equal_weight
+vote_franschise=none_voting
+upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=yes_meeting
 press_rights=censored_press

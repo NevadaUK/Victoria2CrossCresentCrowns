@@ -26,6 +26,7 @@ country_event = {	#Mexico Collapse
 		release = NMY
 		release = SMY
 		release = UCA
+		release = COD
 		any_pop = {
 			consciousness = 5
 			militancy = 3
@@ -35,15 +36,55 @@ country_event = {	#Mexico Collapse
 	}
 }
 
-country_event = {	#Peru Collapse
+country_event = {	#Peru Collapse pt1
 	id = 65011
 	title = "NWCTIT11"
 	desc = "NWCDES11"
-	major = yes
-	
+	picture = "peru1"
 	trigger = {
 		tag = PEU
 		war = no
+		NOT = {
+			has_global_flag = peu_assassin
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		
+	}
+	
+	option = {
+		name = "Who would do this?"
+		any_pop = {
+			consciousness = 3
+			militancy = 6
+		}
+		set_global_flag = peu_assassin
+
+	}
+	option = {
+		name = "In Vargas we trust."
+		any_pop = {
+			consciousness = 6
+			militancy = 3
+		}
+		set_global_flag = peu_assassin
+
+	}
+}
+
+country_event = {	#Peru Collapse pt2
+	id = 65012
+	title = "NWCTIT12"
+	desc = "NWCDES12"
+	major = yes
+	has_global_flag = peu_assassin
+	trigger = {
+		tag = PEU
+		war = no
+		has_global_flag = peu_assassin
 		NOT = {
 			has_global_flag = peu_collapsed
 		}
@@ -59,16 +100,16 @@ country_event = {	#Peru Collapse
 		name = "Mierda..."
 		any_pop = {
 			consciousness = 5
-			militancy = 3
+			militancy = 5
 		}
 		set_global_flag = peu_collapsed
 
 	}
 }
 country_event = {	#Buenos Aires Collapse
-	id = 65012
-	title = "NWCTIT12"
-	desc = "NWCDES12"
+	id = 65013
+	title = "NWCTIT13"
+	desc = "NWCDES13"
 	major = yes
 	
 	trigger = {
@@ -81,7 +122,7 @@ country_event = {	#Buenos Aires Collapse
 	}
 	
 	mean_time_to_happen = {
-		months = 2
+		months = 1
 		
 	}
 	

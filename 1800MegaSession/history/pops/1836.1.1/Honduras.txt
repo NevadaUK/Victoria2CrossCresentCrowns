@@ -45,7 +45,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 5710
+		size= 571
 	}
 
 	soldiers=
