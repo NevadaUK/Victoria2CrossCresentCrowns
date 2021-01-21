@@ -202,6 +202,10 @@ NGN_presidential_dictatorship;Novo Guineense Republic;
 NGN_bourgeois_dictatorship;Territory of Nova Guine;
 NGN_fascist_dictatorship;Free Nova Guine;
 NGN_democracy;Republic of Nova Guine;
+<<<<<<< HEAD
+=======
+NGN_ADJ;Guinean;Guinéen;Guineische;;Guineano;;;;;;;;;x;;;;
+>>>>>>> 94f3d399883807afb42f2c1c389f6fcd85b5066a
 VIN_absolute_monarchy;Kingdom of Vinland;
 VIN_prussian_constitutionalism;Kingdom of Vinland;
 VIN_hms_government;Kingdom of Vinland;
