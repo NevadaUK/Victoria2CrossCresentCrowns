@@ -2,7 +2,7 @@ owner=SCA
 controller=SCA
 add_core=SCA
 add_core=SWE
-add_core=HRE
+
 trade_goods = coal
 life_rating = 35
 terrain = farmlands

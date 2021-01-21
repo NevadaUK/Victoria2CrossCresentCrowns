@@ -1,6 +1,7 @@
-owner=POR
-controller=POR
-add_core=POR
+owner=NGN
+controller=NGN
+add_core=NGN
 trade_goods = tropical_wood
-life_rating = 15
+life_rating = 25
 terrain = plains
+naval_base = 1

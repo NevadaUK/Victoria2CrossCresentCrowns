@@ -3,7 +3,7 @@ controller=CRS
 add_core=CRS
 add_core=ITA
 add_core=SIC
-add_core=HRE
+
 trade_goods = fish
 life_rating = 35
 terrain = plains

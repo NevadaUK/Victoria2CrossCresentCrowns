@@ -470,6 +470,7 @@ political_decisions = {
 				tag = SLA
 				tag = HRE
 				tag = WSF
+				tag = THI
 			}
 		}
 		
