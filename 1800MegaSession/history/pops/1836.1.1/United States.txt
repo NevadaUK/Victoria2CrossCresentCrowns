@@ -6788,9 +6788,9 @@
 
 	soldiers=
 	{
-		culture = mexican
-		religion = catholic
-		size= 1033
+		culture = texan
+		religion = protestant
+		size= 3033
 	}
 
 	artisans=
@@ -6809,16 +6809,16 @@
 
 	bureaucrats=
 	{
-		culture = mexican
-		religion = catholic
+		culture = texan
+		religion = protestant
 		size= 50
 	}
 
 	officers=
 	{
-		culture = mexican
-		religion = catholic
-		size= 20
+		culture = texan
+		religion = protestant
+		size= 60
 	}
 
 	aristocrats=

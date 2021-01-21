@@ -30,6 +30,20 @@ party = {
 }
 
 party = {
+	name = "UCA_liberal_2"
+	start_date = 1846.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = pluralism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = jingoism
+}
+
+party = {
 	name = "UCA_reactionary"
 	start_date = 1680.1.1
 	end_date = 2000.1.1

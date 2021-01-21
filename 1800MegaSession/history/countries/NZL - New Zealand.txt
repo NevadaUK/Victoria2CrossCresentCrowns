@@ -1,9 +1,10 @@
 capital = 2571
 primary_culture = australian
 culture = aborigine
+culture = maori
 culture = zzz_religion_protestant
 religion = protestant
-government = presidential_dictatorship
+government = hms_government
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.299306

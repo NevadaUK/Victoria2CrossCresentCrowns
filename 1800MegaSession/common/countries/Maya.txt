@@ -12,7 +12,21 @@ party = {
 	trade_policy = free_trade
 	religious_policy = moralism
 	citizenship_policy = full_citizenship
-	war_policy = anti_military
+	war_policy = pacifism
+}
+
+party = {
+	name = "CHE_liberal_2"
+	start_date = 1840.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = jingoism
 }
 
 party = {
@@ -83,6 +97,20 @@ party = {
 	religious_policy = pro_atheism
 	citizenship_policy = full_citizenship
 	war_policy = pro_military
+}
+
+party = {
+	name = "CHE_anarcho_liberal_2"
+	start_date = 1710.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
 }
 
 party = {
