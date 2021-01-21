@@ -780,45 +780,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	postcol_USA = {
-		image = apply_for_USA_statehood
-		potential = {
-			NOT = { exists = USA }
-			capital_scope = { is_core = USA }
-			NOT = { tag = CAN }
-			NOT = { tag = CSA }
-			NOT = { has_country_flag = precolonial }
-			NOT = { has_country_flag = postcol_2 }
-		}	
-		allow = {
-			war = no
-			is_independant = yes
-			USA = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						empty = yes
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 10
-			any_owned = {
-				add_core = USA
-			}
-			change_tag = USA
-			capital = 220
-			set_country_flag = postcol_2
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	postcol_CAL = {
 		potential = {
 			NOT = { exists = CAL }

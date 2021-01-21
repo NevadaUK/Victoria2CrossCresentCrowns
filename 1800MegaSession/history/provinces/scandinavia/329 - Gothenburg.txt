@@ -2,7 +2,7 @@ owner=SCA
 controller=SCA
 add_core=NOR
 add_core=SCA
-add_core=HRE
+
 trade_goods = fish
 life_rating = 35
 terrain = hills

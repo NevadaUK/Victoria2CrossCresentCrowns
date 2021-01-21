@@ -1,5 +1,5 @@
 owner=SCA
-controller=REB
+controller=SCA
 add_core=SCA
 add_core=SMI
 trade_goods = iron

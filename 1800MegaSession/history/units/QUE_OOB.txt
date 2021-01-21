@@ -101,7 +101,7 @@ DAR = {
 	level = 2
 }
 ENG = {
-	value = 0
+	value = 10
 	military_access = yes
 	level = 2
 }
@@ -418,8 +418,8 @@ X04 = {
 
 #Armies
 navy = {
-	name="3rd Fleet"
-	location=48
+	name="1st Royal Canadian Fleet"
+	location=65
 	ship = {
 		name="1st Millertown Man'o'war"
 		type=manowar
@@ -460,52 +460,6 @@ navy = {
 		name="4th Quebec City Frigate"
 		type=frigate
 	}
-}
-
-navy = {
-	name="2nd Fleet"
-	location=3067
-	ship = {
-		name="1st Chicoutimi Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Bathurst Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="1st Fleet"
-	location=2919
-	ship = {
-		name="1st Saint Johns Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Canada Frigate"
-		type=frigate
-	}
-}
-
-army = {
-	name="2nd Army"
-	location=75
-	regiment = {
-		name="1st Millertown Infantry"
-		type=infantry
-		home=75
-	}
-	regiment = {
-		name="2nd Millertown Infantry"
-		type=infantry
-		home=75
-	}
-}
-
-navy = {
-	name="6th Fleet"
-	location=2944
 	ship = {
 		name="1st Bangor Frigate"
 		type=frigate
@@ -529,6 +483,91 @@ navy = {
 	ship = {
 		name="9th Millertown Frigate"
 		type=frigate
+	}
+}
+
+navy = {
+	name="Hudson Bay Fleet"
+	location=71
+	ship = {
+		name="1st Chicoutimi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bathurst Frigate"
+		type=frigate
+	}
+		ship = {
+		name="1st Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Johns Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fort Albany Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fort Albany Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Millertown Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Royal Canadian Fleet"
+	location=48
+	ship = {
+		name="1st Saint Johns Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canada Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=75
+	regiment = {
+		name="1st Millertown Infantry"
+		type=infantry
+		home=75
+	}
+	regiment = {
+		name="2nd Millertown Infantry"
+		type=infantry
+		home=75
 	}
 }
 
@@ -622,8 +661,8 @@ army = {
 }
 
 navy = {
-	name="4th Fleet"
-	location=3011
+	name="4th Royal Canadian Fleet"
+	location=74
 	ship = {
 		name="8th Millertown Frigate"
 		type=frigate
@@ -651,68 +690,6 @@ navy = {
 	ship = {
 		name="10th Millertown Frigate"
 		type=frigate
-	}
-}
-
-navy = {
-	name="5th Fleet"
-	location=65
-	ship = {
-		name="1st Millertown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Saint Johns Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Millertown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Fort Albany Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Fort Albany Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Millertown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Millertown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Millertown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="6th Millertown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="7th Millertown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="8th Millertown Clipper Transport"
-		type=clipper_transport
-	}
-}
-
-navy = {
-	name="12th Fleet"
-	location=62
-	ship = {
-		name="9th Millertown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="10th Millertown Clipper Transport"
-		type=clipper_transport
 	}
 }
 

@@ -1,7 +1,10 @@
 political_decisions = {
+	
 	declaration_of_independence = {
+		image = apply_for_USA_statehood
 		potential = {
 			tag = THI
+			has_country_flag = indieventstarted
 			NOT = {
 			      year = 1845
 			      has_country_flag = indieventcomplete
@@ -24,3 +27,31 @@ political_decisions = {
 			}
 		}
 	}
+	postcol_USA = {
+		image = apply_for_USA_statehood
+		potential = {
+			tag = THI
+			is_independent = yes
+			has_country_flag = indieventcomplete
+			NOT = {
+			      tag = USA      
+			}	
+		allow = {
+			war = no
+		}
+		
+		effect = {
+			prestige = 20
+			any_owned = {
+				add_core = USA
+			}
+			change_tag = USA
+			government = democracy
+			capital = 220
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	}
+}
