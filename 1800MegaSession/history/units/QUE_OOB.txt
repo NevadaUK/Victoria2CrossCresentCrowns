@@ -571,40 +571,6 @@ army = {
 	}
 }
 
-navy = {
-	name="14th Fleet"
-	location=2945
-	ship = {
-		name="2nd Quebec City Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Rimouski Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Quebec City Frigate"
-		type=frigate
-	}
-	ship = {
-		name="6th Millertown Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Chicoutimi Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="16th Fleet"
-	location=3210
-	ship = {
-		name="7th Millertown Frigate"
-		type=frigate
-	}
-}
-
 army = {
 	name="3rd Army"
 	location=63
