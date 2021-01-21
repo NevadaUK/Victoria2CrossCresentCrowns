@@ -3,7 +3,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 10130
+		size= 1013
 	}
 
 	soldiers=
@@ -24,7 +24,7 @@
 	{
 		culture = afro_caribbean
 		religion = protestant
-		size= 63820
+		size= 638
 	}
 
 	soldiers=
@@ -75,7 +75,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 10845
+		size= 1084
 	}
 
 	soldiers=
@@ -96,7 +96,7 @@
 	{
 		culture = afro_caribbean
 		religion = protestant
-		size= 68330
+		size= 683
 	}
 
 	soldiers=
@@ -110,7 +110,7 @@
 	{
 		culture = falklander
 		religion = protestant
-		size= 10608
+		size= 1060
 	}
 
 	clergymen=

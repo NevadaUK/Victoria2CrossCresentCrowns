@@ -3,7 +3,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 44366
+		size= 4436
 	}
 
 	soldiers=
@@ -52,7 +52,7 @@
 	{
 		culture = afro_norse
 		religion = protestant
-		size= 160691
+		size= 1606
 	}
 
 	soldiers=
@@ -66,7 +66,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 26456
+		size= 2645
 	}
 
 	clergymen=
@@ -103,7 +103,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 45845
+		size= 584
 	}
 
 	soldiers=
@@ -152,28 +152,28 @@
 	{
 		culture = afro_norse
 		religion = protestant
-		size= 166047
+		size= 1604
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 9299
+		size= 299
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 26456
+		size= 2456
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1417
+		size= 117
 	}
 
 	bureaucrats=
@@ -194,7 +194,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 4762
+		size= 462
 	}
 
 }
@@ -203,7 +203,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 17305
+		size= 7305
 	}
 
 	soldiers=
@@ -217,7 +217,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 1212
+		size= 212
 	}
 
 	clergymen=
@@ -252,14 +252,14 @@
 	{
 		culture = afro_norse
 		religion = protestant
-		size= 55848
+		size= 848
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 3128
+		size= 128
 	}
 
 	artisans=
