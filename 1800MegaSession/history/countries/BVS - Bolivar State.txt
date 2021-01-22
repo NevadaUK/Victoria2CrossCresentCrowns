@@ -1,13 +1,11 @@
-capital = 2279
+capital = 2243
 primary_culture = north_andean
 culture = zzz_religion_catholic
-culture = south_andean
-culture = chibchan
 religion = catholic
-government = democracy
+government = presidential_dictatorship
 plurality = 0
-nationalvalue = nv_liberty
-literacy = 0
+nationalvalue = nv_order
+literacy = 0.25577
 
 civilized = yes
 
@@ -22,7 +20,7 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=wealth_weighted_voting
+vote_franschise=none_voting
 upper_house_composition=state_equal_weight
 voting_system=jefferson_method
 public_meetings=yes_meeting
@@ -30,23 +28,34 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
 
-ruling_party = ECU_conservative
+ruling_party = BVS_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
+	liberal = 12
+	conservative = 50
+	reactionary = 38
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
 # Starting Consciousness
-consciousness = 2
-nonstate_consciousness= 0
+consciousness = 1.66667
+nonstate_consciousness= 0.51795
 
 # Technologies
-prestige=0
-oob = "ECU_OOB.txt"
-set_country_flag = religi
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+late_enlightenment_philosophy = 1
+mechanized_mining = 1
+no_standard = 1
+private_banks = 1
+publishing_industry = 1
+water_wheel_power = 1
+prestige=1.01594
+
