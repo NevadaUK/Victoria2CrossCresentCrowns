@@ -104,6 +104,7 @@ country_event = {	#Peru Collapse pt2
 	
 	option = {
 		name = "Mierda..."
+		release = LSL
 		any_pop = {
 			consciousness = 5
 			militancy = 5
@@ -133,10 +134,9 @@ country_event = {	#Buenos Aires Collapse
 	}
 	
 	option = {
-		name = "Mierda..."
+		name = "'It's a peaceful life'"
 		any_pop = {
-			consciousness = 5
-			militancy = 3
+			consciousness = 3
 		}
 		set_global_flag = bue_collapsed
 
