@@ -1,12 +1,10 @@
-capital = 2295
+capital = 2307
 primary_culture = south_andean
-culture = aimara
-culture = quechua
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy
 plurality = 0
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0.244886
 
 civilized = yes
@@ -22,7 +20,7 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=wealth_weighted_voting
+vote_franschise=landed_voting
 upper_house_composition=state_equal_weight
 voting_system=jefferson_method
 public_meetings=yes_meeting
@@ -30,13 +28,13 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
 
-ruling_party = PEU_liberal
+ruling_party = LGJ_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 14
-	conservative = 81
-	reactionary = 5
+	liberal = 6
+	conservative = 13
+	reactionary = 81
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
@@ -72,5 +70,4 @@ stock_exchange = 1
 the_command_principle = 1
 water_wheel_power = 1
 prestige=0
-oob = "PEU_OOB.txt"
 set_country_flag = religi

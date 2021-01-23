@@ -1,7 +1,5 @@
-capital = 2295
+capital = 2287
 primary_culture = south_andean
-culture = aimara
-culture = quechua
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy
@@ -30,7 +28,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
 
-ruling_party = PEU_liberal
+ruling_party = LSL_liberal
 upper_house = 
 {
 	fascist = 0
@@ -72,5 +70,4 @@ stock_exchange = 1
 the_command_principle = 1
 water_wheel_power = 1
 prestige=0
-oob = "PEU_OOB.txt"
 set_country_flag = religi

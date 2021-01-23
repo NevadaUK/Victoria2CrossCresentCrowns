@@ -35,7 +35,7 @@ country_event = {	#Mexico Collapse
 		release = MDN
 		any_pop = {
 			consciousness = 5
-			militancy = 3
+			militancy = 6
 		}
 		set_global_flag = mex_collapsed
 
@@ -104,7 +104,11 @@ country_event = {	#Peru Collapse pt2
 	
 	option = {
 		name = "Mierda..."
+		release = CDH
 		release = LSL
+		release = NVP
+		release = LGJ
+		change_tag_no_core_switch = CDH
 		any_pop = {
 			consciousness = 5
 			militancy = 5
