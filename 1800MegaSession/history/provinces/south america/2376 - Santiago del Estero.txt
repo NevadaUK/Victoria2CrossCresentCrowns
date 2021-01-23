@@ -1,5 +1,7 @@
 owner=PEU
 controller=SPA
+add_core=AML
+add_core=AM3
 trade_goods = timber
 life_rating = 35
 terrain = plains
