@@ -94,7 +94,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 883
+		size= 8083
 	}
 
 	soldiers=
@@ -194,7 +194,7 @@
 	{
 		culture = na_dene
 		religion = totemism
-		size= 443
+		size= 4435
 	}
 
 	soldiers=
@@ -243,7 +243,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 883
+		size= 8083
 	}
 
 	soldiers=
@@ -392,7 +392,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 681
+		size= 6815
 	}
 
 }
@@ -543,7 +543,7 @@
 	{
 		culture = eskaleut
 		religion = totemism
-		size= 1280
+		size= 12805
 	}
 
 	soldiers=
@@ -592,7 +592,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 8688
+		size= 18688
 	}
 
 }
@@ -766,7 +766,7 @@
 	{
 		culture = penutian
 		religion = totemism
-		size= 1398
+		size= 13098
 	}
 
 	soldiers=
@@ -859,7 +859,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 4513
+		size= 14513
 	}
 
 	soldiers=
@@ -947,7 +947,7 @@
 	{
 		culture = penutian
 		religion = totemism
-		size= 1043
+		size= 10463
 	}
 
 	soldiers=
@@ -3752,7 +3752,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 148
+		size= 1488
 	}
 
 	clergymen=
@@ -3787,7 +3787,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 12576
+		size= 22576
 	}
 
 }
@@ -4925,7 +4925,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 94
+		size= 945
 	}
 
 	clergymen=
@@ -4960,7 +4960,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1513
+		size= 15139
 	}
 
 	soldiers=
@@ -4974,7 +4974,7 @@
 	{
 		culture = caddoan
 		religion = totemism
-		size= 1961
+		size= 6961
 	}
 
 	soldiers=
@@ -5284,7 +5284,7 @@
 
 }
 129 = {
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -5326,7 +5326,7 @@
 		size= 8597
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -5382,7 +5382,7 @@
 		size= 10234
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_caribbean
 		religion = protestant
@@ -5440,7 +5440,7 @@
 
 }
 130 = {
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -5496,7 +5496,7 @@
 		size= 4580
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -5552,7 +5552,7 @@
 		size= 1549
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_caribbean
 		religion = protestant
@@ -5745,7 +5745,7 @@
 
 }
 132 = {
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -5787,7 +5787,7 @@
 		size= 3840
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -5843,7 +5843,7 @@
 		size= 5845
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -5892,7 +5892,7 @@
 		size= 28
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -5950,7 +5950,7 @@
 
 }
 133 = {
-	farmers=
+	slaves=
 	{
 		culture = na_dene
 		religion = totemism
@@ -6006,7 +6006,7 @@
 		size= 1859
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -6062,7 +6062,7 @@
 		size= 5817
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -6090,7 +6090,7 @@
 		size= 1607
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -6125,7 +6125,7 @@
 		size= 76
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -6169,7 +6169,7 @@
 
 }
 134 = {
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -6211,7 +6211,7 @@
 		size= 5445
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -6267,7 +6267,7 @@
 		size= 2503
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -6323,7 +6323,7 @@
 		size= 2665
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -6651,7 +6651,7 @@
 
 }
 137 = {
-	farmers=
+	slaves=
 	{
 		culture = na_dene
 		religion = totemism
@@ -6693,7 +6693,7 @@
 		size= 6192
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_caribeno
 		religion = catholic
@@ -6837,7 +6837,7 @@
 
 }
 139 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -6893,7 +6893,7 @@
 		size= 14681
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -6949,7 +6949,7 @@
 		size= 8057
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -7005,7 +7005,7 @@
 		size= 15521
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -7063,7 +7063,7 @@
 
 }
 140 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -7119,7 +7119,7 @@
 		size= 10628
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -7175,7 +7175,7 @@
 		size= 5746
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -7231,7 +7231,7 @@
 		size= 10873
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -7289,7 +7289,7 @@
 
 }
 141 = {
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -7338,7 +7338,7 @@
 		size= 1599
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -7394,7 +7394,7 @@
 		size= 3237
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -7443,7 +7443,7 @@
 		size= 25
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -7501,7 +7501,7 @@
 
 }
 142 = {
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -7557,7 +7557,7 @@
 		size= 6593
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -7613,7 +7613,7 @@
 		size= 2
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -7669,7 +7669,7 @@
 		size= 5294
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -7727,7 +7727,7 @@
 
 }
 143 = {
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -7748,7 +7748,7 @@
 		size= 4393
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -7762,7 +7762,7 @@
 		size= 3638
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -7818,7 +7818,7 @@
 		size= 4230
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -7874,7 +7874,7 @@
 		size= 88
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -7930,7 +7930,7 @@
 		size= 4052
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -7951,7 +7951,7 @@
 		size= 81
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = protestant
@@ -8363,7 +8363,7 @@
 
 }
 146 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -8384,7 +8384,7 @@
 		size= 11813
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -8405,7 +8405,7 @@
 		size= 1270
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -8426,7 +8426,7 @@
 		size= 772
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = sonoran
 		religion = totemism
@@ -8612,7 +8612,7 @@
 
 }
 148 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -8633,7 +8633,7 @@
 		size= 7967
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -8654,7 +8654,7 @@
 		size= 317
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -8675,7 +8675,7 @@
 		size= 29084
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = sonoran
 		religion = totemism
@@ -8696,7 +8696,7 @@
 		size= 215
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -8726,7 +8726,7 @@
 
 }
 149 = {
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -8754,7 +8754,7 @@
 		size= 3940
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -8796,7 +8796,7 @@
 		size= 35
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -8852,7 +8852,7 @@
 		size= 1580
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_caribbean
 		religion = protestant
@@ -8910,7 +8910,7 @@
 
 }
 150 = {
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -8931,7 +8931,7 @@
 		size= 18025
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = caddoan
 		religion = totemism
@@ -8952,7 +8952,7 @@
 		size= 111
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -8973,7 +8973,7 @@
 		size= 137
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = sonoran
 		religion = totemism
@@ -9001,7 +9001,7 @@
 		size= 354
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = protestant
@@ -9057,7 +9057,7 @@
 		size= 6680
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -10808,7 +10808,7 @@
 
 }
 168 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10829,7 +10829,7 @@
 		size= 11147
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -10850,7 +10850,7 @@
 		size= 484
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -10871,7 +10871,7 @@
 		size= 162
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -10927,7 +10927,7 @@
 		size= 106
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_caribbean
 		religion = protestant
@@ -11078,7 +11078,7 @@
 
 }
 170 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -11134,7 +11134,7 @@
 		size= 8017
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = protestant
@@ -11190,7 +11190,7 @@
 		size= 1004
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_caribbean
 		religion = protestant
@@ -12236,7 +12236,7 @@
 
 }
 182 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -12257,7 +12257,7 @@
 		size= 23028
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -12278,7 +12278,7 @@
 		size= 163
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -12299,7 +12299,7 @@
 		size= 182
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = protestant
@@ -12357,7 +12357,7 @@
 
 }
 183 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -12378,7 +12378,7 @@
 		size= 23426
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -12399,7 +12399,7 @@
 		size= 166
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -12420,7 +12420,7 @@
 		size= 185
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = protestant
@@ -12478,7 +12478,7 @@
 
 }
 184 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -12499,7 +12499,7 @@
 		size= 47907
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -12527,7 +12527,7 @@
 		size= 958
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -12569,7 +12569,7 @@
 		size= 1032
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -12627,7 +12627,7 @@
 
 }
 185 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -12662,7 +12662,7 @@
 		size= 16183
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -12704,7 +12704,7 @@
 		size= 136
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -12760,7 +12760,7 @@
 		size= 105
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -12818,7 +12818,7 @@
 
 }
 186 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -12839,7 +12839,7 @@
 		size= 8509
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -12860,7 +12860,7 @@
 		size= 118
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -12911,7 +12911,7 @@
 
 }
 187 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -12967,7 +12967,7 @@
 		size= 7721
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -13023,7 +13023,7 @@
 		size= 960
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -13081,7 +13081,7 @@
 
 }
 188 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -13137,7 +13137,7 @@
 		size= 4242
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -13193,7 +13193,7 @@
 		size= 1016
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -13251,7 +13251,7 @@
 
 }
 189 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -13307,7 +13307,7 @@
 		size= 4928
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = protestant
@@ -13363,7 +13363,7 @@
 		size= 906
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -13421,7 +13421,7 @@
 
 }
 190 = {
-	farmers=
+	slaves=
 	{
 		culture = cherokee
 		religion = totemism
@@ -13477,7 +13477,7 @@
 		size= 4145
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = cherokee
 		religion = protestant
@@ -13533,7 +13533,7 @@
 		size= 738
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -13591,7 +13591,7 @@
 
 }
 191 = {
-	farmers=
+	slaves=
 	{
 		culture = cherokee
 		religion = totemism
@@ -13647,7 +13647,7 @@
 		size= 3253
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -13703,7 +13703,7 @@
 		size= 1774
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -13761,7 +13761,7 @@
 
 }
 192 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -13817,7 +13817,7 @@
 		size= 17968
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = protestant
@@ -13873,7 +13873,7 @@
 		size= 1214
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -13922,7 +13922,7 @@
 		size= 2658
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -13971,7 +13971,7 @@
 		size= 55
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -14029,7 +14029,7 @@
 
 }
 193 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -14085,7 +14085,7 @@
 		size= 16106
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -14141,7 +14141,7 @@
 		size= 2564
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -14190,7 +14190,7 @@
 		size= 21
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -14248,7 +14248,7 @@
 
 }
 194 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -14304,7 +14304,7 @@
 		size= 3202
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -14360,7 +14360,7 @@
 		size= 2272
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -14418,7 +14418,7 @@
 
 }
 195 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -14474,7 +14474,7 @@
 		size= 26685
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = protestant
@@ -14530,7 +14530,7 @@
 		size= 5139
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -14586,7 +14586,7 @@
 		size= 6813
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = catholic
@@ -14642,7 +14642,7 @@
 		size= 1288
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -14700,7 +14700,7 @@
 
 }
 196 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -14756,7 +14756,7 @@
 		size= 2414
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -14812,7 +14812,7 @@
 		size= 1492
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -14870,7 +14870,7 @@
 
 }
 197 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -14926,7 +14926,7 @@
 		size= 2242
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -14982,7 +14982,7 @@
 		size= 982
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -15040,7 +15040,7 @@
 
 }
 198 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -15089,7 +15089,7 @@
 		size= 3130
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_antillean
 		religion = protestant
@@ -15145,7 +15145,7 @@
 		size= 1281
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -15203,7 +15203,7 @@
 
 }
 199 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -15259,7 +15259,7 @@
 		size= 2939
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -15480,7 +15480,7 @@
 
 }
 201 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -15536,7 +15536,7 @@
 		size= 7892
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = protestant
@@ -15592,7 +15592,7 @@
 		size= 893
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -15650,7 +15650,7 @@
 
 }
 202 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -15706,7 +15706,7 @@
 		size= 6554
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -15764,7 +15764,7 @@
 
 }
 204 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -15820,7 +15820,7 @@
 		size= 7594
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -15878,7 +15878,7 @@
 
 }
 205 = {
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -15934,7 +15934,7 @@
 		size= 3338
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -15992,7 +15992,7 @@
 
 }
 206 = {
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -16048,7 +16048,7 @@
 		size= 5318
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -16106,7 +16106,7 @@
 
 }
 207 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -16155,7 +16155,7 @@
 		size= 3676
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -16192,7 +16192,7 @@
 
 }
 208 = {
-	farmers=
+	slaves=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -16248,7 +16248,7 @@
 		size= 5961
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -16306,7 +16306,7 @@
 
 }
 209 = {
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -16362,7 +16362,7 @@
 		size= 3394
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -16420,7 +16420,7 @@
 
 }
 210 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -16476,7 +16476,7 @@
 		size= 1521
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -16532,7 +16532,7 @@
 		size= 13053
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -16590,11 +16590,11 @@
 
 }
 211 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 1006
+		size= 10706
 	}
 
 	soldiers=
@@ -16639,11 +16639,11 @@
 		size= 18154
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
-		size= 3389
+		size= 39389
 	}
 
 	soldiers=
@@ -16697,11 +16697,11 @@
 
 }
 212 = {
-	farmers=
+	slaves=
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 083
+		size= 6083
 	}
 
 	soldiers=
@@ -16790,7 +16790,7 @@
 
 }
 213 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -16839,7 +16839,7 @@
 		size= 3693
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -16897,7 +16897,7 @@
 
 }
 214 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -16946,7 +16946,7 @@
 		size= 5245
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -17004,7 +17004,7 @@
 
 }
 215 = {
-	farmers=
+	slaves=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -17060,7 +17060,7 @@
 		size= 4541
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -17118,7 +17118,7 @@
 
 }
 216 = {
-	farmers=
+	slaves=
 	{
 		culture = siouan
 		religion = totemism
@@ -17209,7 +17209,7 @@
 		size= 1528
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = cherokee
 		religion = totemism
@@ -17265,7 +17265,7 @@
 		size= 4995
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = cherokee
 		religion = protestant
@@ -17323,7 +17323,7 @@
 
 }
 217 = {
-	farmers=
+	slaves=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -17351,7 +17351,7 @@
 		size= 4392
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -17372,7 +17372,7 @@
 		size= 17
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -17430,7 +17430,7 @@
 
 }
 218 = {
-	farmers=
+	slaves=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -17486,7 +17486,7 @@
 		size= 31043
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -17539,16 +17539,16 @@
 	{
 		culture = dixie
 		religion = protestant
-		size= 6149
+		size= 61649
 	}
 
 }
 219 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 386
+		size= 3986
 	}
 
 	soldiers=
@@ -17562,14 +17562,14 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 394
+		size= 3954
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
-		size= 1375
+		size= 18375
 	}
 
 	soldiers=
@@ -17623,10 +17623,10 @@
 
 }
 220 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
-		religion = jewish
+		religion = totemism
 		size= 20431
 	}
 
@@ -17679,7 +17679,7 @@
 		size= 12842
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -17737,7 +17737,7 @@
 
 }
 221 = {
-	farmers=
+	slaves=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -17830,7 +17830,7 @@
 
 }
 222 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -17865,7 +17865,7 @@
 		size= 10507
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -17923,7 +17923,7 @@
 
 }
 223 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -17944,7 +17944,7 @@
 		size= 6416
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -17972,7 +17972,7 @@
 		size= 235
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -18358,7 +18358,7 @@
 
 }
 227 = {
-	farmers=
+	slaves=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -18379,7 +18379,7 @@
 		size= 16426
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -18544,7 +18544,7 @@
 
 }
 229 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -18565,7 +18565,7 @@
 		size= 10595
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -18767,7 +18767,7 @@
 
 }
 232 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -18788,7 +18788,7 @@
 		size= 26463
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = protestant
@@ -18844,7 +18844,7 @@
 		size= 11721
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -19353,7 +19353,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 209
+		size= 20943
 	}
 
 	soldiers=
@@ -19968,7 +19968,7 @@
 
 }
 241 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -20010,7 +20010,7 @@
 		size= 13337
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -20068,7 +20068,7 @@
 
 }
 242 = {
-	farmers=
+	slaves=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -20117,7 +20117,7 @@
 		size= 11799
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -20968,7 +20968,7 @@
 
 }
 2555 = {
-	farmers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
@@ -21024,7 +21024,7 @@
 		size= 6369
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -21082,11 +21082,11 @@
 
 }
 2556 = {
-	farmers=
+	slaves=
 	{
 		culture = cherokee
 		religion = totemism
-		size= 1074
+		size= 10074
 	}
 
 	soldiers=
@@ -21138,7 +21138,7 @@
 		size= 25753
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = cherokee
 		religion = protestant
@@ -21194,7 +21194,7 @@
 		size= 2904
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = afro_american
 		religion = protestant
@@ -21547,7 +21547,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 1688
+		size= 18688
 	}
 
 }

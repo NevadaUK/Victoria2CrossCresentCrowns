@@ -1,7 +1,6 @@
 owner=PEU
 controller=PEU
-add_core=AML
-add_core=AM2
+add_core=PEU
 trade_goods = wool
 life_rating = 30
 terrain = mountain

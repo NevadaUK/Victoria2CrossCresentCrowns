@@ -1,7 +1,5 @@
 owner=PEU
 controller=PEU
-add_core=AML
-add_core=AM2
 trade_goods = timber
 life_rating = 30
 terrain = plains

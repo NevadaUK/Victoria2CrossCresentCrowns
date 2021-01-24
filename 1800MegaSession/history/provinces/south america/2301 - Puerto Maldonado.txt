@@ -1,7 +1,6 @@
 owner=PEU
 controller=PEU
 add_core=PEU
-add_core=NVP
 trade_goods = timber
 life_rating = 30
 terrain = mountain

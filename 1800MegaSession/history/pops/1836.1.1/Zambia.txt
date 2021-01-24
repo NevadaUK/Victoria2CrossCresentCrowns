@@ -503,15 +503,15 @@
 2017 = {
 	aristocrats=
 	{
-		culture = boer
-		religion = catholic
+		culture = lunda
+		religion = animist
 		size= 100
 	}
 
 	aristocrats=
 	{
-		culture = boer
-		religion = catholic
+		culture = african_minor
+		religion = animist
 		size= 200
 	}
 
@@ -545,8 +545,8 @@
 
 	farmers=
 	{
-		culture = boer
-		religion = catholic
+		culture = lunda
+		religion = animist
 		size= 1525
 	}
 

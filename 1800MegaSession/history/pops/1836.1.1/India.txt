@@ -10,14 +10,14 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 13370
+		size= 1337
 	}
 
 	clergymen=
 	{
 		culture = pashtun
 		religion = sunni
-		size= 4350
+		size= 435
 	}
 
 	bureaucrats=
@@ -45,7 +45,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 639530
+		size= 63953
 	}
 
 	soldiers=
@@ -145,7 +145,7 @@
 	{
 		culture = baluchi
 		religion = sunni
-		size= 535620
+		size= 53562
 	}
 
 	soldiers=
@@ -347,7 +347,7 @@
 	{
 		culture = baluchi
 		religion = sunni
-		size= 69852
+		size= 39852
 	}
 
 }
@@ -545,7 +545,7 @@
 	{
 		culture = kashmiri
 		religion = hindu
-		size= 63190
+		size= 13190
 	}
 
 }
@@ -647,7 +647,7 @@
 	{
 		culture = kashmiri
 		religion = theravada
-		size= 53560
+		size= 13560
 	}
 
 	soldiers=
@@ -696,7 +696,7 @@
 	{
 		culture = kashmiri
 		religion = shiite
-		size= 13359
+		size= 3359
 	}
 
 	soldiers=
@@ -745,7 +745,7 @@
 	{
 		culture = kashmiri
 		religion = gelugpa
-		size= 43903
+		size= 3903
 	}
 
 	soldiers=
@@ -845,7 +845,7 @@
 	{
 		culture = kashmiri
 		religion = gelugpa
-		size= 83890
+		size= 23890
 	}
 
 	soldiers=
@@ -3418,14 +3418,14 @@
 	{
 		culture = bengali
 		religion = hindu
-		size= 13550
+		size= 1355
 	}
 
 	artisans=
 	{
 		culture = bengali
 		religion = hindu
-		size= 49920
+		size= 4992
 	}
 
 	clergymen=
@@ -7212,7 +7212,7 @@
 	{
 		culture = telegu
 		religion = hindu
-		size= 10330
+		size= 1033
 	}
 
 	artisans=

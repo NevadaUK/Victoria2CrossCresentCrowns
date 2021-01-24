@@ -83,7 +83,7 @@ KFK_socialist;Roos Party;;;;;;;;;;;;;x
 KFK_reactionary;Mijne Heren Party;;;;;;;;;;;;;x
 KFK_communist_2;Radicale Arbeidersvakbond;;;;;;;;;;;;;x
 KFK_fascist;Vaderlandwacht Party;;;;;;;;;;;;;x
-JRB_conservative;United Party;;;;;;;;;;;;;x
+JRB_conservative;
 JRB_liberal;Free Green Party;;;;;;;;;;;;;x
 JRB_reactionary;Old Govern Party;;;;;;;;;;;;;x
 JRB_anarcho_liberals;Merchants Party;;;;;;;;;;;;;x
@@ -91,49 +91,3 @@ JRB_socialist;Red-Bay Labour Party;;;;;;;;;;;;;x
 JRB_socialist_2;Islamic-Socalist Party;;;;;;;;;;;;;x
 JRB_communist;Farmers and Workers United Front;;;;;;;;;;;;;x
 JRB_fascist;Greenshirt Party;;;;;;;;;;;;;x
-BVS_conservative;South Party;;;;;;;;;;;;;x
-BVS_liberal;Merchant Party;;;;;;;;;;;;;x
-BVS_anarcho_liberal;Green Party;;;;;;;;;;;;;x
-BVS_conservative_2;Sea-Stern Party;;;;;;;;;;;;;x
-BVS_conservative_3;Blue Party;;;;;;;;;;;;;x
-BVS_liberal_2;Small-Hill Party;;;;;;;;;;;;;x
-BVS_reactionary;Purple Party;;;;;;;;;;;;;x
-BVS_socialist;Bolivarian Labour Party;;;;;;;;;;;;;x
-BVS_communist;United Bolivar Party;;;;;;;;;;;;;x
-BVS_fascist;Statist Party;;;;;;;;;;;;;x
-MDN_reactionary;La Romanza;;;;;;;;;;;;;x
-MDN_conservative;Cruz Templarinos;;;;;;;;;;;;;x
-MDN_anarcho_liberal;Progreso;;;;;;;;;;;;;x
-MDN_socialist;Santa Union;;;;;;;;;;;;;x
-MDN_liberal;Liberales;;;;;;;;;;;;;x
-MDN_communist;Union de Sirvos;;;;;;;;;;;;;x
-MDN_fascist;Las Astillas;;;;;;;;;;;;;x
-LSL_conservative;Roble Party;;;;;;;;;;;;;x
-LSL_liberal;El Sauce Union;;;;;;;;;;;;;x
-LSL_reactionary;Proteger Party;;;;;;;;;;;;;x
-LSL_anarcho_liberal;Hojas Guild;;;;;;;;;;;;;x
-LSL_socialist;Trabajo Verde;;;;;;;;;;;;;x
-LSL_communist;Woodcutters Union;;;;;;;;;;;;;x
-LSL_fascist;Roble y Espada;;;;;;;;;;;;;x
-CDH_conservative;La Mena Party;;;;;;;;;;;;;x
-CDH_liberal;Litoral Party;;;;;;;;;;;;;x
-CDH_liberal_2;Industria Libre Party;;;;;;;;;;;;;x
-CDH_reactionary;Reloj de Fronteras;;;;;;;;;;;;;x
-CDH_anarcho_liberal;Costa Libre;;;;;;;;;;;;;x
-CDH_socialist;Mineros United;;;;;;;;;;;;;x
-CDH_communist;Frente Social;;;;;;;;;;;;;x
-CDH_fascist;Guardias de Hierro;;;;;;;;;;;;;x
-LGJ_conservative;Campo Party;;;;;;;;;;;;;x
-LGJ_liberal;Gallo Party;;;;;;;;;;;;;x
-LGJ_reactionary;Reformista Party;;;;;;;;;;;;;x
-LGJ_anarcho_liberal;Free Vacas Guild;;;;;;;;;;;;;x
-LGJ_socialist;Gran Labor;;;;;;;;;;;;;x
-LGJ_communist;Labriego Unido;;;;;;;;;;;;;x
-LGJ_fascist;Batas Cruzadas;;;;;;;;;;;;;x
-JSO_reactionary;St. Ignatius Council;;;;;;;;;;;;;x
-JSO_conservative;Templario de Hierba;;;;;;;;;;;;;x
-JSO_anarcho_liberal;Hombres de Mision;;;;;;;;;;;;;x
-JSO_socialist;Jesuits Workers;;;;;;;;;;;;;x
-JSO_liberal;Sacerdotes Libres;;;;;;;;;;;;;x
-JSO_communist;Uruguay Workers Movement;;;;;;;;;;;;;x
-JSO_fascist;Espada de Jesus;;;;;;;;;;;;;x

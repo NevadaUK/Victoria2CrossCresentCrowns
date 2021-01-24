@@ -27,7 +27,7 @@ press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=harassment
 
-ruling_party = ZUL_conservative
+ruling_party = conservative
 upper_house = 
 {
 	fascist = 0

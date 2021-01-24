@@ -1,6 +1,5 @@
 owner=MEX
 controller=MEX
-add_core=MDN
 trade_goods = timber
 life_rating = 25
 terrain = jungle

@@ -1,7 +1,5 @@
 owner=PEU
 controller=PEU
-add_core=AML
-add_core=AM3
 trade_goods = wool
 life_rating = 35
 terrain = hills
