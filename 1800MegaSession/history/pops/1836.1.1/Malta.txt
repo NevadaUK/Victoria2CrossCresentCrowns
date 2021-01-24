@@ -36,8 +36,8 @@
 
 	aristocrats=
 	{
-		culture = maltese
-		religion = catholic
+		culture = english
+		religion = protestant
 		size= 139
 	}
 
@@ -45,7 +45,7 @@
 	{
 		culture = maltese
 		religion = catholic
-		size= 30129
+		size= 10129
 	}
 
 	soldiers=

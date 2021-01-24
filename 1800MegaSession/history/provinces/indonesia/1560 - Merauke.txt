@@ -1,7 +1,7 @@
-owner=POR
-controller=POR
-add_core=POR
+owner=NGN
+controller=NGN
+add_core=NGN
 trade_goods = fish
-life_rating = 30
-terrain = jungle
+life_rating = 35
+terrain = farmlands
 naval_base = 2

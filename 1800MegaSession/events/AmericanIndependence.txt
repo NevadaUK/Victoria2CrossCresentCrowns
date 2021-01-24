@@ -28,3 +28,28 @@ country_event = {
 			  prestige = -20
 	               }
 }
+country_event = {
+	id = 177646
+	title = "The Second Contiental Congress"
+	desc = "."
+	major = yes
+	fire_only_once = yes
+	trigger = {
+		tag = THI
+		NOT = {
+			year = 1840
+		}
+		}
+	mean_time_to_happen = { 
+			months = 5
+	}
+	
+	option = {
+		name = "Independence is the only way forward. We must regain our natural rights as Englishmen."
+			  set_country_flag = indieventstarted	
+	        }
+	option = {
+		name = "This treason against the crown must halt."
+			  prestige = -20
+	               }
+}

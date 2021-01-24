@@ -3,28 +3,28 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 1725
+		size= 17250
 	}
 
 	artisans=
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 616
+		size= 6160
 	}
 
 	clergymen=
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 100
+		size= 1000
 	}
 
 	bureaucrats=
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 29
+		size= 290
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 28186
+		size= 281860
 	}
 
 	soldiers=

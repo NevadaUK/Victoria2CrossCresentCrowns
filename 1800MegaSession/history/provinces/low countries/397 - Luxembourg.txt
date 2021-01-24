@@ -2,7 +2,7 @@ owner=BRG
 controller=BRG
 
 add_core=WLL
-add_core=HRE
+
 trade_goods = iron
 life_rating = 35
 terrain = woods

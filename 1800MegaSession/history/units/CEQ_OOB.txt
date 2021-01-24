@@ -297,8 +297,7 @@ PEU = {
 	level = 2
 }
 POR = {
-	value = 27
-	military_access = yes
+	value = -20
 	level = 2
 }
 PRU = {
@@ -418,8 +417,8 @@ X04 = {
 
 #Armies
 army = {
-	name="4th Army"
-	location=2407
+	name="Comando Paraíba"
+	location=2428
 	regiment = {
 		name="1st Januária Infantry"
 		type=infantry
@@ -448,7 +447,7 @@ army = {
 }
 
 army = {
-	name="9th Army"
+	name="Grupo da Amazônia Ocidental"
 	location=2424
 	regiment = {
 		name="1st Recife Infantry"
@@ -483,8 +482,8 @@ army = {
 }
 
 army = {
-	name="10th Army"
-	location=2418
+	name="Exército do Rio de Janeiro"
+	location=2447
 	regiment = {
 		name="1st Oeiras Infantry"
 		type=infantry
@@ -515,11 +514,6 @@ army = {
 		type=artillery
 		home=2459
 	}
-}
-
-army = {
-	name="3rd Army"
-	location=2432
 	regiment = {
 		name="1st Campos Infantry"
 		type=infantry
@@ -548,8 +542,8 @@ army = {
 }
 
 army = {
-	name="7th Army"
-	location=2341
+	name="Corpo Luso-Brasileiro"
+	location=2461
 	regiment = {
 		name="1st São Miguel Infantry"
 		type=infantry
@@ -570,35 +564,15 @@ army = {
 		type=artillery
 		home=2438
 	}
-}
-
-army = {
-	name="6th Army"
-	location=1432
 	regiment = {
 		name="1st Paraíba Infantry"
 		type=infantry
 		home=2428
 	}
-	regiment = {
-		name="1st Natal Infantry"
-		type=infantry
-		home=2431
-	}
-	regiment = {
-		name="1st Vitória Artillery"
-		type=artillery
-		home=2449
-	}
-	regiment = {
-		name="3rd Recife Artillery"
-		type=artillery
-		home=2432
-	}
 }
 
 navy = {
-	name="15th Fleet"
+	name="Frota de Salvador"
 	location=2451
 	ship = {
 		name="1st Fortaleza Man'o'war"
@@ -636,24 +610,10 @@ navy = {
 		name="2nd Natal Frigate"
 		type=frigate
 	}
-}
-
-navy = {
-	name="8th Fleet"
-	location=2986
 	ship = {
 		name="1st Salvador de Bahia Frigate"
 		type=frigate
 	}
-	ship = {
-		name="5th Salvador de Bahia Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="1st Fleet"
-	location=2986
 	ship = {
 		name="2nd Salvador de Bahia Frigate"
 		type=frigate
@@ -661,36 +621,7 @@ navy = {
 }
 
 navy = {
-	name="3rd Fleet"
-	location=2985
-	ship = {
-		name="1st Aracaju Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Recife Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Aracaju Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Salvador de Bahia Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Aracaju Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Salvador de Bahia Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="5th Fleet"
+	name="Frota de Pernambuco"
 	location=2432
 	ship = {
 		name="1st Salvador de Bahia Clipper Transport"
@@ -775,6 +706,30 @@ navy = {
 	ship = {
 		name="13th Salvador de Bahia Clipper Transport"
 		type=clipper_transport
+	}
+		ship = {
+		name="1st Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Recife Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Salvador de Bahia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Salvador de Bahia Frigate"
+		type=frigate
 	}
 }
 

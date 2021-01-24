@@ -307,7 +307,7 @@ PRU = {
 	influence_value = 1
 	level = 3
 }
-QUE = {
+CAN = {
 	value = 75
 	military_access = yes
 	influence_value = 56
@@ -388,9 +388,7 @@ URB = {
 }
 USA = {
 	value = 75
-	military_access = yes
-	influence_value = 56
-	level = 5
+	level = 2
 }
 VIJ = {
 	value = 0

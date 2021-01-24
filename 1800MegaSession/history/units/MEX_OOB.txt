@@ -53,7 +53,7 @@ BRG = {
 	level = 2
 }
 BUE = {
-	value = 0
+	value = 200
 	level = 2
 }
 BUG = {
@@ -293,7 +293,7 @@ PER = {
 	level = 2
 }
 PEU = {
-	value = 0
+	value = 200
 	level = 2
 }
 POR = {
@@ -345,8 +345,7 @@ SIN = {
 	level = 2
 }
 SPA = {
-	value = 0
-	military_access = yes
+	value = -200
 	level = 2
 }
 SVY = {
@@ -431,45 +430,45 @@ army = {
 	regiment = {
 		name="1st Guaymas Infantry"
 		type=infantry
-		home=2141
+		home=2172
 	}
 	regiment = {
 		name="1st Bluefields Infantry"
 		type=infantry
-		home=2200
+		home=2171
 	}
 	regiment = {
-		name="1st León Artillery"
+		name="1st Leon Artillery"
 		type=artillery
-		home=2199
+		home=2160
 	}
 	regiment = {
 		name="1st Quito Infantry"
 		type=infantry
-		home=2279
+		home=2150
 	}
 	regiment = {
-		name="2nd León Artillery"
+		name="2nd Leon Artillery"
+		type=artillery
+		home=2178
+	}
+	regiment = {
+		name="3rd Leon Artillery"
 		type=artillery
 		home=2199
 	}
 	regiment = {
-		name="3rd León Artillery"
+		name="4th Leon Artillery"
 		type=artillery
 		home=2199
 	}
 	regiment = {
-		name="4th León Artillery"
+		name="5th Leon Artillery"
 		type=artillery
 		home=2199
 	}
 	regiment = {
-		name="5th León Artillery"
-		type=artillery
-		home=2199
-	}
-	regiment = {
-		name="6th León Artillery"
+		name="6th Leon Artillery"
 		type=artillery
 		home=2199
 	}
@@ -477,7 +476,7 @@ army = {
 
 navy = {
 	name="16th Fleet"
-	location=2823
+	location=2150
 	ship = {
 		name="1st Veracruz Frigate"
 		type=frigate

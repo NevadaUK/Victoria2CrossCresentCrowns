@@ -1,6 +1,7 @@
 owner=BUE
 controller=BUE
 add_core=BUE
+add_core=GDR
 trade_goods = fruit
 life_rating = 35
 terrain = mountain

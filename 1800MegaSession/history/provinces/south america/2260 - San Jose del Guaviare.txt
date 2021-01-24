@@ -1,5 +1,6 @@
 owner=MEX
 controller=MEX
+add_core=MDN
 trade_goods = cattle
 life_rating = 25
 terrain = jungle

@@ -1,11 +1,11 @@
-capital = 57
+capital = 65
 primary_culture = anglo_canadian
 culture = zzz_religion_protestant
 religion = protestant
 government = hms_government
 plurality = 0
 nationalvalue = nv_order
-literacy = 0
+literacy = 0.299306
 
 civilized = yes
 
@@ -25,15 +25,15 @@ upper_house_composition=appointed
 voting_system=first_past_the_post
 public_meetings=yes_meeting
 press_rights=censored_press
-trade_unions=all_trade_unions
+trade_unions=no_trade_unions
 political_parties=non_secret_ballots
 
-ruling_party = conservative
+ruling_party = CAN_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 25
-	conservative = 65
+	liberal = 20
+	conservative = 70
 	reactionary = 10
 	anarcho_liberal = 0
 	socialist = 0
@@ -45,6 +45,33 @@ consciousness = 0
 nonstate_consciousness= 0
 
 # Technologies
+<<<<<<< HEAD
+ad_hoc_money_bill_printing = 1
+alphabetic_flag_signaling = 1
+army_command_principle = 1
+battleship_column_doctrine = 1
+=======
+>>>>>>> 94f3d399883807afb42f2c1c389f6fcd85b5066a
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+clipper_design = 1
+early_classical_theory_and_critique = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+late_enlightenment_philosophy = 1
+market_structure = 1
+naval_design_bureaus = 1
+no_standard = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+private_banks = 1
+publishing_industry = 1
+steamers = 1
+stock_exchange = 1
+the_command_principle = 1
+water_wheel_power = 1
 prestige=0
 oob = "CAN_OOB.txt"
 set_country_flag = religi

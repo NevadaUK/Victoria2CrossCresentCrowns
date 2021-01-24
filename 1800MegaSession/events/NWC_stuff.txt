@@ -1,0 +1,196 @@
+country_event = {	#Mexico Collapse
+	id = 65010
+	title = "NWCTIT10"
+	desc = "NWCDES10"
+	major = yes
+	
+	trigger = {
+		tag = MEX
+		war = no
+		NOT = {
+			has_global_flag = mex_collapsed
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+	}
+	
+	option = {
+		name = "Mierda..."
+		release = CAL
+		release = NMC
+		release = TEX
+		release = NMY
+		release = SMY
+		release = UCA
+		release = COD
+		release = KFK
+		release = JRB
+		release = BVS
+		release = GUY
+		release = ECU
+		release = MDN
+		any_pop = {
+			consciousness = 5
+			militancy = 6
+		}
+		set_global_flag = mex_collapsed
+
+	}
+}
+
+country_event = {	#Peru Collapse pt1
+	id = 65011
+	title = "NWCTIT11"
+	desc = "NWCDES11"
+	picture = "peru1"
+	trigger = {
+		tag = PEU
+		war = no
+		NOT = {
+			has_global_flag = peu_assassin
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		
+	}
+	
+	option = {
+		name = "Who would do this?"
+		any_pop = {
+			consciousness = 3
+			militancy = 6
+		}
+		set_global_flag = peu_assassin
+
+	}
+	option = {
+		name = "In Vargas we trust."
+		any_pop = {
+			consciousness = 6
+			militancy = 3
+		}
+		set_global_flag = peu_assassin
+
+	}
+}
+
+country_event = {	#Peru Collapse pt2
+	id = 65012
+	title = "NWCTIT12"
+	desc = "NWCDES12"
+	major= yes
+	has_global_flag = peu_assassin
+	trigger = {
+		tag = PEU
+		war = no
+		has_global_flag = peu_assassin
+		NOT = {
+			has_global_flag = peu_collapsed
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+	}
+	
+	option = {
+		name = "Mierda..."
+		release = LSL
+		release = NVP
+		release = LGJ
+		release = AM1
+		release = AM2
+		release = AM3
+		any_pop = {
+			consciousness = 5
+			militancy = 5
+		}
+		set_global_flag = peu_collapsed
+
+	}
+}
+
+country_event = {	#Peru Collapse pt3
+	id = 65014
+	title = "NWCTIT14"
+	desc = "NWCDES14"
+	picture = "IronCoastR"
+	has_global_flag = peu_collapsed
+	trigger = {
+		tag = PEU
+		has_global_flag = peu_collapsed
+		NOT = {
+			has_global_flag = peu_gone
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+		
+	}
+
+	option = {
+		name = "We must stive to reunite!"
+		any_pop = {
+			consciousness = 5
+		}
+		set_global_flag = peu_gone
+
+	}
+	option = {
+		name = "The sun has set on Peru"
+		change_tag = CDH
+		any_pop = {
+			consciousness = -5
+			militancy = -5
+		}
+		set_global_flag = peu_gone
+
+	}
+
+}
+
+country_event = {	#Buenos Aires Collapse
+	id = 65013
+	title = "NWCTIT13"
+	desc = "NWCDES13"
+	major = yes
+	
+	trigger = {
+		tag = BUE
+		war = no
+		NOT = {
+			has_global_flag = bue_collapsed
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		
+	}
+	
+	option = {
+		name = "'It's a peaceful life'"
+		release = JSO
+		release = EPS
+		release = LCN
+		release = GDR
+		release = NAR
+		release = CRM
+		any_pop = {
+			consciousness = 3
+		}
+		set_global_flag = bue_collapsed
+
+	}
+}

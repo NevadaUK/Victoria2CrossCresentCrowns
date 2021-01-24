@@ -1,6 +1,6 @@
-owner=POR
-controller=POR
-add_core=POR
+owner=NGN
+controller=NGN
+add_core=NGN
 trade_goods = fruit
-life_rating = 15
+life_rating = 20
 terrain = plains

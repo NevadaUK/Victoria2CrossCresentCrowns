@@ -1,0 +1,51 @@
+political_decisions = {
+	form_united_aimara = {
+		potential = {
+			primary_culture = aimara
+			NOT = {
+				exists = AML
+			}
+		}	
+		allow = {
+			war = no
+			AML = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							province_id = 2310
+							province_id = 2313
+							province_id = 2369
+							owner = {
+								in_sphere = THIS
+							}
+							owner = {
+								vassal_of = THIS
+							}
+						}
+						NOT = {
+							culture = aimara
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+			change_tag = AML
+			inherit = AM1
+			inherit = AM2
+			inherit = AM3
+			any_owned = {
+				limit = {
+					is_core = AML
+				}
+				add_core = AML
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

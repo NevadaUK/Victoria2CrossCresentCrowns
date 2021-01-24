@@ -1,7 +1,9 @@
 owner=MEX
 controller=MEX
+add_core=MEX
+add_core=SMY
+add_core=MAY
 trade_goods = iron
 life_rating = 35
 terrain = plains
-colonial=2
 naval_base = 2

@@ -4,7 +4,7 @@ add_core=POL
 <<<<<<< HEAD
 add_core=SLA
 add_core=UKR
-add_core=HRE
+
 =======
 >>>>>>> parent of c55273f... restal1
 trade_goods = coal

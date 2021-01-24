@@ -1,6 +1,8 @@
 capital = 2279
 primary_culture = north_andean
 culture = zzz_religion_catholic
+culture = south_andean
+culture = chibchan
 religion = catholic
 government = democracy
 plurality = 0
@@ -28,7 +30,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
 
-ruling_party = conservative
+ruling_party = ECU_conservative
 upper_house = 
 {
 	fascist = 0

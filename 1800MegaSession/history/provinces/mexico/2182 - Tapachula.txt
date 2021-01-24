@@ -1,5 +1,7 @@
 owner=MEX
 controller=MEX
+add_core=SMY
+add_core=MAY
 trade_goods = cotton
 life_rating = 30
 terrain = plains

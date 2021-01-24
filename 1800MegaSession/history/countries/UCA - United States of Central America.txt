@@ -1,10 +1,10 @@
-capital = 2186
+capital = 2199
 primary_culture = central_american
 culture = zzz_religion_catholic
 religion = catholic
-government = democracy
+government = presidential_dictatorship
 plurality = 0
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
@@ -20,21 +20,21 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=wealth_weighted_voting
-upper_house_composition=state_equal_weight
+vote_franschise=none_voting
+upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
 
-ruling_party = conservative
+ruling_party = UCA_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
+	liberal = 33
+	conservative = 67
+	reactionary = 33
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

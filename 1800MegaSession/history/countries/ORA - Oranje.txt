@@ -1,7 +1,7 @@
-capital = 2101
+capital = 2017
 primary_culture = boer
-culture = zzz_religion_protestant
-religion = protestant
+culture = zzz_religion_catholic
+religion = catholic
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_liberty
@@ -27,7 +27,7 @@ press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = conservative
+ruling_party = ORA_conservative
 upper_house = 
 {
 	fascist = 0

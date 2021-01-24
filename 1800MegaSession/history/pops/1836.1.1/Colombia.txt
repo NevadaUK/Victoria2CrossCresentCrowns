@@ -150,49 +150,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 177
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 852
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 138
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 43
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 179
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 16244
 	}
@@ -350,49 +350,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 928
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 151
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 47
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 195
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 15651
 	}
@@ -548,49 +548,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 257
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 978
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 91
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 7755
 	}
@@ -648,49 +648,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 352
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 581
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 94
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 35
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 122
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 11351
 	}
@@ -881,49 +881,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 137
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 637
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 104
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 32
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 134
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 12594
 	}
@@ -1016,49 +1016,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 332
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 1529
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 249
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 77
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 428
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 30522
 	}
@@ -1116,49 +1116,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 373
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 1781
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 289
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 89
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 36
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 374
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 34111
 	}
@@ -1272,49 +1272,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 187
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 873
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 142
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 44
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 183
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 17264
 	}
@@ -1372,49 +1372,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 517
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 2524
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 410
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 126
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 50
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 530
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 47564
 	}
@@ -1472,49 +1472,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 187
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 873
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 142
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 44
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 183
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 17264
 	}
@@ -1572,49 +1572,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 1053
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 1771
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 287
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 88
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 71
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 372
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 33976
 	}
@@ -1721,49 +1721,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 233
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 425
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 69
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 90
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 7455
 	}
@@ -2003,49 +2003,49 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 233
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 425
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 69
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 90
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 7455
 	}
@@ -2271,51 +2271,51 @@
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 754
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 122
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 37
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 158
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
-		size= 12619
+		size= 10619
 	}
 
 	soldiers=
@@ -2363,7 +2363,7 @@
 	farmers=
 	{
 		culture = carribean
-		religion = animist
+		religion = catholic
 		size= 1985
 	}
 
@@ -2464,7 +2464,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 2588
+		size= 1588
 	}
 
 	soldiers=
@@ -2513,56 +2513,56 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 4288
+		size= 2288
 	}
 
 	soldiers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 95
 	}
 
 	artisans=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 471
 	}
 
 	clergymen=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 77
 	}
 
 	bureaucrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 24
 	}
 
 	officers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size= 99
 	}
 
 	farmers=
 	{
-		culture = north_andean
+		culture = central_american
 		religion = catholic
-		size= 8765
+		size= 7765
 	}
 
 }

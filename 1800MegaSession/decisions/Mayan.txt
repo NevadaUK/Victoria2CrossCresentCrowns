@@ -1,0 +1,51 @@
+political_decisions = {
+	form_united_maya = {
+		potential = {
+			primary_culture = mayan
+			NOT = {
+				exists = MAY
+			}
+		}	
+		allow = {
+			war = no
+			MAY = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							province_id = 2190
+							province_id = 2183
+							province_id = 2186
+							province_id = 2181
+							owner = {
+								in_sphere = THIS
+							}
+							owner = {
+								vassal_of = THIS
+							}
+						}
+						NOT = {
+							culture = mayan
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+			change_tag = MAY
+			inherit = SMY
+			inherit = NMY
+			any_owned = {
+				limit = {
+					is_core = MAY
+				}
+				add_core = MAY
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -15,6 +15,7 @@ political_decisions = {
 		prestige = 100
 		war = no
 		revolution_n_counterrevolution = 1
+		all_core = { remove_core = THIS }
 		NOT = {
 			exists = SLA
 			exists = HUN
@@ -63,10 +64,9 @@ political_decisions = {
 		prestige = 20
 		change_tag = KUK
 		add_accepted_culture = hungarian
-		any_owned_province = {
-			remove_core = AUS
+		all_core = { remove_core = THIS }
 			}
-	    	}
+
 	}
 
 	form_hre_austria = {
@@ -84,26 +84,29 @@ political_decisions = {
 			war = no
 			has_global_flag = austrian_civil_war_has_happened
 			has_country_flag = emperor_hre
-		
-			all_core = HRE { 
-					OR = {
-						owned_by = THIS
-						owner = { 
-							in_sphere = THIS
-							OR = {
-								is_vassal = no	
-								vassal_of = THIS
-							}
+			NOT = {
+				tag = HRE
+				tag = GER
 				}
-			  }
-			}
+			
 		  }
 		  
 		effect = {
 			prestige = 50
 			change_tag = HRE
-			add_accepted_culture = south_german
+			add_accepted_culture = north_german
 			add_accepted_culture = swiss
-			}	
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					has_country_flag = member_hre
+				}
+				THIS = {
+					prestige = 10
+				}
+				country_event = 250001
+				clr_country_flag = member_hre
+			}
+		}	
      }
 }
