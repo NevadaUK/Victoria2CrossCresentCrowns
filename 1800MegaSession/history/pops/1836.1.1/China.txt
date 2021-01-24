@@ -3,14 +3,14 @@
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 83
+		size= 830
 	}
 
 	artisans=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 166
+		size= 1660
 	}
 
 	clergymen=
@@ -45,7 +45,7 @@
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 3822
+		size= 38220
 	}
 
 	soldiers=
@@ -87,7 +87,7 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 4575
+		size= 45750
 	}
 
 	soldiers=
@@ -178,7 +178,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 2802
+		size= 28020
 	}
 
 }
@@ -201,7 +201,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 1095
+		size= 5095
 	}
 
 	bureaucrats=
@@ -382,7 +382,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 94674
+		size= 946740
 	}
 
 }
@@ -433,7 +433,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 63730
+		size= 637300
 	}
 
 }
@@ -484,7 +484,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 113470
+		size= 1134700
 	}
 
 }
@@ -535,7 +535,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 119922
+		size= 1199220
 	}
 
 }
@@ -637,7 +637,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 48865
+		size= 488650
 	}
 
 }
@@ -688,7 +688,7 @@
 	{
 		culture = manchu
 		religion = mahayana
-		size= 60632
+		size= 606320
 	}
 
 	soldiers=
@@ -8307,7 +8307,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 4919
+		size= 491900
 	}
 
 	artisans=

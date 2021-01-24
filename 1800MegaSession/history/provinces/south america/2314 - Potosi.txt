@@ -1,6 +1,7 @@
 owner=PEU
 controller=PEU
-add_core=PEU
+add_core=AM1
+add_core=AML
 trade_goods = grain
 life_rating = 30
 terrain = desert

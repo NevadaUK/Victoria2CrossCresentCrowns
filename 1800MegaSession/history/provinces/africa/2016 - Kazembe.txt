@@ -1,3 +1,6 @@
+owner=ORA
+controller=ORA
+add_core=ORA
 trade_goods = grain
 life_rating = 15
 terrain = plains

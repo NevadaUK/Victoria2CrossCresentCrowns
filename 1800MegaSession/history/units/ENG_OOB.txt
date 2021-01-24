@@ -307,7 +307,7 @@ PRU = {
 	influence_value = 1
 	level = 3
 }
-QUE = {
+CAN = {
 	value = 75
 	military_access = yes
 	influence_value = 56
