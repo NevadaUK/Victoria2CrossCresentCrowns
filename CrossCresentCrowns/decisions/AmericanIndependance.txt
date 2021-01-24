@@ -27,7 +27,7 @@ political_decisions = {
 			}
 		}
 	}
-	postcol_USA = {
+	convention_USA = {
 		image = apply_for_USA_statehood
 		potential = {
 			tag = THI
