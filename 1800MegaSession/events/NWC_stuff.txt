@@ -181,6 +181,12 @@ country_event = {	#Buenos Aires Collapse
 	
 	option = {
 		name = "'It's a peaceful life'"
+		release = JSO
+		release = EPS
+		release = LCN
+		release = GDR
+		release = NAR
+		release = CRM
 		any_pop = {
 			consciousness = 3
 		}
