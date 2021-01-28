@@ -519,7 +519,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 328056
+		size= 32805
 	}
 
 	soldiers=

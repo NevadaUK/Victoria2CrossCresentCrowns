@@ -1,4 +1,5 @@
-primary_culture = north_andean
+primary_culture = dummy
+culture = north_andean
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy
@@ -16,7 +17,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 # Political Reforms
-slavery=no_slavery
+slavery=yes_slavery
 vote_franschise=universal_voting
 upper_house_composition=appointed
 voting_system=jefferson_method

@@ -1,0 +1,21 @@
+political_decisions = {
+	release_calamar = {
+		potential = {
+			tag = MEX
+		}	
+		allow = {
+			war = no
+			NOT = {
+			has_global_flag = mex_collapsed
+			}
+		}
+		
+		effect = {
+			release = UCA
+			change_tag_no_core_switch = UCA
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

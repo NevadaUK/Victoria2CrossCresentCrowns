@@ -139,7 +139,7 @@ country_event = {	#Peru Collapse pt3
 	}
 
 	option = {
-		name = "We must stive to reunite!"
+		name = "No! We must stive to reunite!"
 		any_pop = {
 			consciousness = 5
 		}
@@ -153,6 +153,7 @@ country_event = {	#Peru Collapse pt3
 			consciousness = -5
 			militancy = -5
 		}
+		remove_core = PEU
 		set_global_flag = peu_gone
 
 	}
