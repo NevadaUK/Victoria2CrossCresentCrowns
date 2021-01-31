@@ -1,4 +1,4 @@
-owner=X01
+owner=BLC
 controller=BLC
 add_core=BLC
 add_core=X01
