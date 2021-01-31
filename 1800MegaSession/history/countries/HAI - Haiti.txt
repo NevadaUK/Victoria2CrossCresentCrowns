@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
 
-ruling_party = conservative
+ruling_party = HAI_conservative
 upper_house = 
 {
 	fascist = 0

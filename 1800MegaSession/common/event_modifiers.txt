@@ -773,3 +773,13 @@ victoria_tudor = {
 	rgo_output = 0.05
 	icon = 13
 }
+
+new_world_pox = {
+	population_growth = -0.02
+	pop_militancy_modifier = 0.01
+	icon = 18
+}
+russia_boom = {
+	population_growth = 0.02
+	icon = 17
+}

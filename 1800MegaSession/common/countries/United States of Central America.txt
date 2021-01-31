@@ -37,7 +37,7 @@ party = {
 	ideology = liberal
 
 	economic_policy = interventionism
-	trade_policy = pluralism
+	trade_policy = protectionism
 	religious_policy = secularized
 	citizenship_policy = full_citizenship
 	war_policy = jingoism

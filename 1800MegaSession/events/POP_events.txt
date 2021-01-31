@@ -1,0 +1,92 @@
+#Austrian civil war plague
+country_event = {
+	id = 21041
+	title = "EVTNAME21041"
+	desc = "EVTDESC21041"
+	picture = "smallpox"
+	
+	trigger = {
+		tag = AUS
+		war_with = SLA
+	}
+
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	option = {
+		name = "I don't care."
+		add_country_modifier = {
+		name = new_world_pox
+		duration = 1460
+		}
+		war_exhaustion = 2
+	}
+
+	option = {
+		name = "Restrict it."
+		AUS_625 = {
+			add_province_modifier = {
+				name = new_world_pox
+				duration = 1460
+				}
+		}
+		militancy = 2
+		consciousness = 2
+		
+		
+	}
+}
+
+country_event = {
+	id = 21042
+	title = "EVTNAME21042"
+	desc = "EVTDESC21042"
+	picture = "smallpox"
+	
+	trigger = {
+		tag = SLA
+		war_with = AUS
+	}
+
+	mean_time_to_happen = {
+		months = 6
+	}
+	fire_only_once = yes
+	
+	option = {
+		name = "We can do nothing."
+		add_country_modifier = {
+		name = new_world_pox
+		duration = 1460
+		}
+		war_exhaustion = 2
+	}
+}
+
+#Russian baby boom
+country_event = {
+	id = 21043
+	title = "EVTNAME21043"
+	desc = "EVTDESC21043"
+	picture = "babyboom"
+	trigger = {
+		tag = RUS
+		medicine = 1 #has this tech
+		NOT = {
+			has_global_flag = rus_baby_boom
+		}
+	}
+
+	mean_time_to_happen =  {
+		months = 6
+	}
+	option = {
+		name = "EVTOPTA21043"
+		add_country_modifier = {
+		name = russia_boom
+		duration = 3650
+		}
+		set_global_flag = rus_baby_boom
+	}
+}

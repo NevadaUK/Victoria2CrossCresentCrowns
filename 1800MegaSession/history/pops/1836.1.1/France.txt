@@ -7274,49 +7274,49 @@
 470 = {
 	soldiers=
 	{
-		culture = occitan
+		culture = north_italian
 		religion = catholic
 		size= 1315
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = north_italian
 		religion = catholic
-		size= 16745
+		size= 6745
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = north_italian
 		religion = catholic
 		size= 897
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = north_italian
 		religion = catholic
 		size= 335
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = north_italian
 		religion = catholic
 		size= 96
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = north_italian
 		religion = catholic
 		size= 1005
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = north_italian
 		religion = catholic
 		size= 111067
 	}

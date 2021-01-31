@@ -19,8 +19,17 @@ EVTDESC36898_NEWS_LONG;Princess Alexandrina Victoria of House Tudor has ascended
 EVTDESC36898_NEWS_MEDIUM;Princess Alexandrina Victoria has ascended the throne of The United Kingdom of Great Britain & Ireland. Today a jubilant crowd has escorted her to Buckingham Palace. People of all classes and creeds are delighted and she is looking forward to the tasks which accompany the office.;;;;;;;;;;;x;
 EVTDESC36898_NEWS_SHORT;Princess Victoria of House Tudor has ascended the throne of The United Kingdom of Great Britain & Ireland. People of all classes and creeds are delighted. King George will be greatly missed.;;;;;;;;;;;x;
 EVTNAME36898;Coronation of Queen Victoria;;;;;;;;;x;
-EVTDESC36898;On the 28th of June, 1838, princess Alexandrina Victoria of House Tudor ascended to the throne of The United Kingdom of Great Britain and Ireland as 'Queen Victoria'. Her reign, which would last even a few years into the 20th century, would later be remembered as the absolute zenith of the British Empire, upon which the sun never set. Today a jubilant crowd in London has escorted the young Queen Victoria to her residence in the newly built Buckingham Palace. The House of Tudor may no longer extend to the thrones of Russia or Spain but their homeland of Albion shall always remain, for there shall always be an Britian and Britons shall be free.;;;;;;;;;x;
+EVTDESC36898;On the 28th of June, 1838, princess Alexandrina Victoria of House Tudor ascended to the throne of The United Kingdom of Great Britain and Ireland as 'Queen Victoria'. Her reign, which would last even a few years into the 20th century, would later be remembered as the absolute zenith of the British Empire, upon which the sun never set. Today a jubilant crowd in London has escorted the young Queen Victoria to her residence in the newly built Buckingham Palace. The House of Tudor may no longer extend to the thrones of Russia or Spain but their homeland of Albion shall always remain, for there shall always be a Britian and Britons shall be free.;;;;;;;;;x;
 EVTOPTA36898;Victoria Regina!;Victoria Regina !;Victoria Regina!;;¡Victoria Regina!;;;;;;;;;x;
 EVTNAME36940;The Treaty of Waitangi;;;;;;x;;;;;;;
 EVTDESC36940;A new treaty formalizing the two Kingdoms of Australa and Zealand was signed, wherein the Maori and Aborigonal Chiefs recognized the sovereignty of Her Majesty Queen Victoria, and in turn she guaranteed the chiefs their lands, estates, forests and fisheries.;;;;;;x;;;;;;;
 EVTOPTA36940;Hooray!;Hourra !;;;;;;x;;;;;;;
+EVTNAME21041;The Civil War brings a plague;;;;;;x;;;;;;;
+EVTDESC21041;With the Civil War now raging away reports are coming in from all over about a growing pox capible of wiping out whole towns. If left unchecked this could damage our ability to wage this war.;;;;;;x;;;;;;;
+EVTNAME21042;The Civil War brings a plague;;;;;;x;;;;;;;
+EVTDESC21042;With the Civil War now raging away reports are coming in from all over about a growing pox capible of wiping out whole towns. If left unchecked this could damage our ability to wage this war.;;;;;;x;;;;;;;
+EVTNAME21043;Russian Baby Boom;;;;;;x;;;;;;;
+EVTDESC21043;With the recent advances in the fields of medicine the child mortallity rates within Russia have plummeted dramatically, with more children surviving to adulthood it seems that Russia shall likely experince a significant baby boom.;;;;;;x;;;;;;;
+EVTOPTA21043;We can hardly say no to more surfs.;;;;;;x;;;;;;;
+fra_integrate_brg_title;Integrate the Burgundians;x
+fra_integrate_brg_desc;Having restored Frances rightful place as one of the great powers, it is time for us to flex our that position by integrating the Burgundians directly into our nation.;x
