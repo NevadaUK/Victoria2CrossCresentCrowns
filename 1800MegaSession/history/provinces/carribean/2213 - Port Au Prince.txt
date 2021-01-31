@@ -1,7 +1,8 @@
 owner=SPA
 controller=SPA
-add_core=SPA
+add_core=HAI
 trade_goods = tobacco
 life_rating = 35
 terrain = mountain
 naval_base = 2
+colonial=2

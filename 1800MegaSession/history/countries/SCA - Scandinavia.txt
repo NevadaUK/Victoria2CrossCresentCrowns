@@ -78,6 +78,7 @@ romanticism = 1
 stock_exchange = 1
 the_command_principle = 1
 water_wheel_power = 1
+
 prestige=-10.6453
 oob = "SCA_OOB.txt"
 set_country_flag = member_hre

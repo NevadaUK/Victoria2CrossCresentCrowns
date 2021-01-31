@@ -1,4 +1,4 @@
-capital = 2571
+capital = 2509
 primary_culture = australian
 culture = aborigine
 culture = maori

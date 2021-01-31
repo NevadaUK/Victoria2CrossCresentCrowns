@@ -1,5 +1,5 @@
-owner=MNG
-controller=MNG
+owner=MLC
+controller=MLC
 add_core=BUR
 add_core=IDO
 trade_goods = fish

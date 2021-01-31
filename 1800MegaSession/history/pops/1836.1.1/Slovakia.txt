@@ -447,7 +447,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 11689
+		size= 1168
 	}
 
 	clergymen=

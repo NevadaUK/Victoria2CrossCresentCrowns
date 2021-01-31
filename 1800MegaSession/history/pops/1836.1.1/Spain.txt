@@ -106,9 +106,9 @@
 
 	bureaucrats=
 	{
-		culture = galician
+		culture = spanish
 		religion = protestant
-		size= 10
+		size= 100
 	}
 
 	officers=
@@ -953,7 +953,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 41405
+		size= 4140
 	}
 
 	clergymen=

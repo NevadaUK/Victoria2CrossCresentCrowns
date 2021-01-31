@@ -1,5 +1,7 @@
-owner=CHA
-controller=CHA
+owner=CYI
+controller=CYI
+add_core=CHI
+add_core=CYI
 add_core=CHA
 add_core=IDO
 trade_goods = tobacco

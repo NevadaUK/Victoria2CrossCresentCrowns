@@ -1,0 +1,22 @@
+political_decisions = {
+	fra_integrate_brg = {
+		potential = {
+			tag = FRA
+		}	
+		allow = {
+			war = no
+			BRG = {
+				in_sphere = FRA
+			}
+			not_have_country_flag=fra_brg
+		}
+		
+	effect = {
+		inherit = BRG
+		prestige = 10
+		set_country_flag=fra_brg
+	}	
+		ai_will_do = {
+			factor = 1
+		}
+}
