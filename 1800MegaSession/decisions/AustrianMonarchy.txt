@@ -15,7 +15,6 @@ political_decisions = {
 		prestige = 100
 		war = no
 		revolution_n_counterrevolution = 1
-		all_core = { remove_core = THIS }
 		NOT = {
 			exists = SLA
 			exists = HUN

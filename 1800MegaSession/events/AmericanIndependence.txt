@@ -1,7 +1,7 @@
 country_event = {
 	id = 230403
-	title = "The American Colonies Rebel!"
-	desc = "Text."
+	title = "INDTIT02"
+	desc = "INDDES02"
 	major = yes
 	trigger = {
 		tag = ENG
@@ -30,8 +30,8 @@ country_event = {
 }
 country_event = {
 	id = 177646
-	title = "The Second Contiental Congress"
-	desc = "."
+	title = "INDTIT01"
+	desc = "INDDES01"
 	major = yes
 	fire_only_once = yes
 	trigger = {
@@ -41,7 +41,7 @@ country_event = {
 		}
 		}
 	mean_time_to_happen = { 
-			months = 5
+			months = 4
 	}
 	
 	option = {

@@ -3,6 +3,7 @@ controller=X02
 add_core=GER
 add_core=TTL
 add_core=HRE
+add_core=WBF
 trade_goods = grain
 life_rating = 40
 terrain = plains

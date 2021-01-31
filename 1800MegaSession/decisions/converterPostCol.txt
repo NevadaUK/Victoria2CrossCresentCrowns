@@ -5,7 +5,7 @@ political_decisions = {
 			NOT = {
 				has_global_flag = der_postcolonialism #To avoid having it spammed
 			}
-			NOT = { year = 1862 } #To avoid having that decision check forever
+			NOT = { year = 1800 } #To avoid having that decision check forever
 		}
 		allow = {
 			ai = no

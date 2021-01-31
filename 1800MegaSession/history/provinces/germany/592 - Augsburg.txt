@@ -2,6 +2,7 @@ owner=MEM
 controller=MEM
 add_core=GER
 add_core=MEM
+add_core=WBF
 add_core=HRE
 trade_goods = cattle
 life_rating = 40

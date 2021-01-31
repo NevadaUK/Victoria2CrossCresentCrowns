@@ -3,6 +3,7 @@ controller=BYT
 add_core=BYT
 add_core=GER
 add_core=HRE
+add_core=WBF
 trade_goods = timber
 life_rating = 40
 terrain = plains
