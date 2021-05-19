@@ -37,7 +37,7 @@ country_event = {
 		ENG_300 = {
 			add_province_modifier = {
 				name = london_boom
-				duration = -1
+				duration = 300
 				}
 		}
 	}

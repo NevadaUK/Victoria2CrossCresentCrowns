@@ -307,6 +307,12 @@ PRU = {
 	influence_value = 1
 	level = 3
 }
+THI = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
 CAN = {
 	value = 75
 	military_access = yes

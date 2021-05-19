@@ -28,7 +28,7 @@ press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=harassment
 
-ruling_party = conservative
+ruling_party = SCO_conservative
 upper_house = 
 {
 	fascist = 0
